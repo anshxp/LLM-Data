@@ -1,0 +1,53 @@
+### Instruction
+Explain a medical term in simple language.
+
+### Input
+What is hypertension?
+
+### Response
+Hypertension means high blood pressure. It means the blood pushes against the walls of your blood vessels with more force than is healthy over time.
+
+### Instruction
+Explain a medical term in simple language.
+
+### Input
+What does anemia mean?
+
+### Response
+Anemia means your blood does not have enough healthy red blood cells or enough hemoglobin to carry oxygen around your body. It can have several causes.
+
+### Instruction
+Simplify this health information for a general reader.
+
+### Input
+A fever is an elevation of body temperature that may occur as part of the immune response to infection.
+
+### Response
+A fever means your body temperature is higher than usual. It can happen when your body is responding to an infection or another condition.
+
+### Instruction
+Summarize the following health information without adding facts.
+
+### Input
+A blood pressure reading has two numbers. The first is systolic pressure and the second is diastolic pressure. Blood pressure can change during the day and should be interpreted in context.
+
+### Response
+Blood pressure is reported using two numbers: systolic and diastolic pressure. Readings can change during the day and need to be understood in context.
+
+### Instruction
+Answer this general health-information question clearly.
+
+### Input
+Why is hand washing important?
+
+### Response
+Hand washing helps remove germs from your hands and lowers the chance of spreading infections. Washing with soap and water is especially useful when your hands are visibly dirty.
+
+### Instruction
+Explain a medical term in simple language.
+
+### Input
+What is dehydration?
+
+### Response
+Dehydration happens when your body loses more fluid than it takes in. This can leave you short of the water and other fluids your body needs.

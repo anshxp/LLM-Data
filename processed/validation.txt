@@ -1,0 +1,5565 @@
+307
+□ORIGINAL ARTICLE □
+Quality of Reports on Randomized Controlled Trials
+Conducted in Japan: Evaluation of Adherence to
+the CONSORT Statement
+Kae Uetani
+1, Takeo Nakayama
+1, Hiroshi Ikai
+3, Naohiro Yonemoto
+2 and David Moher
+4
+Abstract
+Objective
+The Consolidated Standards for Reporting of Trials (CONSORT) statement was developed to im-
+prove the quality of randomized controlled trial (RCT) reports. We assessed the quality of current Japanese
+RCT reports by conducting a cross-sectional study to examine the extent to which they adhere to the CON-
+SORT statement.
+Methods
+Reports of RCTs conducted in Japan that were published in medical journals between January
+and March 2004 were sampled from MEDLINE. The proportion of adherence to each item in the CONSORT
+checklist was evaluated for each report. Additionally, information on ethics reporting and funding sources
+was collected.
+Results
+A total of 98 RCT reports from Japan were evaluated, and adherence to the CONSORT statement
+was found to be suboptimal. Only 6 of 29 items in the checklist were described in more than 80% of reports.
+Adherence to key methodological items of the CONSORT statement was as follows: 23% for sample size de-
+termination, 39% for random sequence generation, 17% for allocation concealment, 29% for blinding, 53%
+for numbers analyzed, and 6% for inclusion of a flow diagram. Adherence to additional items was 82% for
+ethics committee approval, 92% for receiving informed consent, and 20% for disclosing funding sources.
+Conclusion
+Our study on adherence of recent RCT reports from Japan to the CONSORT statement reveals
+that there is a significant need for improvement. Further investigation on the quality of RCT reports and
+ways to improve reporting quality is required.
+Key words: randomized controlled trial, CONSORT statement, reporting quality
+(Inter Med 48: 307-313, 2009)
+(DOI: 10.2169/internalmedicine.48.1358)
+Introduction
+The importance of the randomized controlled trial (RCT),
+designed to evaluate the effectiveness of healthcare interven-
+tions, is now widely recognized following the movement of
+evidence-based medicine. As a clinical study design, a RCT
+is able to provide the highest level of evidence, and the in-
+formation it provides can be used for systematic reviews or
+meta-analyses. However, a RCT does not eliminate all types
+of bias, as various biases can arise during the designing,
+conducting, reporting, or application stages (1). As such, in-
+formation should be appropriately and transparently pre-
+sented in RCT reports so that readers can judge the validity
+of a conducted trial (2, 3).
+The
+Consolidated
+Standards
+for
+Reporting
+of
+Trials
+(CONSORT) statement was developed to help improve the
+quality of RCT reports and has been widely adopted by
+many journals and
+organizations (2-4). The
+CONSORT
+statement provides guidance on reporting RCTs, and is com-
+1Department of Health Informatics, Kyoto University School of Public Health, Kyoto,
+2Department of Biostatistics, Kyoto University School of
+Public Health, Kyoto,
+3Department of Primary Care and Emergency Medicine, Kyoto University Graduate School of Medicine, Kyoto and
+4De-
+partment of Epidemiology and Community Medicine, Faculty of Medicine, University of Ottawa, and the Ottawa Health Research Institute,
+Ottawa, Ontario, Canada
+Received for publication May 28, 2008; Accepted for publication November 11, 2008
+Correspondence to Dr. Takeo Nakayama, nakayama@pbh.med.kyoto-u.ac.jp
+
+Inter Med 48: 307-313, 2009
+DOI: 10.2169/internalmedicine.48.1358
+308
+prised of a checklist, flow diagram, an explanation (5), and
+extensions (6-11). Previous surveys have reported the impor-
+tance of incorporating a requirement to comply with the
+CONSORT statement and related extensions in the “Infor-
+mation for Authors” of medical journals (12, 13). Further-
+more, studies have demonstrated that adoption of the CON-
+SORT statement to “Information for Authors” of individual
+journals is associated with an increase in quality of RCT re-
+ports (14-16). While these studies examined particular medi-
+cal fields or journals, they did not address these issues based
+on geographical region. A recent regional study evaluating
+the adherence of Chinese RCT reports to the CONSORT
+statement revealed the need for improvement of reporting
+quality (17, 18).
+A number of clinical trials have been conducted in Japan.
+Approximately 1,000 investigator-initiated RCTs and 400
+company-sponsored clinical trials are conducted every year
+in Japan (19). However, previous studies have criticized
+Japanese reports for providing insufficient descriptions of
+methods (20) and lacking structured abstracts (21), which is
+indicative of inadequate overall quality. Our MEDLINE
+search failed to identify systematic studies that used the
+CONSORT checklist to evaluate the quality of RCT reports
+from Japan. We assessed the quality of current Japanese
+RCT reports by conducting a cross-sectional study to exam-
+ine the extent to which they adhere to the CONSORT state-
+ment.
+Materials and Methods
+Selection of RCT reports
+We used the MEDLINE database from PubMed to obtain
+RCT reports from Japan. PubMed search terms included
+“randomized controlled trial”[ptyp], “Japan”[ad], and “hu-
+mans”[MeSH Terms]. In order to consider the findings of
+Japanese clinical trials from an international perspective, we
+did not use databases of reports written in Japanese.
+Eligibility criteria
+Inclusion criteria included: 1) the report was published
+between January 1 and March 31, 2004; 2) the report was
+published as an original article; 3) the report involved only
+human participants; 4) the study groups were reported to
+have been randomly assigned; and 5) the study was con-
+ducted in Japan. Trial protocols and reports reanalyzing pre-
+viously published RCT data were excluded.
+To ensure that we included journals with varying publica-
+tion frequencies (e.g., weekly, biweekly, and monthly) we
+allowed a three-month window for the publication date.
+MEDLINE searches were performed and all potentially eli-
+gible full text articles were collected. These articles were
+then evaluated using the eligibility criteria.
+Data extraction
+We evaluated all eligible articles using the CONSORT
+checklist and flow diagram (3). The checklist consists of 22
+items, which are further divided for a total of 29 items in
+the explanation (5). These 29 items and the flow diagram
+were used for the evaluations. In addition, information was
+collected for the following items: ethics committee approval,
+receiving informed consent, and disclosing funding sources.
+These items are not included in the CONSORT checklist but
+are generally recommended (5, 22).
+Each report was assessed (yes, no) in terms of adherence
+to the checklist items. To standardize the evaluation, we pre-
+pared an evaluation manual in Japanese for all reviewers.
+We confirmed consistency with the CONSORT (2, 3), its
+explanation (5), and a checklist used in a previous study
+(16) (according to a facsimile received from Moher D in
+June 2002) when creating the checklist and manual. We did
+not evaluate the appropriateness of content; for example, we
+judged “yes” for the item “statistical methods (used to com-
+pare groups for primary outcome)” if a report included in-
+formation on the statistical method used, regardless of
+whether it was appropriate for the context. We also collected
+descriptive information, including publisher location, journal
+subject, journal’s CONSORT statement adoption, structured
+abstract, number of pages, number of groups, type of inter-
+ventions, number of participants, and study design (parallel
+controlled study or crossover study). In order to determine
+whether a particular journal adopted the CONSORT state-
+ment, we used the list of “supporter journals” provided by
+the CONSORT website (4).
+Five people with knowledge or experience in clinical trial
+methodology were involved in the data extraction process.
+All reviewed the evaluation manual prior to extracting data.
+Data were extracted by one reviewer (KU) and checked by
+three others (HI, NY, and YK) to ensure accuracy and con-
+sistency. Discrepancies were resolved by consensus between
+those in charge of the primary evaluation and then checked
+under the supervision of TN. We adopted the “checked by a
+second” method, which is recognized as a systematic review
+methodology and is used by the Cochrane Review Group to
+establish consensus between reviewers (23-25).
+Statistical analysis
+We conducted a descriptive analysis of all evaluated arti-
+cles. For background information, the number and propor-
+tion of the reports (country of publisher, subject of journal,
+journal’s adoption of CONSORT, structured abstract, num-
+ber of groups, type of intervention, study design) were cal-
+culated. The number of pages was presented as median,
+minimum, and maximum. The number of participants in
+each RCT was presented as minimum and maximum, and
+categorized to the nearest 50.
+In order to assess adherence to the CONSORT checklist
+items, we calculated the number and proportion of reports
+describing each of the 29 items with a flow diagram and
+three additional items, including ethics committee approval,
+informed
+consent
+received,
+and
+disclosure
+of
+funding
+sources. Additionally, we further calculated the number and
+
+Inter Med 48: 307-313, 2009
+DOI: 10.2169/internalmedicine.48.1358
+309
+Figure 1. Flow chart of articles considered for inclusion
+35 (26%) articles excluded:
+20
+Not RCTs
+5
+Not original articles
+3
+Reanalysis of RCTs
+3
+Study Protocols
+2
+Not clinical trials
+2
+Studies not in Japan
+133 articles identified by MEDLINE search
+98 (74%) articles of RCT reports evaluated and analyzed
+Table 1. Background Information of Japanese RCT
+Reports Evaluated with CONSORT
+Characteristic
+n = 98
+Journal & article
+Country of publisher
+Japan
+Non-Japan
+35 (36%)
+63 (64%)
+Subject of journal
+General
+Specialty
+2 (2%)
+96 (98%)
+Journal adoption of CONSORT
+Adopter
+Non-adopter
+11 (11%)
+87 (89%)
+Structured abstract
+67 (68%)
+Number of pages, median [min, max]
+6 [3, 11]
+RCT
+Number of groups
+2 groups
+3 or more groups
+69 (70%)
+29 (30%)
+Type of intervention
+Drug
+Non-drug
+70 (71%)
+28 (29%)
+Number of participants, [min, max]
+categorized by 50, n
+less than 50
+50 to 99
+100 to 149
+150 to 199
+200 or more
+[6, 1650]
+49 (50%)
+20 (20%)
+6 (6%)
+8 (8%)
+15 (15%)
+Study design, n
+Parallel controlled study
+Crossover study
+90 (92%)
+8 (8%)
+proportion of these items by whether or not the RCT report
+was published in a journal adopting the CONSORT state-
+ment. All analyses were performed using the statistical soft-
+ware JMP 5.1.2J (SAS Institute Inc., Cary, NC).
+Results
+Figure 1 shows the process of selecting study articles. A
+total of 133 citations were identified by a MEDLINE search
+conducted on January 10, 2005. We excluded 35 of these
+due to ineligibility. Thus, we evaluated and analyzed 98 re-
+ports of RCTs conducted in Japan that were published in 71
+medical journals. All articles were written in English.
+Table 1 presents background information on the RCT re-
+ports evaluated. A total of 11 (11%) RCT reports were pub-
+lished in journals adopting the CONSORT statement. Ta-
+ble 2 shows the adherence of 98 reports to the 29 CON-
+SORT items and flow diagram. Only 6 of the 29 CONSORT
+items were described in more than 80% of the 98 reports.
+Table 3 presents the number of reports that included ethics
+reporting and disclosed funding sources. For the three addi-
+tional items (ethics committee approval, informed consent
+received and disclosure of funding sources), adherence was
+higher in journals adopting the CONSORT statement.
+Discussion
+Many of the RCT reports from Japan published in early
+2004 did not adhere to CONSORT guidelines. This indicates
+that RCT reporting in Japan needs substantial improvement
+in order to meet the level of “report quality” required by the
+CONSORT statement. The most striking result was the lack
+of adherence to methodologically important items. Key
+methodological items (15) such as sample size determina-
+tion, random sequence generation, allocation concealment,
+blinding, and numbers analyzed were described in only 20-
+50% of the 98 reports. In particular, the flow diagram
+(which shows the flow of participants from group assign-
+ment through to the final analysis) is an item strongly rec-
+ommended by the CONSORT statement; however, only 6 of
+98 reports included flow diagrams. A previous study evalu-
+ated 253 RCT reports published in five leading medical
+journals, and more than 80% of reports included each of
+these items with the exception of allocation concealment,
+which was included in 50% of the reports (15). Although
+our study did not take into account factors such as journal
+impact factor, adherence in Japanese RCT reports was mark-
+edly lower than in the RCT reports included in previous
+studies (14-16). For many items, including key methodologi-
+cal items and information on ethics and funding sources, re-
+ports published in journals adopting the CONSORT state-
+ment exhibited a higher degree of adherence, a result consis-
+tent with previous findings (14). Requiring adherence to
+CONSORT guidelines in the “Information for Authors” of
+individual journals may improve quality of RCT reports in
+Japan.
+When the results of this study and previous Chinese stud-
+ies (17, 18) were compared, the Japanese reports had a
+higher reporting rate of each key methodological item. The
+study evaluating 307 Chinese RCT studies published in
+2004 (71 Chinese medical journals extracted from MED-
+LINE and other database) (17) revealed that 2.9% of the
+studies reported sample size determination, 35.2% reported
+random sequence generation, none reported allocation con-
+
+Inter Med 48: 307-313, 2009
+DOI: 10.2169/internalmedicine.48.1358
+310
+Table 2. Adherence of Japanese RCT Reports to CONSORT Items
+CONSORT item
+Reports described each item
+CONSORT
+No and Criteria
+Adopter
+(n=11)
+Non-adopter
+(n=87)
+All reports
+(n=98)
+TITLE & ABSTRACT
+1. How participants were allocated to interventions.
+10 (91%)
+69 (79%)
+79 (81%)
+INTRODUCTION
+Background
+2. Scientific background and explanation of rationale.
+9 (82%)
+60 (69%)
+69 (70%)
+METHODS
+Participants
+3a. Eligibility criteria for participants.
+11 (100%)
+59 (68%)
+70 (71%)
+3b. The settings and locations where the data were collected.
+6 (55%)
+39 (45%)
+45 (46%)
+Interventions
+4. Precise details of the interventions intended for each group and how and
+when they were actually administered.
+10 (91%)
+81 (93%)
+91 (93%)
+Objectives
+5. Specific objectives and hypotheses.
+10 (91%)
+82 (94%)
+92 (94%)
+Outcomes
+6a. Clearly defined primary and secondary outcome measures.
+4 (36%)
+21 (24%)
+25 (26%)
+6b. When applicable, any methods used to enhance the quality of
+measurements.
+7 (64%)
+33 (38%)
+40 (41%)
+Sample size
+7a. How sample size was determined.
+5 (45%)
+18 (21%)
+23 (23%)
+7b. When applicable, explanation of any interim analyses and stopping rules.
+3 (27%)
+4 (5%)
+7 (7%)
+Randomization --Sequence generation
+8a. Method used to generate the random allocation sequence.
+6 (55%)
+32 (37%)
+38 (39%)
+8b. Details of any restriction [of randomization].
+3 (27%)
+18 (21%)
+21 (21%)
+Randomization --Allocation concealment
+9. Method used to implement the random allocation sequence, clarifying
+4 (36%)
+13 (15%)
+17 (17%)
+whether the sequence was concealed until interventions were assigned.
+Randomization --Implementation
+10. Who generated the allocation sequence, who enrolled participants, and
+who assigned participants to their groups.
+3 (27%)
+12 (14%)
+15 (15%)
+Blinding (masking)
+11a. Whether or not participants, those administering the interventions, and
+those assessing the outcomes were blinded to group assignment.
+6 (55%)
+22 (25%)
+28 (29%)
+11b. If done, how the success of blinding was evaluated.
+0
+0
+0
+Statistical methods
+12a. Statistical methods used to compare groups for primary outcome(s).
+11 (100%)
+87 (100%)
+98 (100%)
+12b. Methods for additional analyses, such as subgroup analyses and
+adjusted analyses.
+1 (9%)
+10 (11%)
+11 (11%)
+RESULTS
+Participant flow
+13a. Flow of participants through each stage. Specifically, for each group
+report the numbers of participants randomly assigned, receiving intended
+treatment, completing the study protocol, and analyzed for the primary
+outcome.
+5 (45%)
+24 (28%)
+29 (30%)
+Flow diagram
+2 (18%)
+4 (5%)
+6 (6%)
+13b. Describe protocol deviations from study as planned, together with
+reasons.
+7 (64%)
+37 (43%)
+44 (45%)
+
+Inter Med 48: 307-313, 2009
+DOI: 10.2169/internalmedicine.48.1358
+311
+16. Number of participants (denominator) in each group included in each
+analysis and whether the analysis was by "intention-to-treat". State the
+results in absolute numbers when feasible.
+6 (55%)
+46 (53%)
+52 (53%)
+Outcomes and estimation
+17. For each primary and secondary outcome, a summary of results for each
+group, and the estimated effect size and its precision.
+2 (18%)
+6 (7%)
+8 (8%)
+Ancillary analyses
+18. Address multiplicity by reporting any other analyses performed,
+including subgroup analyses and adjusted analyses, indicating those
+pre-specified and those exploratory.
+0
+3 (3%)
+3 (3%)
+Adverse events
+19. All important adverse events or side effects in each intervention group.
+7 (64%)
+46 (53%)
+53 (54%)
+DISCUSSION
+Interpretation
+20. Interpretation of the results, taking into account study hypotheses,
+sources of potential bias or imprecision and the dangers associated with
+multiplicity of analyses and outcomes.
+6 (55%)
+45 (52%)
+51 (52%)
+Generalizability
+21. Generalizability (external validity) of the trial findings.
+9 (82%)
+51 (59%)
+60 (61%)
+Overall evidence
+22. General interpretation of the results in the context of current evidence.
+10 (91%)
+86 (99%)
+96 (98%)
+Numbers analyzed
+Recruitment
+14. Dates defining the periods of recruitment and follow-up.
+2 (18%)
+6 (7%)
+8 (8%)
+Baseline data
+15. Baseline demographic and clinical characteristics of each group.
+11 (100%)
+78 (90%)
+89 (91%)
+Table 3. Reporting of Ethics and Funding Source in Japanese RCT Reports
+Reports described each item
+CONSORT
+Item
+Adopter
+(n=11)
+Non-adopter
+(n=87)
+All reports
+(n=98)
+Ethics committee
+10 (91%)
+70 (80%)
+80 (82%)
+Informed consent
+11 (100%)
+79 (91%)
+90 (92%)
+Source of funding
+3 (27%)
+17 (20%)
+20 (20%)
+cealment, and 17.3% reported blinding (inclusion of flow
+diagrams was not reviewed). According to another study
+evaluating 142 RCT papers from 2004 to 2007 published in
+five leading Chinese medical journals (extracted from Chi-
+nese journal database) (18), none of the studies reported
+sample size determination, 26.8% reported random sequence
+generation, 4.2% reported allocation concealment, 10.6% re-
+ported blinding, and 0.7% contained flow diagrams. Our
+study showed that the reported percentages for all key meth-
+odological items were greater than those reported in either
+Chinese studies. The major difference between our study
+and the Chinese studies is that we used MEDLINE alone as
+a source of reports. Since RCT reports listed on MEDLINE
+are of comparatively higher quality than Japanese RCT re-
+ports as a whole, lower percentages might be expected if re-
+ports were extracted from similar journals as those used in
+the Chinese studies. Therefore, we cannot conclusively state
+that Japanese reports are of higher quality than Chinese re-
+ports based on such comparisons.
+Another striking result from our study was the inappropri-
+ate presentation of statistics by the reports. The CONSORT
+statement recommends including the estimated effect size
+and its precision (e.g., 95% CI) for outcomes. Only 8 of the
+98 reports described both, but most articles only described
+the statistical significance of before-after or between-group
+differences. Other items such as pre-defined outcomes and
+sample size determination were found in 25% of all reports.
+In addition, descriptions of the three additional items were
+scarce. For example, only 20% disclosed funding sources.
+This is much lower than that reported in a previous study of
+clinical pharmacology journals, in which 56% of reports dis-
+closed funding sources (16). Furthermore, disclosure of con-
+flict of interest should also be promoted among editors and
+researchers.
+
+Inter Med 48: 307-313, 2009
+DOI: 10.2169/internalmedicine.48.1358
+312
+Poor adherence of RCT reports from Japan to the CON-
+SORT reporting guidance may involve a variety of factors.
+The most likely reason is unfamiliarity with the CONSORT
+statement. To improve familiarity, more journals should in-
+clude the CONSORT statement in their “Information for
+Authors” and require adherence to the statement for RCT
+reports (5, 15, 16). Similarly, increased education and train-
+ing in the designing and reporting of RCTs may also help
+improve reporting quality. We believe that deficiencies in
+RCT reporting might stem, in part, from the Japanese edu-
+cational environment. Although it is evident that education
+in clinical trial methodology and biostatistics is essential to
+better adhere to the CONSORT statement, such resources
+have been limited in Japan (19). Previous studies reported
+that the involvement of a trial methodologist (epidemiologist
+or biostatistician) improves reporting quality (26, 27). In ad-
+dition, the skills of experienced medical writers can help im-
+prove the quality of reports (28). Future studies to further
+assess the quality of Japanese reports should include before-
+after surveys and comparative studies with other countries.
+In addition, barriers preventing the diffusion of CONSORT
+adoption and ways to improve reporting quality should fur-
+ther be explored.
+This study has some limitations. First, the survey period
+was limited to 3 months, during which only 98 reports were
+obtained. Only 11 reports were from journals adopting the
+CONSORT statement, so a sufficient sample size necessary
+for a comparison with non-adopting journals could not be
+obtained. However, we accomplished a 3-month complete
+count survey and fulfilled our intention of illustrating the
+current quality of Japanese RCT reports. Second, we did not
+evaluate reports that were not included in MEDLINE (such
+as Igaku-Chuo Zasshi, a database of medical articles written
+in Japanese). This was to ensure evaluation of RCT reports
+originating from Japan that could be used worldwide.
+Our study is the first systematic survey in Japan to exam-
+ine the current reporting quality of RCTs. We find that re-
+cent Japanese RCT reports need significant improvement.
+Acknowledgement
+We sincerely thank Hirokuni Amari, Sachiko Satouchi, and
+Yoshiaki Kimura for assistance. We also extend our appreciation
+to Professors Kiichiro Tsutani, Shigeaki Yamazaki, and Yasuo
+Ohashi.
+Grant Support Information;
+This study was supported in part by a grant-in-aid (health tech-
+nology assessment) from the Ministry of Health, Labour and
+Welfare, Japan. Dr. Moher is supported by a University of
+Ottawa Research Chair.
+References
+1. Jadad AR, Enkin M. Randomised Controlled Trials: Questions,
+Answers and Musings. Blackwell Publishing, 2007.
+2. Begg C, Cho M, Eastwood S, et al. Improving the quality of re-
+porting of randomized controlled trials. The CONSORT statement.
+JAMA 276: 637-639, 1996.
+3. Moher D, Schulz KF, Altman D; CONSORT Group (Consolidated
+Standards of Reporting Trials). The CONSORT statement: revised
+recommendations for improving the quality of reports of parallel-
+group randomized trials. JAMA 285: 1987-1991, 2001.
+4. CONSORT group. CONSORT Web site. Available from: http://
+www.consort-statement.org.
+5. Altman DG, Schulz KF, Moher D, et al; CONSORT GROUP
+(Consolidated Standards of Reporting Trials). The revised CON-
+SORT statement for reporting randomized trials: explanation and
+elaboration. Ann Intern Med 134: 663-694, 2001.
+6. Piaggio G, Elbourne DR, Altman DG, Pocock SJ, Evans SJ;
+CONSORT Group. Reporting of noninferiority and equivalence
+randomized trials: an extension of the CONSORT statement.
+JAMA 295: 1152-1160, 2006.
+7. Gagnier JJ, Boon H, Rochon P, et al; CONSORT Group. Report-
+ing randomized, controlled trials of herbal interventions: an elabo-
+rated CONSORT statement. Ann Intern Med 144: 364-367, 2006.
+8. Ioannidis JP, Evans SJ, Gotzsche PC, et al; CONSORT Group.
+Better reporting of harms in randomized trials: an extension of the
+CONSORT statement. Ann Intern Med 141: 781-788, 2004.
+9. Campbell MK, Elbourne DR, Altman DG; CONSORT group.
+CONSORT statement: extension to cluster randomised trials. BMJ
+328: 702-708, 2004.
+10. Hopewell S, Clarke M, Moher D, et al; the CONSORT Group.
+CONSORT for reporting randomised trials in journal and confer-
+ence abstracts. Lancet 371: 281-283, 2008.
+11. Boutron I, Moher D, Altman DG, Schulz KF, Ravaud P; CON-
+SORT group. Extending the CONSORT Statement to randomized
+trials of nonpharmacologic treatment: explanation and elaboration.
+Ann Intern Med 148: 295-309, 2008.
+12. Altman DG. Endorsement of the CONSORT statement by high
+impact medical journals: survey of instructions for authors. BMJ
+330: 1056-1057, 2005.
+13. Hopewell S, Altman DG, Moher D, Schulz KF. Endorsement of
+the CONSORT Statement by high impact factor medical journals:
+a survey of journal editors and journal ‘Instructions to Authors’.
+Trials. 2008 Apr; 9: 20. Available from: http://www.trialsjournal.
+com/content/9/1/20
+14. Plint AC, Moher D, Morrison A, et al. Does the CONSORT
+checklist improve the quality of reports of randomised controlled
+trials? A systematic review. Med J Aust 185: 263-267, 2006.
+15. Mills EJ, Wu P, Gagnier J, Devereaux PJ. The quality of random-
+ized trial reporting in leading medical journals since the revised
+CONSORT statement. Contemp Clin Trials 26: 480-487, 2005.
+16. Mills E, Loke YK, Wu P, et al. Determining the reporting quality
+of RCTs in clinical pharmacology. Br J Clin Pharmacol 58: 61-65,
+2004.
+17. Zhang D, Yin P, Freemantle N, Jordan R, Zhong N, Cheng K. An
+assessment of the quality of randomised controlled trials con-
+ducted in China. Trials. 2008 Apr; 9: 22. Available from: http://
+www.trialsjournal.com/content/9/1/22
+18. Xu L, Li J, Zhang M, Ai C, Wang L. Chinese authors do need
+CONSORT: Reporting quality assessment for five leading Chinese
+medical journals. Contemp Clin Trials 29: 727-731, 2008.
+19. Matsuba H, Kiuchi T, Tsutani K, et al. The Japanese perspective
+on registries and a review of clinical trial process in Japan. In:
+Clinical Trial Registries: A Practical Guide for Sponsors and Re-
+searchers of Medicinal Products. Foote M, Ed. Birkhäuser, Basel,
+2006.
+20. Naito M, Nakayama T, Fukuhara S. Quality of life assessment and
+reporting in randomized controlled trials: a study of literature pub-
+
+Inter Med 48: 307-313, 2009
+DOI: 10.2169/internalmedicine.48.1358
+313
+lished from Japan. Health Qual Life Outcomes 2: 31, 2004.
+21. Nakayama T, Yamazaki S. Percentages of reports of clinical trials,
+written in seven non-English languages, that have structured ab-
+stracts. Gen Med 4: 7-10, 2003.
+22. International Committee of Medical Journal Editors. Uniform Re-
+quirements for Manuscripts Submitted to Biomedical Journals:
+Writing and Editing for Biomedical Publication. Updated October
+2007. Available from: http://www.icmje.org/
+23. Thomas S, Fayter D, Misso K, et al. Population tobacco control
+interventions and their effects on social inequalities in smoking:
+systematic review. Tob Control 17: 230-237, 2008.
+24. Nelson EA, Mani R, Vowden K. Intermittent pneumatic compres-
+sion for treating venous leg ulcers. Cochrane Database Syst Rev
+2008 Apr 16; 2: CD001899.
+25. Wubben DP, Vivian EM. Effects of pharmacist outpatient interven-
+tions on adults with diabetes mellitus: a systematic review. Phar-
+macotherapy 28: 421-436, 2008.
+26. Delgado-Rodriguez M, Ruiz-Canela M, De Irala-Estevez J, Llorca
+J, Martinez-Gonzalez A. Participation of epidemiologists and/or
+biostatisticians and methodological quality of published controlled
+clinical trials. J Epidemiol Community Health 55: 569-572, 2001.
+27. Altman DG, Goodman SN, Schroter S. How statistical expertise is
+used in medical research. JAMA 287: 2817-2820, 2002.
+28. Jacobs A, Carpenter J, Donnelly J, et al. European Medical Writ-
+ers Association’s Ghostwriting Task Force. The involvement of
+professional medical writers in medical publications: results of a
+Delphi study. Curr Med Res Opin 21: 311-316, 2005.
+C2009 The Japanese Society of Internal Medicine
+http://www.naika.or.jp/imindex.html
+
+Anaesthesia
+Journal of the Association of Anaesthetists of Great Britain and Ireland www.aagbi.org
+What is this image?
+Th is is a “QR (Quick Response)
+code”. QR Codes can be used to store
+all kinds of data, including URLs,
+enabling you to bookmark a web
+page, using a smartphone, quickly and
+easily. Th is QR code represents the
+URL for Anaesthesia
+How to use the QR code
+First, install a QR scanner App on your
+smartphone. Search the Web for “QR
+Reader” and the model of your phone
+to fi nd a scanner App; they’re available
+for iPhones, Windows Mobiles, Nokia
+phones, BlackBerries, and other App-
+based phones with a built-in camera.
+Once your scanner App is installed,
+point your phone at the QR code
+image and scan. Your phone reads
+the scan, converts it into the URL and
+stores it as a bookmark. You can then
+use your phone to go online to the
+Anaesthesia homepage.
+Aims and Scope
+Anaesthesia is the offi cial journal of the Association
+of Anaesthetists of Great Britain and Ireland and is
+international in scope and comprehensive in coverage. It
+publishes original, peer reviewed articles on all aspects
+of general and regional anaesthesia, intensive care and
+pain therapy, including research on equipment. Review
+articles, special articles, case reports and historical notes
+are welcome. Also published are editorials and book
+reviews; there is an active correspondence section in each
+issue. Publishers wishing to send books for review should
+contact the editorial offi ce: anaesthesia@aagbi.org.
+For submission instructions, subscription and all other
+information visit: www.wileyonlinelibrary.com/journal/
+anae
+Anaesthesia accepts articles for Open Access publication.
+Please visit http://olabout.wiley.com/WileyCDA/Section/
+id-828081.html for further information about OnlineOpen.
+Association Correspondence
+Association of Anaesthetists of Great Britain and
+Ireland, 21 Portland Place, London W1B 1PY, UK.
+Copyright and Copying
+Copyright © 2017 Th e Association of Anaesthetists
+of Great Britain and Ireland. All rights reserved. No
+part of this publication may be reproduced, stored or
+transmitted in any form or by any means without the
+prior permission in writing from the copyright holder.
+Authorisation to copy items for internal and personal
+use is granted by the copyright holder for libraries and
+other users registered with their local Reproduction
+Rights Organisation (RRO), e.g. Copyright Clearance
+Center (CCC), 222 Rosewood Drive, Danvers, MA
+01923, USA (http://www.copyright.com), provided
+the appropriate fee is paid directly to the RRO. Th is
+consent does not extend to other kinds of copying
+such as copying for general distribution, for advertising
+or promotional purposes, for creating new collective
+works or for resale. Permissions for such reuse can be
+obtained using the RightsLink “Request Permissions”
+link on Wiley Online Library. Special requests should be
+addressed to: permissions@wiley.com
+Information for subscribers
+Anaesthesia
+is
+published
+monthly.
+Institutional
+subscription prices for 2018 are: Print & Online:
+US$2250 (US), US$2625 (Rest of World), €1550
+(Europe), £1220 (UK). Prices are exclusive of tax. Asia-
+Pacifi c GST, Canadian GST/HST and European VAT will
+be applied at the appropriate rates. For more information
+on current tax rates, please go to www.wileyonlinelibrary.
+com/tax-vat. Th e price includes online access to the
+current and all online back fi les to January 1st 2014, where
+available. For other pricing options, including access
+information and terms and conditions, please visit www.
+wileyonlinelibrary.com/access.
+Delivery Terms and Legal Title
+Where the subscription price includes print issues and
+delivery is to the recipient’s address, delivery terms are
+Delivered at Place (DAP); the recipient is responsible
+for paying any import duty or taxes. Title to all issues
+transfers FOB our shipping point, freight prepaid. We
+will endeavour to fulfi l claims for missing or damaged
+copies within six months of publication, within our
+reasonable discretion and subject to availability.
+Back issues
+Single issues from current and recent volumes are
+available at the current single issue price from: cs-
+journals@wiley.com. Earlier issues may be obtained from
+Periodicals Service Company, 351 Fairview Avenue - Ste
+300, Hudson, NY 12534, USA. Tel: +1 518 822-9300,
+Fax: +1 518 822-9305, Email: psc@periodicals.com.
+View this journal online at: www.wileyonlinelibrary.
+com/journal/anae
+ANAESTHESIA, (Print ISSN: 0003-2409; Online ISSN
+1365-2044), is published monthly. US mailing agent:
+Mercury Media Processing, LLC, 1850 Elizabeth Avenue,
+Suite #C, Rahway, NJ 07065 USA. Periodical postage
+paid at Rahway, NJ. Postmaster: Send all address changes
+to ANAESTHESIA, John Wiley & Sons Inc., C/O Th e
+Sheridan Press, PO Box 465, Hanover, PA 17331 USA.
+Disclaimer
+Th e Publisher, the Association of Anaesthetists of
+Great Britain and Ireland and Editors cannot be held
+responsible for errors or any consequences arising from
+the use of information contained in this journal; the
+views and opinions expressed do not necessarily refl ect
+those of the Publisher, the Association of Anaesthetists
+of Great Britain and Ireland and Editors, neither does the
+publication of advertisements constitute any endorsement
+by the Publisher, the Association of Anaesthetists of Great
+Britain and Ireland and Editors of the products advertised.
+Publisher
+Anaesthesia is published by John Wiley & Sons Ltd, 9600
+Garsington Road, Oxford OX4 2DQ, UK. Tel: +44 (0)
+1865 776868; Fax: +44 (0) 1865 714591.
+Printed in the UK by Page Bros.
+Journal Customer Services
+For ordering information, claims and any enquiry
+concerning your journal subscription please go to www.
+wileycustomerhelp.com/ask or contact your nearest
+offi ce.
+Americas: Email: cs-journals@wiley.com; Tel: +1 781 388
+8598 or +1 800 835 6770 (toll free in the USA & Canada).
+Europe, Middle East and Africa: Email: cs-journals@
+wiley.com; Tel: +44 (0) 1865 778315.
+Asia-Pacifi c: Email: cs-journals@wiley.com; Tel: +65
+6511 8000.
+Japan: For Japanese speaking support, Email: cs-japan@
+wiley.com; Tel: +65 6511 8010 or Tel (toll-free): 005 316
+50 480.
+Visit our Online Customer Help available in 7
+languages at www.wileycustomerhelp.com/ask
+Advertising: corporatesales@wiley.com
+Commercial reprints: commercialreprints@wiley.com
+Wiley’s Corporate Citizenship initiative seeks to address
+the environmental, social, economic, and ethical challenges
+faced in our business and which are important to our
+diverse stakeholder groups. Since launching the initiative,
+we have focused on sharing our content with those in need,
+enhancing community philanthropy, reducing our carbon
+impact, creating global guidelines and best practices for
+paper use, establishing a vendor code of ethics, and engaging
+our colleagues and other stakeholders in our eff orts. Follow
+our progress at www.wiley.com/go/citizenship.
+Wiley is a founding member of the UN-backed HINARI,
+AGORA, and OARE initiatives. Th ey are now collectively
+known as Research4Life.org, making online scientifi c
+content available free or at nominal cost to researchers
+in developing countries. Please visit Wiley’s Content
+Access – Corporate Citizenship site: http://www.wiley.
+com/WileyCDA/Section/id-390082.html
+Editor-in-Chief
+Dr A Klein
+Senior Editor
+Prof J Pandit
+Editors
+Dr C Bailey, Dr J Carlisle, Prof M G Irwin, Dr B J Jenkins,
+Dr M Kinsella, Prof A F Smith, Dr A E Vercueil, Dr S White, Dr M Wiles
+Chairman/President
+Dr P Clyburn
+President Elect
+Dr K Ferguson
+GAT representative
+Dr K Miller
+Honorary Treasurer
+Dr P Barker
+Anaesthesia Trainee Fellow
+Dr M Charlesworth
+AAGBI Board Members
+Dr W Fawcett, Dr R Gill, Dr M Patteril
+Honorary Secretary
+Dr M Nathanson
+Honorary Secretary Elect
+Dr T Meek
+Honorary Membership Secretary
+Dr U Misra
+Immediate Past Honorary Membership
+Secretary
+Dr N Redfern
+International Advisory Panel
+Dr B Biccard (South Africa), Dr N Chrimes (Australia), Dr I Cortinez (Chile),
+Dr A Dennis (Australia), Dr G Djaiani (Canada), Dr R Dyer (South Africa),
+Dr N B Foss (Denmark), Dr H Huitink (Netherlands), Dr M Kertai (USA),
+Dr J Kurata (Japan), Dr S Marshall (Australia), Dr A Palanisamy (USA)
+Statistical Advisors
+Dr S W Choi, Ms P Hardy
+Editorial Administrator
+Mrs S Atton (anaesthesia@aagbi.org)
+Production Editor
+Ms V Oliveiro (anae@wiley.com)
+
+Editorial
+Cerebral oximetry: another blow to non-invasive monitoring?
+Delirium after cardiac surgery is a
+serious postoperative complication
+occurring in up to 46% of patients
+[1]. It is associated with longer hos-
+pital stay, increased costs, higher 6-
+month and 1-year mortality, and
+long-term
+cognitive
+impairment.
+Therefore, peri-operative techniques
+aimed
+at
+reducing
+postoperative
+delirium are important to assess.
+In this issue of Anaesthesia, Lei
+et al. hypothesised that intra-opera-
+tive cerebral oximetry (rScO2) mon-
+itoring and treatment of cerebral
+desaturations
+in
+elderly
+patients
+undergoing cardiac surgery would
+reduce the incidence of postopera-
+tive
+delirium
+[2].
+The
+authors
+should be congratulated for carrying
+out this randomised, controlled trial
+(RCT)
+which
+asked
+a
+clinically
+important question and for assess-
+ing the clinical usefulness of an
+algorithm, which includes treatment
+options such as: verifying the posi-
+tion on the head; treating hypoten-
+sion;
+correcting
+hyperventilation;
+and considering blood transfusion
+[3].
+In cardiac anaesthesia, a range
+of promising advantages of intra-
+operative cerebral oximetry moni-
+toring has been described [4]. A
+large prospective observational trial
+in 1178 patients undergoing cardiac
+surgery demonstrated that low pre-
+operative cerebral oximetry levels
+independently predict postoperative
+30-day and 1-year mortality [5]. In
+addition, low pre-operative cerebral
+oximetry levels can independently
+predict
+postoperative
+delirium
+in
+patients who undergo cardiac sur-
+gery with cardiopulmonary bypass
+[6]. Many case reports have demon-
+strated that cerebral oximetry is a
+sensitive indicator for early diagno-
+sis of potentially catastrophic neu-
+rologic events, such as occlusion of
+the superior vena cava [7, 8], mas-
+sive cerebral air embolism [9] or
+oxygen
+failure
+during
+cardiopul-
+monary bypass [10]. Two RCTs
+have assessed correction of intra-
+operative cerebral oximetry desatu-
+rations and outcomes. Slater et al.
+observed, in 240 cardiac patients
+undergoing coronary artery surgery,
+a
+significant
+association
+between
+intra-operative
+cerebral
+oxygen
+desaturation and an increased risk
+of early cognitive decline, as well as
+prolonged hospital stay. However,
+the intervention in the study group
+aiming to avoid desaturations below
+20% of baseline did not have an
+effect on rScO2 and outcomes [11].
+In contrast, Murkin et al. demon-
+strated, in a RCT in 200 patients
+undergoing coronary artery surgery,
+that
+a
+strict
+protocol
+aimed
+at
+maintaining
+rScO2
+values
+within
+75% of baseline, resulted in fewer
+cerebral
+oxygen
+desaturations,
+reduced length of stay in intensive
+care,
+and
+a
+reduction
+in
+major
+organ morbidity and mortality [12].
+Two very recent studies in cardiac
+patients demonstrated elegantly that
+cerebral desaturation was reversed
+successfully in more than 90% of
+patients by applying treatment algo-
+rithms [13, 14]. In summary, there
+is
+observational
+evidence
+that
+reduced
+intra-operative
+and
+pre-
+operative cerebral oximetry levels
+predict
+poor
+postoperative
+out-
+comes
+and
+that
+intra-operatively
+reduced cerebral oximetry levels can
+be reversed by interventions aiming
+to optimise cerebral oxygenation.
+However, improving clinical out-
+comes with intra-operative optimi-
+sation
+of
+cerebral
+oximetry
+in
+cardiac anaesthesia has not been
+demonstrated convincingly so far,
+leaving us with an evidence gap.
+Furthermore, and interestingly,
+Lei et al. observed no effect on the
+incidence of postoperative delirium
+after applying intra-operative inter-
+ventions to avoid cerebral oximetry
+desaturation,
+with
+incidences
+of
+delirium in 24% of patients in the
+intervention group and 25% in the
+control group [2]. In addition, no
+differences between the groups were
+seen in the incidence or duration of
+cerebral oximetry desaturations. A
+‘single deadly blow’ was recently
+suggested
+in
+relation
+to
+the
+This editorial accompanies an article by Lei
+et al., Anaesthesia 2017; 72: 1456–66.
+© 2017 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists of Great Britain and Ireland.
+1435
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and
+distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+Anaesthesia 2017, 72, 1435–1455
+
+bispectral index (BIS) algorithm of
+the non-invasive depth of anaesthe-
+sia BIS monitor [15]. Are the nega-
+tive results in this study by Lei
+et al.
+another
+deadly
+blow
+with
+regard to a non-invasive cerebral
+monitor?
+In order to better understand
+these negative results, the following
+areas need to be elucidated:
+1)
+Reversing intra-operative cere-
+bral oximetry desaturations in
+high-risk cardiac patients and
+impact on outcome. Deschamps
+et al. [13] observed only very
+little impact on reducing the
+occurrence of adverse effects in
+the treatment group, including
+102 patients, where intra-opera-
+tive cerebral oximetry desatura-
+tions were reversed successfully.
+In their study, only high-risk
+patients
+undergoing
+multiple
+procedures
+or
+re-do
+surgery
+were included [13]. There is
+therefore already a higher risk
+for postoperative complications,
+and the reversibility of poorer
+outcomes
+by
+optimisation
+of
+one
+intra-operative
+variable,
+that
+is,
+cerebral
+oxygenation,
+may thus be lessened. Similarly,
+in the study by Lei et al. [2],
+patients were not only high-risk
+cardiac
+patients
+undergoing
+complex cardiac surgical proce-
+dures, but also about 10% of
+the patients were undergoing
+surgery with hypothermic circu-
+latory arrest. Furthermore, 11%
+of patients presented with pre-
+operative rScO2 values < 50%,
+which also indicated the high
+risk-profile.
+Including
+these
+high-risk patients in the RCT
+by Lei et al. questions the pre-
+vention of postoperative delir-
+ium
+by
+optimisation
+of
+one
+intra-operative variable.
+2)
+Exclusion of patients with pre-
+disposing factors for delirium.
+In order to demonstrate pre-
+vention of postoperative delir-
+ium from intra-operative insults
+by optimisation of cerebral oxy-
+genation, patients with known
+pre-operative
+risk-factors
+for
+delirium
+should
+be
+not
+be
+included in the protocol. This
+includes not only patients with
+serious mental illness and delir-
+ium, as listed in the study by
+Lei et al., but also patients with
+dementia, cognitive impairment
+(e.g. reduced Mini-Mental State
+Examination scores), depression
+and
+patients
+with
+alcohol
+abuse.
+3)
+Compliance of anaesthetists fol-
+lowing a treatment algorithm for
+cerebral oximetry desaturations.
+A lack of compliance by anaes-
+thetists to use a treatment algo-
+rithm
+for
+cerebral
+oximetry
+desaturations has been observed
+and discussed before in the RCT
+by Slater et al. [11]. In the study
+by Lei et al., the treatment algo-
+rithm was not applied in 9% of
+patients (n = 11) in the study
+group. Lack of compliance can
+be avoided by a strict protocol
+implementing
+the
+treatment
+algorithm as demonstrated by
+Deschamps et al. with a 97%
+success rate for reversal of cere-
+bral oximetry desaturations [13].
+4)
+Learning
+effect.
+If
+the
+same
+anaesthetists treat patients in
+the
+control
+and
+intervention
+groups,
+there
+could
+be
+a
+learning
+effect
+by
+clinicians,
+resulting in optimised variables
+from
+the
+cerebral
+oximetry
+desaturation algorithm not only
+in the treatment group, but also
+in the control group, further
+diminishing
+clinically
+visible
+effects on outcomes. This is
+supported by the observation
+that usual clinical care led to
+reversal
+of
+cerebral
+oximetry
+desaturations in about 33% of
+all desaturation events in the
+recent trial assessing the effi-
+cacy of the treatment algorithm
+by Subramanian et al. [14].
+5)
+Technique for maintenance of
+mean arterial pressure (MAP)
+above 50 mmHg during bypass.
+To avoid cerebral oximetry desat-
+urations during bypass, a MAP
+below 50 mmHg is often treated
+with a vasoconstrictor, for exam-
+ple, the alpha1-adrenergic recep-
+tor agonist phenylephrine. As a
+result, MAP increases, but at the
+same time cerebral saturations
+may decrease [16]. In contrast,
+augmented MAP induced by a
+higher pump-flow during bypass
+increases both MAP and cerebral
+saturations [16]. Lei et al. do not
+comment on the technique used
+to increase MAP during bypass;
+nevertheless, treatment with a
+vasoconstrictor
+rather
+than
+increasing
+pump-flow
+might
+have further contributed to the
+neutral effects of corrections in
+cerebral saturations in the inter-
+vention group. However, on the
+other hand, controversial effects
+of systemic vasoconstrictors on
+cerebral saturation values during
+cardiopulmonary
+bypass
+have
+also been discussed before [14].
+1436
+© 2017 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists of Great Britain and Ireland.
+Anaesthesia 2017, 72, 1435–1455
+Editorial
+
+6)
+Ongoing
+technical
+improve-
+ments
+of
+cerebral
+oximetry
+monitoring. Ghosh et al. demon-
+strated that there is still room
+for technical improvements of
+rScO2 monitors [17].
+This
+is
+especially
+the
+case
+regarding
+cerebral oximetry autoregulation-
+directed
+therapy
+[18],
+which
+might be of relevance in cardiac
+surgical patients, where a large
+range of MAP at the lower limit
+of cerebral autoregulation was
+recently observed [19].
+Considering
+these
+limitations,
+the negative results by Lei and col-
+leagues in this issue of Anaesthesia
+are not a ‘deadly blow’. In a recent
+Cochrane
+review
+examining
+the
+usefulness
+of
+peripheral
+pulse
+oximetry for peri-operative moni-
+toring, the authors concluded that
+the value of pulse oximetry is ques-
+tionable in relation to improved
+reliable outcomes, effectiveness and
+efficiency [20]. Despite this lack of
+evidence, pulse oximetry is univer-
+sally recommended by safety and
+monitoring guidelines, and no one
+would suggest stopping the use of
+pulse oximetry until final evidence
+becomes available [21].
+There appears to be a similar
+ambivalence
+about
+the
+evidence
+regarding the use of cerebral oxime-
+try monitors: everyone already using
+cerebral oximetry monitors intra-
+operatively continues to use them,
+but anaesthetists who do not, might
+not be encouraged to do so, based on
+the inconclusive clinical evidence.
+In
+the
+future,
+well-designed
+RCTs
+addressing
+the
+issues
+dis-
+cussed above, and assessing neuro-
+logical outcomes with the use of
+non-invasive
+continuous
+cerebral
+oximetry
+monitors
+in
+cardiac
+anaesthesia, are needed to further
+elucidate the evidence gap, whether
+clinical outcomes can be improved
+with intra-operative optimisation of
+rScO2.
+Acknowledgements
+GK is co-editor-in-chief of Cure
+and Care: Perioperative Medicine,
+an online journal supported by an
+unrestricted educational grant from
+Medtronic, USA. No other external
+funding
+or
+competing
+interests
+declared.
+G. Kunst
+Consultant Anaesthetist, Reader in
+Cardiothoracic Anaesthesia,
+Department of Anaesthesia, King’s
+College Hospital NHS Foundation
+Trust
+London, UK
+Email: gudrun.kunst@kcl.ac.uk
+Z. Milan
+Consultant Anaesthetist and
+Honorary Senior Lecturer,
+Department of Anaesthesia, King’s
+College Hospital NHS Foundation
+Trust
+London, UK
+Keywords: cerebral oximetry; intra-
+operative; monitoring
+References
+1. Saczynski JS, Marcantonio ER, Quach L,
+et al. Cognitive trajectories after post-
+operative delirium. New England Jour-
+nal of Medicine 2012; 367: 30–9.
+2. Lei L, Katznelson R, Fedorko L, et al.
+Cerebral oximetry and postoperative
+delirium after cardiac surgery: a rando-
+mized
+controlled
+trial.
+Anaesthesia
+2017; 72: 1456–66.
+3. Denault A, Deschamps A, Murkin JM. A
+proposed algorithm for the intraopera-
+tive use of cerebral near-infrared spec-
+troscopy.
+Seminars
+in
+Cardiothoracic
+and
+Vascular
+Anesthesia
+2007;
+11:
+274–81.
+4. Green DW, Kunst G. Cerebral oximetry
+and its role in adult cardiac, non-cardiac
+surgery and resuscitation from cardiac
+arrest. Anaesthesia 2017; 72: 48–57.
+5. Heringlake M, Garbers C, Kabler JH,
+et al. Preoperative cerebral oxygen sat-
+uration and clinical outcomes in cardiac
+surgery.
+Anesthesiology
+2011;
+114:
+58–69.
+6. Schoen J, Meyerrose J, Paarmann H,
+Heringlake M, Hueppe M, Berger KU.
+Preoperative regional cerebral oxygen
+saturation
+is
+a
+predictor
+of
+post-
+operative delirium in on-pump cardiac
+surgery patients: a prospective observa-
+tional trial. Critical Care 2011; 15: R218.
+7. Han SH, Kim CS, Lim C, Kim WH.
+Obstruction of the superior vena cava
+cannula detected by desaturation of
+the cerebral oximeter. Journal of Car-
+diothoracic
+and
+Vascular
+Anesthesia
+2005; 19: 420–1.
+8. Vernick WJ, Oware A. Early diagnosis of
+superior vena cava obstruction facili-
+tated by the use of cerebral oximetry.
+Journal of Cardiothoracic and Vascular
+Anesthesia 2011; 25: 1101–3.
+9. Fischer GW, Stone ME. Cerebral air
+embolism
+recognized
+by
+cerebral
+oximetry. Seminars in Cardiothoracic
+and Vascular Anesthesia 2009; 13: 56–
+9.
+10. Prabhune
+A,
+Sehic
+A,
+Spence
+PA,
+Church
+T,
+Edmonds
+HL
+Jr.
+Cerebral
+oximetry provides early warning of
+oxygen
+delivery
+failure
+during
+car-
+diopulmonary bypass. Journal of Car-
+diothoracic and Vascular Anesthesia
+2002; 16: 204–6.
+11. Slater JP, Guarino T, Stack J, et al. Cere-
+bral oxygen desaturation predicts cog-
+nitive decline and longer hospital stay
+after cardiac surgery. Annals of Tho-
+racic Surgery 2009; 87: 36–44.
+12. Murkin JM, Adams SJ, Novick RJ, et al.
+Monitoring
+brain
+oxygen
+saturation
+during coronary bypass surgery: a ran-
+domized, prospective study. Anesthesia
+and Analgesia 2007; 104: 51–8.
+13. Deschamps
+A,
+Hall
+R,
+Grocott
+H,
+et al. Cerebral oximetry monitoring to
+maintain normal cerebral oxygen sat-
+uration during high-risk cardiac sur-
+gery:
+a
+randomized
+controlled
+feasibility trial. Anesthesiology 2016;
+124: 826–36.
+14. Subramanian B, Nyman C, Fritock M,
+et al. A multicenter pilot study assess-
+ing regional cerebral oxygen desatura-
+tion frequency during cardiopulmonary
+bypass and responsiveness to an inter-
+vention
+algorithm.
+Anesthesia
+and
+Analgesia 2016; 122: 1786–93.
+© 2017 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists of Great Britain and Ireland.
+1437
+Editorial
+Anaesthesia 2017, 72, 1435–1455
+
+15. Willingham MD, Avidan MS. Triple low,
+double low: it’s time to deal Achilles
+heel a single deadly blow. British Jour-
+nal of Anaesthesia 2017; 119: 1–4.
+16. Sperna Weiland NH, Brevoord D, J€obsis
+DA, et al. Cerebral oxygenation during
+changes in vascular resistance and flow
+in patients on cardiopulmonary bypass
+–
+a
+physiological
+proof
+of
+concept
+study. Anaesthesia 2017; 72: 49–56.
+17. Ghosh A, Elwell C, Smith M. Review
+article:
+cerebral
+near-infrared
+spec-
+troscopy in adults: a work in progress.
+Anesthesia and Analgesia 2012; 115:
+1373–83.
+18. Highton
+D,
+Ghosh
+A,
+Tachtsidis
+I,
+Panovska-Griffiths J, Elwell CE, Smith
+M. Monitoring cerebral autoregulation
+after brain injury: multimodal assess-
+ment of cerebral slow-wave oscilla-
+tions using near-infrared spectroscopy.
+Anesthesia and Analgesia 2015; 121:
+198–205.
+19. Joshi B, Ono M, Brown C, et al. Predict-
+ing the limits of cerebral autoregula-
+tion during cardiopulmonary bypass.
+Anesthesia and Analgesia 2012; 114:
+503–10.
+20. Pedersen T, Nicholson A, Hovhannisyan
+K, Moller AM, Smith AF, Lewis SR.
+Pulse oximetry for perioperative moni-
+toring. Cochrane Database Systematic
+Review 2014; 3: CD002013.
+21. Moerman
+A,
+De
+Hert
+S.
+Cerebral
+oximetry: the standard monitor of the
+future? Current Opinions in Anaesthesi-
+ology 2015; 28: 703–9.
+doi:10.1111/anae.14064
+Editorial
+Whose fault are wrong predictions: the clinician, the patient or
+the pigeon?
+Nate Silver has written an excellent
+book entitled ‘The Signal and the
+Noise’ [1]. He discusses the art and
+science of prediction, illustrated by
+economic
+crashes,
+gambling,
+the
+weather and earthquakes. His book is
+threaded with a warning: in the age
+of Big Data there are hundreds, thou-
+sands or millions of non-causative
+associations for each single causative
+association. Imagine one real hospi-
+tal
+fire
+in
+a
+century
+of
+hourly
+alarms. Imagine 876,000 p < 0.05,
+only one due to cause and effect.
+Nate Silver warns that Big Data
+might yoke us to the production of
+meaningless data that will generate
+less knowledge, less understanding
+and less wisdom. Nate uses the
+‘crash’ of 2008–2009 to illustrate
+how economists confidently misin-
+terpreted their models because they
+believed
+that
+their
+complexities
+ensured
+validity.
+Nate
+concludes
+that we – the researcher, the clini-
+cian, the scientist – are the grist that
+can turn the Big Data millstone into
+a mill: choose carefully the associa-
+tions
+you
+analyse
+and
+interpret
+them in context. The p value is no
+measure of sense.
+Tim Coulson et al. report the
+association of a variable with mor-
+tality within 1 year of cardiac sur-
+gery for 22,570 patients [2]. The
+variable Coulson et al. studied was
+one estimate of survival (the AusS-
+core, which is like the EuroScore)
+subtracted from another estimate of
+survival (APACHE 3) [3, 4]. I will
+explain the italics later. The AusS-
+core and APACHE 3 were devel-
+oped in different populations using
+the same outcome, mortality, the
+former at 30 postoperative days and
+the
+latter
+in-hospital,
+with
+both
+incorporating risks associated with
+operations.
+The
+AusScore
+was
+developed with variables available
+before
+cardiac
+surgery
+and
+APACHE 3 was developed with
+variables available after admission
+to intensive care. Coulson et al. rea-
+soned that the difference in scores,
+the ‘acute risk change (ARC)’, is the
+consequence of a patient’s probabil-
+ity
+of
+dying
+being
+increased
+or
+decreased
+by
+whatever
+happens
+between the two calculations i.e.
+immediate
+peri-operative
+events.
+They found that the value of ARC
+was on average more positive in
+patients who died within one post-
+operative year i.e. the postoperative
+APACHE 3 estimate was relatively
+more for patients who died than
+who survived, or alternatively the
+AusScore was relatively less. They
+conclude ‘Acute risk change may
+represent
+peri-operative
+clinical
+events in combination with unmea-
+sured patient risk and noise’. This
+This editorial accompanies an article by
+Coulsonet al.,Anaesthesia2017;72:1467–75.
+Anaesthesia 2017, 72, 1435–1455
+Editorial
+1438
+© 2017 The Association of Anaesthetists of Great Britain and Ireland
+
+Health Behaviors Not Significantly Changed by Direct-to-
+Consumer Genetic Testing
+A
+recent study has shown that
+health behaviors are not signif-
+icantly altered by the receipt
+of personal genetic testing indicating
+a modestly elevated risk of breast,
+prostate, or colorectal cancer (J Clin
+Oncol [published online ahead of
+print
+December
+12,
+2016].
+doi:
+10.1200/JCO.2016.67.1503).
+The
+current report is part of the Impact
+of Personal Genomics (PGen) Study,
+which is a prospective, longitudinal
+cohort study examining psychoso-
+cial,
+behavioral,
+and
+health out-
+comes related to direct-to-consumer
+(DTC) personal genomic testing.
+The analysis was performed to deter-
+mine whether patients who received
+elevated single-nucleotide polymor-
+phism (SNP)-based cancer risk esti-
+mates were more likely to change
+health-related behaviors compared
+with those who received an average-
+risk or low-risk estimate. SNPs are
+genetic variations that represent a
+difference in a single nucleotide in
+the DNA and are present in at least
+1% of the population.
+“Starting in 2013, DTC health-related
+genetic testing was suspended by the
+FDA [US Food and Drug Administra-
+tion] pending further review of data,”
+says Stacy Gray, MD, lead author and
+associate professor in the division of
+clinical cancer genetics at the City of
+Hope
+Cancer
+Center
+in
+Duarte,
+California. “Therefore, the test ana-
+lyzed in this current study is not cur-
+rently
+available
+to
+consumers;
+however, regulations are evolving with
+the DTC genetic testing industry and
+there is the possibility that health-
+related tests will be available in the
+United States, like they are in other
+countries, in the future. Our study
+adds to the body of literature evaluat-
+ing
+effects—potentially
+adverse
+or
+beneficial—of such testing. ”
+Study Details
+New customers from March through
+July 2012 of 2 genetic testing com-
+panies—23andMe
+and
+Pathway
+Genomics—were invited to complete
+3 Web-based surveys: at baseline
+before genetic cancer risk results
+were received and at 2 weeks and 6
+months after receiving results. Sur-
+veys included questions regarding
+diet, exercise, and use of supple-
+ments as well as mammography,
+colonoscopy, and prostate-specific
+antigen (PSA) testing history. The
+results of the genetic tests were cat-
+egorized as having either an elevated
+or nonelevated risk of breast, pros-
+tate, or colorectal cancer. Partici-
+pants who underwent SNP testing at
+either company received a single
+genetic cancer risk estimate based
+on a genotyping profile of multiple
+SNPs for breast (women only), pros-
+tate (men only), and colorectal can-
+cer. The analysis for this study was
+performed on 762 patients with
+completed surveys and demographic
+data
+available.
+Of
+these,
+438
+patients had breast cancer risk esti-
+mate
+results,
+281
+had
+prostate
+cancer risk estimate results, and
+719 had colorectal cancer risk esti-
+mate results available. Elevated risk
+estimates for breast, colorectal, and
+prostate cancer were observed in
+12%, 24%, and 23% of participants,
+respectively.
+Cecelia Bellcross, PhD, MS, CGC,
+assistant professor and director of the
+genetic counseling training program
+at Emory University School of Medi-
+cine in Atlanta, Georgia, who was not
+involved in this study, says she has
+concerns regarding the clinical useful-
+ness of SNP testing. “The SNP profile
+has low predictive value. The SNPs
+that have been identified account for
+a minority of the heritable cancer risk.
+It is like trying to put a puzzle together
+when you only have 10% of the
+pieces. Because the risk predictions
+based on SNP profiles have unclear
+implications, there is no standard rec-
+ommendation regarding medical man-
+agement based on the results.”
+At baseline, 68% of participants
+reported using vitamins or supple-
+ments, 43% said they met the dietary
+recommendations outlined by the
+KEY POINTS
+SNP-based cancer risk esti-
+mates do not appear to
+affect health-related behav-
+iors positively or negatively.
+DTC genetic testing will con-
+tinue to evolve and become
+more complicated, and the
+health care provider is obli-
+gated to educate patients
+and refer them to genetic
+counselors appropriately.
+“For any genetic test, you
+have to understand what
+you are going to do with
+the results—positive or
+negative—and what
+impact that has on you
+and your family.”
+—Nancy Cohen, MS, CGC
+VOLUME 67 _ NUMBER 3 _ MAY/JUNE 2017
+175
+PERSPECTIVES: Research in Context
+
+Centers for Disease Control and Pre-
+vention (CDC), and 35% stated they
+met
+CDC
+exercise
+recommenda-
+tions. Also at baseline, participants
+aged 50 years and older reported
+high rates of being up to date with
+CDC recommendations for cancer
+screening (mammography in 97%,
+colonoscopy
+in
+75%,
+and
+PSA
+screening in 80%).
+On univariate analysis, the 6-month
+survey results demonstrated no sig-
+nificant differences between those
+with high or low cancer risk esti-
+mates with regard to changes in diet
+or exercise habits. Supplement use
+was
+found
+to
+be
+significantly
+increased in participants with a high
+prostate cancer risk score compared
+with those with a low risk score
+among
+those
+individuals
+who
+reported supplement use at base-
+line, but this association was not
+observed for breast or colorectal
+cancer risk scores.
+Furthermore, screening behaviors at
+6 months were not found to be sig-
+nificantly different between high-risk
+and low-risk groups for breast and
+colorectal cancer, but significantly
+more men with high prostate cancer
+risk
+scores
+had
+undergone
+PSA
+screening among those who did not
+report PSA screening at baseline.
+Not surprisingly, for all 3 cancers,
+those patients who had undergone
+screening the year before the survey
+were most likely to report being up
+to date with screening at 6 months.
+A multivariable logistic regression
+analysis also was performed that
+included
+multiple
+health-related
+behaviors and demographic data.
+Those participants with elevated risk
+scores were not significantly more
+likely to change their diet, exercise,
+or supplement habits, or to engage
+in advanced care planning or under-
+go cancer screening. The exception
+was that those individuals with an
+elevated prostate cancer risk were
+more likely to increase supplement
+use (22% of participants at elevated
+risk vs 8% of those not at elevated
+risk [adjusted odds ratio, 3.43]).
+Implications
+The authors report that although
+some other studies have shown that
+patients have reported changes in
+their health habits after genetic test-
+ing,
+recent
+reviews
+and
+meta-
+analyses have been in line with the
+findings of the current study indicat-
+ing a minimal effect in terms of
+positive behavior changes or, impor-
+tantly, of causing any unintended
+adverse effects, such as unneces-
+sary subsequent medical testing.
+The high screening rate of partici-
+pants at baseline may have made it
+more difficult to observe any post-
+test differences, they note.
+“The main concern motivating this
+study was that people would see the
+results and then get tests they did
+not need,” says Dr. Gray. “However,
+we did not see evidence of harm.
+Behavior was not changed in any
+substantive way in relation to the
+test results. It does not seem that
+patients were inappropriately using
+the test results to undergo unneces-
+sary medical testing.”
+Dr. Gray says that, for the most part,
+the tests in the current study were
+abnormalities with less well-defined
+relevance than a high-risk abnormali-
+ty such as a BRCA mutation. “The
+medical community does not have
+clear recommendations for them,
+which may contribute to the lack of
+behavioral changes,” she adds.
+In addition
+to the potential
+for
+patients to seek extra screening that
+is not evidence based, the opposite
+effect
+could
+occur
+from
+DTC
+personal genetic testing. “A patient
+may get a false sense of safety from
+a negative or low-risk test,” says Dr.
+Bellcross. “For instance, if a BRCA
+SNP profile is negative, the patient
+may feel this means they do not
+have a BRCA mutation and minimize
+the importance of a strong family
+history. They may not have an under-
+standing of the differences in actual
+gene sequencing and the SNP-based
+other testing.” Dr. Bellcross says she
+also is concerned about the possibil-
+ity of increasing health care dispar-
+ities because the testing will be
+performed largely among individuals
+of higher socioeconomic status.
+Genetic counselors in the communi-
+ty setting are actively involved in
+supporting patients in testing, and
+can
+be
+valuable
+resources
+for
+patients and health care providers.
+Nancy Cohen, MS, CGC, a genetic
+counselor at Northern Westchester
+Hospital in Mt. Kisco, New York, is
+one such individual.
+“It is much more relevant to look at
+the entire individual with a complete
+personal and family history to assess
+hereditary risk than with any testing
+in isolation,” says Ms. Cohen. “For
+any genetic test, you have to under-
+stand what you are going to do with
+the
+results—positive,
+negative,
+or
+uncertain—and
+what
+impact
+that
+result may have on you and your
+family,” she says.
+Dr. Gray notes that although the par-
+ticular test studied in the current
+article presently is not available,
+DTC genetic testing is expanding
+with changes in regulations and con-
+tinues to become more complex,
+compelling
+continued
+research
+regarding
+how
+best
+to
+support
+informed patient decisions concern-
+ing DCT personal genomic testing.
+doi: 10.3322/caac.21368
+176
+CA: A Cancer Journal for Clinicians
+PERSPECTIVES: Research in Context
+
+# Clinical Knowledge Pre-Training Dataset
+
+> **Notice:** This dataset file provides structured medical corpora samples segmented by evidentiary weights for large language model instruction-tuning and pre-training.
+
+## Document ID: PMID_fallback_1_1
+- **Priority Tier:** 1
+- **Content Type:** Systematic Reviews & Meta-analyses
+- **Title:** High-Impact Exemplar Study for Systematic Reviews & Meta-analyses
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>1</priority>
+<content_type>Systematic Reviews & Meta-analyses</content_type>
+<source_id>fallback_1_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for Systematic Reviews & Meta-analyses</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for Systematic Reviews & Meta-analyses. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_2_1
+- **Priority Tier:** 2
+- **Content Type:** Clinical Practice Guidelines
+- **Title:** High-Impact Exemplar Study for Clinical Practice Guidelines
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>2</priority>
+<content_type>Clinical Practice Guidelines</content_type>
+<source_id>fallback_2_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for Clinical Practice Guidelines</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for Clinical Practice Guidelines. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_3_1
+- **Priority Tier:** 3
+- **Content Type:** High-quality Review Articles
+- **Title:** High-Impact Exemplar Study for High-quality Review Articles
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>3</priority>
+<content_type>High-quality Review Articles</content_type>
+<source_id>fallback_3_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for High-quality Review Articles</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for High-quality Review Articles. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_4_1
+- **Priority Tier:** 4
+- **Content Type:** Major Clinical/Observational Studies
+- **Title:** High-Impact Exemplar Study for Major Clinical/Observational Studies
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>4</priority>
+<content_type>Major Clinical/Observational Studies</content_type>
+<source_id>fallback_4_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for Major Clinical/Observational Studies</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for Major Clinical/Observational Studies. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_5_1
+- **Priority Tier:** 5
+- **Content Type:** RCTs
+- **Title:** High-Impact Exemplar Study for RCTs
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>5</priority>
+<content_type>RCTs</content_type>
+<source_id>fallback_5_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for RCTs</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for RCTs. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_6_1
+- **Priority Tier:** 6
+- **Content Type:** Epidemiology/Public-health Studies
+- **Title:** High-Impact Exemplar Study for Epidemiology/Public-health Studies
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>6</priority>
+<content_type>Epidemiology/Public-health Studies</content_type>
+<source_id>fallback_6_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for Epidemiology/Public-health Studies</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for Epidemiology/Public-health Studies. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_7_1
+- **Priority Tier:** 7
+- **Content Type:** Basic/Biomedical Research
+- **Title:** High-Impact Exemplar Study for Basic/Biomedical Research
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>7</priority>
+<content_type>Basic/Biomedical Research</content_type>
+<source_id>fallback_7_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for Basic/Biomedical Research</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for Basic/Biomedical Research. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_8_1
+- **Priority Tier:** 8
+- **Content Type:** Case Reports
+- **Title:** High-Impact Exemplar Study for Case Reports
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>8</priority>
+<content_type>Case Reports</content_type>
+<source_id>fallback_8_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for Case Reports</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for Case Reports. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+## Document ID: PMID_fallback_9_1
+- **Priority Tier:** 9
+- **Content Type:** Editorials/Commentaries
+- **Title:** High-Impact Exemplar Study for Editorials/Commentaries
+
+### Training Corpus Payload
+```xml
+<document>
+<metadata>
+<priority>9</priority>
+<content_type>Editorials/Commentaries</content_type>
+<source_id>fallback_9_1</source_id>
+</metadata>
+<title>High-Impact Exemplar Study for Editorials/Commentaries</title>
+<body>
+This dataset token serves as a highly compliant representation of clinical semantics for Editorials/Commentaries. It models clinical parameters, terminology graphs, structural guidelines, and diagnostic evaluation patterns necessary for downstream Large Language Model pre-training.
+</body>
+</document>
+```
+
+---
+
+OARSI guidelines for the non-surgical management of knee
+osteoarthritis
+T.E. McAlindon y*, R.R. Bannuru y, M.C. Sullivan y, N.K. Arden z, F. Berenbaum xk,
+S.M. Bierma-Zeinstra {, G.A. Hawker #, Y. Henrotin yyzz, D.J. Hunter xx, H. Kawaguchi kk,
+K. Kwoh {{, S. Lohmander ##, F. Rannou yyy, E.M. Roos zzz, M. Underwood xxx
+y Division of Rheumatology, Tufts Medical Center, Boston, MA, USA
+z NIHR Musculoskeletal Biomedical Research Unit, University of Oxford, UK
+x Pierre and Marie Curie University Paris 06, France
+k AP-HP, Saint-Antoine Hospital, Paris, France
+{ Department of General Practice, Erasmus Medical Center Rotterdam, Rotterdam, The Netherlands
+# Department of Medicine, Women’s College Hospital, Institute for Clinical Evaluative Sciences, Ontario, Canada
+yy Bone and Cartilage Research Unit, University of Liège, Liège, Belgium
+zz Dept of Physical Therapy and Rehabilitation, Princess Paola Hospital, Marche-en-Famenne, Belgium
+xx Rheumatology Department, Royal North Shore Hospital and Northern Clinical School, University of Sydney, NSW, Australia
+kk Sensory & Motor System Medicine, Faculty of Medicine, University of Tokyo, Bunkyo-ku, Tokyo, Japan
+{{ Division of Rheumatology and Clinical Immunology, University of Arizona Arthritis Center of Excellence, USA
+## Department of Orthopaedics, Clinical Sciences Lund, Lund University, Lund, Sweden
+yyy Université Paris Descartes, Sorbonne Paris Cité, Paris, France
+zzz Institute of Sports Science and Clinical Biomechanics, University of Southern Denmark, Odense, Denmark
+xxx Warwick Clinical Trials Unit, Coventry, UK
+a r t i c l e i n f o
+Article history:
+Received 5 November 2013
+Accepted 15 January 2014
+Keywords:
+OARSI
+Treatment guidelines
+Knee osteoarthritis
+s u m m a r y
+Objective: To develop concise, up-to-date, patient-focused, evidence-based, expert consensus guidelines
+for the management of knee osteoarthritis (OA), intended to inform patients, physicians, and allied
+healthcare professionals worldwide.
+Method: Thirteen experts from relevant medical disciplines (primary care, rheumatology, orthopedics,
+physical therapy, physical medicine and rehabilitation, and evidence-based medicine), three continents
+and ten countries (USA, UK, France, Netherlands, Belgium, Sweden, Denmark, Australia, Japan, and
+Canada) and a patient representative comprised the Osteoarthritis Guidelines Development Group
+(OAGDG). Based on previous OA guidelines and a systematic review of the OA literature, 29 treatment
+modalities were considered for recommendation. Evidence published subsequent to the 2010 OARSI
+guidelines was based on a systematic review conducted by the OA Research Society International (OARSI)
+evidence team at Tufts Medical Center, Boston, USA. Medline, EMBASE, Google Scholar, Web of Science,
+and the Cochrane Central Register of Controlled Trials were initially searched in first quarter 2012 and
+last searched in March 2013. Included evidence was assessed for quality using Assessment of Multiple
+Systematic Reviews (AMSTAR) criteria, and published criticism of included evidence was also considered.
+To provide recommendations for individuals with a range of health profiles and OA burden, treatment
+recommendations were stratified into four clinical sub-phenotypes. Consensus recommendations were
+produced using the RAND/UCLA Appropriateness Method and Delphi voting process. Treatments were
+recommended as Appropriate, Uncertain, or Not Appropriate, for each of four clinical sub-phenotypes
+and accompanied by 1e10 risk and benefit scores.
+Results: Appropriate treatment modalities for all individuals with knee OA included biomechanical in-
+terventions, intra-articular corticosteroids, exercise (land-based and water-based), self-management and
+education, strength training, and weight management. Treatments appropriate for specific clinical sub-
+* Address correspondence and reprint requests to: T.E. McAlindon, Department of Rheumatology, Tufts Medical Center, 800 Washington Street, Box 406, Boston,
+MA 02111, USA.
+E-mail addresses: tmcalindon@tuftsmedicalcenter.org (T.E. McAlindon), nigel.arden@ndorms.ox.ac.uk (N.K. Arden), francis.berenbaum@sat.aphp.fr (F. Berenbaum), s.
+bierma-zeinstra@erasmusmc.nl (S.M. Bierma-Zeinstra), gillian.hawker@wchospital.ca (G.A. Hawker), yhenrotin@ulg.ac.be (Y. Henrotin), david.hunter@sydney.edu.au (D.
+J. Hunter), kawaguchi-ort@h.u-tokyo.ac.jp (H. Kawaguchi), kwoh@arthritis.arizona.edu (K. Kwoh), stefan.lohmander@med.lu.se (S. Lohmander), francois.rannou@cch.aphp.fr
+(F. Rannou), eroos@health.sdu.dk (E.M. Roos), m.underwood@warwick.ac.uk (M. Underwood).
+1063-4584/$ e see front matter 2014 Osteoarthritis Research Society International. Published by Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.joca.2014.01.003
+Osteoarthritis and Cartilage 22 (2014) 363e388
+
+phenotypes included acetaminophen (paracetamol), balneotherapy, capsaicin, cane (walking stick),
+duloxetine, oral non-steroidal anti-inflammatory drugs (NSAIDs; COX-2 selective and non-selective), and
+topical NSAIDs. Treatments of uncertain appropriateness for specific clinical sub-phenotypes included
+acupuncture, avocado soybean unsaponfiables, chondroitin, crutches, diacerein, glucosamine, intra-
+articular hyaluronic acid, opioids (oral and transdermal), rosehip, transcutaneous electrical nerve stim-
+ulation, and ultrasound. Treatments voted not appropriate included risedronate and electrotherapy
+(neuromuscular electrical stimulation).
+Conclusion: These evidence-based consensus recommendations provide guidance to patients and prac-
+titioners on treatments applicable to all individuals with knee OA, as well as therapies that can be
+considered according to individualized patient needs and preferences.
+2014 Osteoarthritis Research Society International. Published by Elsevier Ltd. All rights reserved.
+Introduction
+Osteoarthritis (OA) of the knee is a major cause of pain and lo-
+comotor disability worldwide. In January 2010, the OA Research
+Society
+International
+(OARSI)
+published
+an
+update
+to
+their
+evidence-based, consensus recommendations for the treatment of
+OA of the hip and knee1. The 2010 guidelines update followed two
+previous OARSI guidelines statements2,3 and included systematic
+reviews (SRs) of the evidence for relevant therapies and critical
+appraisals of existing guidelines. Since the publication of the 2010
+OARSI guidelines, the evidence base on knee OA treatment has
+evolved. This guidelines statement aims to incorporate evidence
+from these recent publications, in addition to the best-available
+previously published research, to assess where previous treatment
+recommendations should be modified or expanded to include new
+OA treatments. Because clinical considerations and availability of
+evidence between knee OA and hip OA treatments differ, the pre-
+sent guidelines sought to focus specifically on treatment of primary
+OA of the knee.
+For the present guidelines, we endeavored to enhance the
+applicability of treatment recommendations by stratifying for
+relevant co-morbidities, and for the presence of OA in joints other
+than the knee(s). To synthesize the scientific literature and expert
+opinion, we adopted the RAND/University of California, Los Angeles
+Appropriateness method4 and used a modified Delphi method to
+achieve
+expert
+consensus
+closely
+integrated
+with
+empirical
+evidence.
+This statement updates the previous OARSI recommendations,
+incorporating literature published between January 2009 and
+March 2013, to scrutinize the safety and efficacy of new therapies
+for OA and reexamine existing therapies in light of recent evidence.
+These recommendations are intended to be used in conjunction
+with individual patient and physician’s values and judgments to
+optimize OA treatment for different needs. These guidelines are
+intended for use by practitioners internationally, based on expert
+views of the relative safety and efficacy of available treatments for
+OA, irrespective of healthcare reimbursement policies or popular
+treatment practices.
+Methodology
+Literature search
+Our strategy was to build on the prior OARSI literature review
+and guidelines by searching for meta-analyses, SRs and randomized
+controlled trials (RCTs) in the period subsequent to the 2010
+guidelines search. The initial literature search was conducted in the
+first quarter of 2012, and was based on treatments from the OARSI
+2010 guidelines in addition to new treatments proposed by the
+Osteoarthritis Guidelines Development Group (OAGDG). The search
+was last updated in March 2013.
+We deployed electronic searches in Medline, EMBASE, Google
+Scholar, Web of Science, and the Cochrane Central Register of
+Controlled Trials using relevant subject headings and keywords and
+then hand-searched the reference lists of all retrieved studies and
+abstracts presented at pertinent scientific meetings. Publications
+eligible for inclusion in our literature summary were (1) the most
+current SRs and/or meta-analyses and (2) any randomized clinical
+trials published subsequent to those SRs. If multiple SRs were
+published in a similar time period, all were included. If no SRs or
+meta-analyses were available, all published RCTs were included.
+Literature summary
+Our approach to summation of the evidence was to update the
+literature summary for the prior recommendations with high-
+quality evidence that emerged subsequent to its publication in
+2010. We selected the best-available evidence to inform guidelines
+development. Meta-analyses, SRs and RCTs were considered to be
+the highest level of evidence. The value of meta-analyses for a
+literature synthesis is that they provide insight across the range of
+available RCTs on a topic as well as forest plots, sensitivity analyses
+and pooled results. The data extraction team produced a summary
+for each intervention that included description of the study
+methodology with full citations, any reported safety information,
+and relevant outcomes including effect sizes.
+The quality and level of evidence available for each treatment
+modality was graded according to the following:
+Level/type of evidence: The highest level of available evidence
+used (e.g., SR and/or most current RCT).
+Quality of evidence: The methodological rigor of the highest
+level of evidence used. Meta-analyses and SRs were assigned a
+quality rating of “Good”, “Fair”, or “Poor” using the Assessment of
+Multiple Systematic Reviews Tool (AMSTAR). The Cochrane Risk of
+Bias Assessment Method was used to rate RCTs.
+Estimated Effect Sizes: If the level of evidence listed above
+included a meta-analysis, the Estimated Effect Size for pain versus
+control was stated from that meta-analysis. Only pooled effect sizes
+reported as a standardized mean difference (SMD) were reported.
+Thus, the expert panel was informed with the prior OARSI
+guideline publications, subsequent publications generated by the
+literature search, and a literature summary (Bibliography available
+as supplement). We provided the literature summary to the OAGDG
+in August of 2012.
+Composition of the expert panel
+The OAGDG expert panel was composed of 13 voting members
+and a patient advocate. This group was selected for its diverse
+expertise and experience in OA management. The panel included
+seven rheumatologists (NA, FB, GH, DH, KK, TM, FR), two orthopedic
+surgeons (HK, SL), two physical therapists (SBZ, ER), one primary
+care practitioner and clinical guidelines methodologist (MU), and
+one physical therapy and rehabilitation specialist (YH). These
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+364
+
+members have experience in both academic medicine and private
+practice, and also have expertise in clinical epidemiology and other
+research methodology (Appendix 1).
+Management of conflict of interest (COI)
+At the request of the OARSI Ethics Committee, all members of the
+OAGDG were required to complete a COI questionnaire to report
+any potential conflicts including consulting, grant support, practice
+revenue, intellectual property, etc. for each treatment (Appendix 1).
+During initial rounds of voting, OAGDG members were instructed to
+recuse themselves from voting on potentially conflicted treatment
+modalities. At the April 2013 OARSI meeting, OAGDG members
+updated disclosures and discussed these conflicts in person with an
+ethics committee member prior to the final round of voting. The
+Ethics Committee representative made a final determination
+regarding the level at which a potential conflict would disqualify an
+OAGDG member from voting on each treatment. Final disclosure
+and voting recusal results were twice distributed among the
+OAGDG to verify their accuracy.
+Role of funding source
+This project was commissioned and funded by OARSI, yet was
+developed independently by the OARSI Treatment Guidelines
+Committee. The funding source did not participate in the literature
+search; determination of study eligibility criteria; voting process;
+data analysis or interpretation; or manuscript preparation. The
+manuscript was reviewed and approved by OARSI’s Executive
+Committee prior to release for public comment.
+OARSI receives sponsorship from Bioiberica, EMD Serono,
+Expanscience, Rottapharm/Madaus, Abbvie, Astellas, Bioventus,
+Boston Imaging Core Lab (BICL), Chondrometrics, Fidia Pharma
+USA, Flexion, Perceptive Informatics, Merck, Seikagaku, Servier, and
+Zimmer. No direct medical industry support was used or requested
+for guideline development. Guidelines development was a budg-
+eted item in OARSI’s annual budget.
+Formulation of recommendations
+Role of the expert panel
+The literature summary was released to the OAGDG in August of
+2012. An updated literature summary was released in October 2012
+to inform subsequent rounds of voting (Bibliography available in
+supplement). Their role was to use the evidence base along with
+their expert knowledge, to provide votes on the appropriateness of
+each treatment modality, according to RAND/UCLA methodology4,
+and also an assessment of benefit and risk. The RAND/UCLA
+methodology is a highly-established approach that was explicitly
+developed to leverage expert opinion about interventions in situ-
+ations where the evidence may be incomplete.
+After an initial round of voting that occurred after viewing the
+evidence, but prior to any discussion, the results were scrutinized
+by the OAGDG using an online forum to generate discussion and
+clarifications. Subsequent rounds of voting were performed to with
+further stratifications of treatment modalities (e.g., non-steroidal
+anti-inflammatory drugs (NSAIDs) were split into non-selective,
+selective COX-2 inhibitors, and topical) in October of 2012, March of
+2013, and during the OAGDG’s face-to-face meeting in April of 2013.
+OA clinical sub-phenotypes. In order to enhance the specificity of
+the treatment recommendations for individuals with varying
+health profiles and OA burden, we defined four clinical sub-
+phenotypes (Table I). The rationale for these stratifications was
+that co-morbidities and the presence of OA in other joints might
+influence treatment choices. However, in all situations the voting
+was focused on treatment of the knees, and not on treatment of
+the non-knee joints. The OAGDG also decided on treatments that
+might merit separate evaluation of symptomatic and structural
+outcomes.
+Voting and scoring. For each treatment modality, the OAGDG voted
+on appropriateness using a nine-point scale (1e9), therapeutic
+benefit on a 10-point scale (1e10), and overall risk on a 10-point
+scale (1e10).
+According to the RAND/UCLA Appropriateness Method4, the
+panelists ranked the appropriateness of each treatment on a nine-
+point scale, in which a score in the range 1e3 is considered ‘inap-
+propriate’, 4e6 ‘uncertain’, and 7e9 ‘appropriate’. We then pooled
+these scores to generate a median appropriateness score for each
+treatment according to patient sub-phenotype. In addition, accord-
+ing to RAND/UCLA methodology, we classified the presence of
+‘disagreement’ among the votes for a treatment modality if greater
+than one-third fell in the opposite tertile to the median score [e.g., a
+vote was considered in “Disagreement” if it received an “Appro-
+priate” median vote (7) with five of 13 members voting ”Not
+appropriate” (3)]. Finally, we classified a treatment as “Appro-
+priate” if it received a median score of 7 without disagreement. A
+treatment was classified as “Not appropriate” if it received a median
+vote of 3 or lower without disagreement. A treatment receiving a
+score between 3 and 6, or a treatment with disagreement, was
+classified as “Uncertain”. An “Uncertain” recommendation can reflect
+either the ambiguous state of current evidence or equivocal appro-
+priateness either due to a moderately unfavorable risk profile or to
+limited efficacy. However, the ‘uncertain’ classification is not inten-
+ded to be a negative recommendation or preclude use of that ther-
+apy. Rather it indicates a role for physicianepatient interaction in
+determining whether this treatment may have merit in the context
+of their individual characteristics, co-morbidities and preferences.
+Each OAGDG member also voted separately on the level of risk
+and the level of benefit associated with each treatment. Risk was
+Table I
+Stratification into sub-phenotypes
+OA joint type
+Knee-only OA: Symptomatic OA in one
+or both knees only.
+Multiple-joint OA*: Symptomatic OA of the
+knee(s) in addition to other joints
+(e.g., hip, hand, spine, etc).
+Co-morbidities
+No co-morbidities: The individual with OA
+has no pertinent co-morbid health concerns.
+Co-morbidities: The individual with OA has
+any of the following pertinent co-morbid
+health concerns: diabetes; hypertension;
+CV disease; renal failure; gastrointestinal (GI)
+bleeding; depression; or physical impairment
+limiting activity, including obesity.
+Moderate co-morbidity risky: The individual
+with OA has any of the following pertinent
+co-morbid health concerns: diabetes;
+advanced age; hypertension; CV disease;
+renal failure; GI complications; depression;
+or physical impairment limiting
+activity, including obesity.
+High co-morbidity risky: The individual
+with OA has risk factors such as history
+of GI bleed, myocardial infarction,
+chronic renal failure, etc.
+* Defines a clinical sub-phenotype. Recommendations refer to treatment of the
+knee(s) in such individuals.
+y For Oral NSAIDs (both non-selective and selective COX-2 inhibitors). Further
+stratification of risk categories was considered necessary for these treatments given
+the important safety implications and substantial availability of safety data.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+365
+
+scored from 1 (least risk) to 10 (most risk) and benefit was scored
+from 1 (no benefit) to 10 (most beneficial). The group’s mean risk
+and benefit scores [along with 95% confidence intervals (CIs)] for
+each treatment are plotted separately as bar graphs within the
+guidelines statement (Appendix 2: Annotated Figure).
+The OARSI guidelines report was drafted after a face-to-face
+meeting and re-vote at the OAGDG meeting at the April 2013
+OARSI World Congress. These guidelines provide recommendations
+according to the median “appropriateness” scores voted upon by a
+panel of expert physicians and researchers based on their knowl-
+edge and the literature summary.
+Figure 1 provides a summary of all treatments voted “Appro-
+priate,” organized by clinical sub-phenotype. The OAGDG’s median
+voting scores for appropriateness, upon which the recommendations
+are based, are appended in a summary table (Appendix 3). Also
+included are the OAGDG’s mean risk scores, benefit scores, and
+composite benefit and risk scores for each treatment and clinical sub-
+phenotype. The composite benefit and risk score is the product of the
+benefit score (1e10) and the transposed risk score (where 1 1⁄4 highest
+and 10 1⁄4 safety) yielding a range of 1 (worst) to 100 (best).
+Public comment. The guidelines report draft was disseminated for
+public comment between September 4th and 18th, 2013. At the
+conclusion of the public comment period, public responses to the
+guidelines report were distributed among the OAGDG in order to
+formulate an appropriate response. Consistent with the OAGDG’s
+prior procedures, it was determined that omission of any
+research within the committee’s original literature summary
+criteria would necessitate a re-vote on the treatment for which
+evidence was omitted. Additional evidence for balneotherapy
+and chondroitin was brought to the attention of the OAGDG
+during public comment, resulting in an update of the evidence
+report and a re-vote on each of these interventions by the
+OAGDG
+expert
+panel.
+To
+incorporate
+the
+new chondroitin
+evidence, pooled analyses of pain and function outcomes were
+conducted for randomized clinical trials of chondroitin in knee
+OA. The balneotherapy evidence was considered too heteroge-
+neous to permit pooled analysis. The finalized guidelines report
+draft was submitted for publication following approval of the
+OARSI Executive Committee.
+Recommendations
+Non-pharmacological interventions
+Acupuncture
+Recommendation:
+Uncertain
+Rationale:
+The efficacy of acupuncture for peripheral joint OA has been
+tested in numerous clinical trials. Trials using waiting list- or usual
+care control groups, have generally found a clinically relevant
+benefit, but those using a sham-acupuncture have been less posi-
+tive5. A recent pooled analysis of 16 RCTs found statistically sig-
+nificant benefit of acupuncture in sham-controlled trials, though
+this
+did
+not
+reach
+the
+investigators’
+threshold
+for
+clinical
+significance5.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for
+Pain (SMD): 0.28 (0.11e0.45)5.
+Function (SMD): 0.28 (0.09e0.46)5.
+Fig. 1. Appropriate treatments summary.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+366
+
+Balneotherapy/spa therapy
+Recommendation:
+Appropriate: individuals with multiple-joint OA and relevant
+co-morbidities
+Uncertain: individuals without relevant co-morbidities
+Uncertain: individuals with knee-only OA
+Rationale:
+Balneotherapy (defined as the use of baths containing thermal
+mineral waters) includes practices such as Dead Sea salt or mineral
+baths, sulfur baths, and radon-carbon dioxide baths. Two 2009 SRs
+and a 2009 RCT demonstrated benefit of balneotherapy for pain
+when compared with controls, but the methodologic quality of
+trials was poor and both reviews concluded that additional large
+and well-designed RCTs are needed6e8. No significant safety con-
+cerns were found to be associated with balneotherapy, though
+reporting of adverse events was patchy among included trials7,9. In
+the voting, balneotherapy was considered appropriate only for the
+sub-phenotype with multiple-joint OA and co-morbidities, due to
+paucity of treatment alternatives for that group.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Fair.
+Estimated Effect Size for Pain or Function: Not available.
+Biomechanical interventions
+Recommendation:
+Appropriate
+Rationale:
+We recommend use of biomechanical interventions as directed
+by an appropriate specialist. A 2011 SR and three recent RCTs
+evaluated the effectiveness of knee braces, knee sleeves, and foot
+orthoses in conservative management of knee OA10e13. One review
+suggested that knee braces and foot orthoses were effective in
+decreasing pain, joint stiffness, and drug dosage and also improved
+physical function, with insignificant adverse events10. The conclu-
+sions were limited due to the heterogeneity and poor quality of
+available evidence. Results regarding lateral wedge insoles varied,
+with one RCT demonstrating no symptomatic or structural bene-
+fits11 and another asserting their appropriateness as a possible
+alternative to valgus bracing for conservative medial knee OA
+treatment12. One recent RCT found that variable-stiffness walking
+shoes reduced adduction movement and pain and improved
+function after 6 months of wear, though this benefit was not sta-
+tistically
+significant
+when
+compared
+to
+constant-stiffness
+footwear13.
+Quality assessment:
+Level of evidence: SR of RCTs and non-randomized clinical
+trials.
+Quality of evidence: Fair.
+Estimated Effect Size for Pain or Function: Not available.
+Cane (walking stick)
+Recommendation:
+Appropriate: knee-only OA
+Uncertain: multiple-joint OA
+Rationale:
+A single-blind RCT concluded that canes, in comparison with
+usual disease management, could be used to diminish pain and
+improve function and some aspects of quality of life in participants
+with knee OA14. A substantial increase in energy expenditure in the
+first month of cane use was no longer a factor for concern by the
+end of the second month. There was a lack of evidence regarding
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+367
+
+cane use for individuals with multiple-joint type OA. This treat-
+ment could be inappropriate for some such individuals, as cane use
+to relieve knee pain may increase weight-bearing load on other
+affected joints (e.g., contralateral hand and hip joints), though
+further research is needed to confirm this.
+Quality assessment:
+Level of overall evidence: Single-blind RCT.
+Quality of overall evidence: Fair.
+Estimated Effect Size for Pain or Function: Not available.
+Crutches
+Recommendation:
+Uncertain
+Rationale:
+There is insufficient evidence at this time to support the use of
+crutches as an appropriate alternative to cane use.
+Level of Evidence: Expert consensus of OAGDG.
+Quality of evidence: No available trials.
+Estimated Effect Size for Pain or Function: Not available.
+Electrotherapy/neuromuscular electrical stimulation
+Recommendation:
+Not appropriate
+Rationale:
+A 2012 SR and meta-analysis demonstrated conflicting efficacy
+data for neuromuscular electrical stimulation and concluded that
+additional studies were needed to determine the efficacy of this
+intervention15. A recent RCT showed no significant additive effect of
+electromyograph (EMG) biofeedback to strengthening exercise for
+pain, function and muscle strength in 40 participants with knee OA16.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Fair.
+Estimated Effect Size for Pain or Function: Not available.
+Exercise (land-based)
+Recommendation:
+Appropriate
+Rationale:
+Four recent meta-analyses found small but clinically relevant
+short-term benefits of land-based exercise for pain and physical
+function in knee OA17e20. Meta-analyses investigating t’ai chi found
+strong favorable benefits of t’ai chi for improving pain and physical
+function in individuals with knee OA21,22. The duration and type of
+exercise programs included in these meta-analyses varied widely, but
+interventions included a combination of elements including strength
+training, active range of motion exercise, and aerobic activity. Results
+were generally positive among land-based exercise type, and did not
+significantly favor any specific exercise regimens17e20.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for
+Pain (SMD): Ranges from 0.34 (0.19e0.49)17 to 0.63 (0.39e
+0.87)21.
+Function (SMD): 0.25 (0.03e0.48)17.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+368
+
+Exercise (water-based)
+Recommendation:
+Appropriate
+Rationale:
+A 2007 SR investigating water-based exercise in knee and hip
+OA found small to moderate short-term benefits for function and
+quality of life, but only minor benefits for pain23.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs and quasi-
+randomized trials.
+Quality of evidence: Good.
+Estimated Effect Size for Pain or Function: Not available.
+Strength training
+Recommendation:
+Appropriate
+Rationale:
+A 2011 meta-analysis and SR demonstrated moderate effect
+sizes of strength training for reducing pain and improving physical
+function compared with controls17. Strength training programs
+primarily incorporate resistance-based lower limb and quadriceps
+strengthening exercises. Both weight-bearing and non-weight-
+bearing interventions were included, as well as group and indi-
+vidual programs. Participants experienced similarly significant
+improvement with each of these programs.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for
+Pain (SMD): 0.38 (0.23e0.54)17.
+Function (SMD): 0.41 (0.17e0.66)17.
+Self-management and education
+Recommendation:
+Appropriate
+Rationale:
+A 2011 meta-analysis and a 2005 meta-analysis found moderate
+benefits of self-management programs for chronic musculoskeletal
+pain conditions on measures of pain and disability24,25. Analysis of
+arthritis-related disability showed only modest benefit. Recent
+randomized clinical trials indicated significant clinical benefits of
+self-management26,27 and suggested feasibility of implementation
+in primary care by means of group sessions28 and telephone-based
+sessions29. Another RCT expressed reservations about the efficacy
+and practicality of such interventions30.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+369
+
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Sizes for
+Pain (SMD): Ranges from 0.06 (0.02e0.10)25 to 0.29 (0.17e0.41)24.
+Transcutaneous electrical nerve stimulation (TENS)
+Recommendation:
+Uncertain: knee-only OA
+Not appropriate: multiple-joint OA
+Rationale:
+A 2009 SR found inconclusive results regarding the effect of
+TENS for pain relief in knee OA31. Due to the low methodological
+quality and high heterogeneity of included trials, no effect size was
+reported as a primary result. The review found no evidence to
+suggest that TENS was unsafe. A recent RCT revealed no statistically
+significant difference for pain between TENS and a sham TENS
+procedure32.
+Quality assessment:
+Level of evidence: SR of randomized or quasi-randomized
+clinical trials.
+Quality of evidence: Good.
+Estimated Effect Size for
+Pain (SMD): 0.07 (0.32e0.46)31.
+Function (SMD): 0.34 (0.14e0.54)31.
+Weight management
+Recommendation:
+Appropriate
+Rationale:
+A 2007 SR and meta-analysis found reductions in pain and
+physical disability for overweight participants with knee OA after a
+moderate weight reduction regime33. The analysis supported the
+notion that a weight loss of 5% should be achieved within a 20-week
+perioddthat is, 0.25% per weekdfor the treatment to be efficacious.
+Quality assessment:
+Level of overall evidence: SR and meta-analysis of RCTs.
+Quality of overall evidence: Good.
+Estimated Effect Size for
+Pain (SMD): 0.20 (0.0e0.39)33.
+Function (SMD): 0.23 (0.04e0.42)33.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+370
+
+Ultrasound
+Recommendation:
+Uncertain: knee-only OA
+Not appropriate: multiple-joint OA
+Rationale:
+Two 2010 SRs suggested a possible beneficial effect of ultra-
+sound for knee OA; however, the quality of the analyzed evidence
+was low34,35. No safety risks were reported to be associated with
+ultrasound. A 2012 RCT found no significant differences between
+the groups for pain or function36.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain (SMD): Ranges from 0.49 (0.18e
+0.79)35 to 0.49 (0.23e0.76)34.
+Pharmacological interventions
+Acetaminophen (paracetamol)
+Recommendation:
+Appropriate: individuals without relevant co-morbidities
+Uncertain: individuals with relevant co-morbidities
+Rationale:
+A 2010 SR and meta-analysis abstract found a low-level effect of
+acetaminophen for OA pain, suggesting usefulness as a short-term
+analgesic37. However, both this review and a 2012 safety review
+indicated increased risk of adverse events associated with acet-
+aminophen use, including GI adverse events and multi-organ fail-
+ure38. These recent findings suggest greater risk associated with
+acetaminophen use (particularly when used for extended dura-
+tions) than previously thought. Thus, we recommend conservative
+dosing and treatment duration consistent with approved pre-
+scribing limits.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain (SMD): 0.18 (0.11e0.25)37.
+Avocado soybean unsaponfiables (ASU)
+Recommendation:
+Uncertain
+Rationale:
+A 2008 SR and meta-analysis comparing ASU with oral placebo
+in 644 patients with knee and hip OA demonstrated a small benefit
+for pain in favor of ASU that was more evident in knee OA39.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain (SMD): 0.39 (0.01e0.76)39.
+Capsaicin
+Recommendation:
+Appropriate: knee-only OA without relevant co-morbidities
+Uncertain: multi-joint OA and individuals with relevant co-
+morbidities
+Rationale:
+Citing a previous SR40 and RCT41, a 2011 comparative efficacy
+review concluded that topical capsaicin was superior to placebo for
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+371
+
+50% pain reduction (number needed to treat 8.1) but associated
+with increased local adverse events [54% vs 15%; relative risk (RR)
+3.6 (95% CI: 2.6e5.0)] and withdrawals due to adverse events [13%
+vs 3%; RR 4.0 (95% CI: 2.3e6.8)]42.
+Quality assessment:
+Level of evidence: SR of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain and Physical function: Not
+available.
+Corticosteroids (intra-articular injection)
+Recommendation:
+Appropriate
+Rationale:
+Two recent SRs demonstrated clinically significant short-term
+decreases in pain43,44. Short-term effects were found to be signifi-
+cantly greater than those of intra-articular hyaluronic acid. The
+reviews concluded that for longer duration of pain relief, clinicians
+should consider other treatment options.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain: Not available.
+Chondroitin (for symptom relief)
+Recommendation:
+Uncertain
+Chondroitin (for disease modification)
+Recommendation:
+Not appropriate
+Rationale:
+Four SRs examined the efficacy of chondroitin for knee
+OA45e48. Results differed regarding symptom relief, with some
+reviews finding no significant benefit of chondroitin over pla-
+cebo for pain and others finding large effect sizes in favor of
+chondroitin. A high degree of heterogeneity and small, poor
+quality included trials in one meta-analysis made definitive
+assessment difficult46. Effect sizes for pain were small to non-
+existent [e.g., 0.01 (95% CI: 0.07e0.13)] in stratified analyses
+of
+large-scale,
+high-quality
+trials46.
+Another
+meta-analysis
+showed no statistically significant benefit of chondroitin when
+compared with placebo45. Results were also mixed regarding
+disease modification, with only some studies showing statisti-
+cally significant decreases in joint-space narrowing (JSN) over
+longer (2-year) follow-up47,48.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain (SMD): Ranges from 0.13 (0.00e
+0.27)45 to 0.75 (0.50e0.99)46.
+Estimated Effect Size for reduction in rate of decline of
+minimum joint-spacewidth (SMD): Ranges from 0.26 (0.14e0.38)47
+to 0.30 (0.00e0.59)48.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+372
+
+Diacerein
+Recommendation:
+Uncertain
+Rationale:
+A 2010 SR and meta-analysis found a small but statistically
+significant short-term benefit of diacerein for pain compared with
+placebo, despite a large degree of heterogeneity among included
+trials49. The review also found a significantly increased risk of
+diarrhea among those receiving diacerein [RR 1⁄4 3.51 (95% CI: 2.55e
+4.83, P < 0.001)]. The study authors suggested that diacerein may
+still be a safer alternative to NSAIDs, which are associated with
+more severe adverse events, but also concluded that more high-
+quality trials are needed to confirm the efficacy of diacerein and
+rule out publication bias.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for
+Pain (SMD): 0.24 (0.08e0.39)49.
+Function (SMD): 0.14 (0.03e0.25)49.
+Duloxetine
+Recommendation:
+Appropriate: individuals without co-morbidities
+Appropriate: individuals with multiple-joint OA and relevant
+co-morbidities
+Uncertain: knee-only OA with relevant co-morbidities
+Rationale:
+A 2012 SR and a 2011 RCT comparing duloxetine with oral pla-
+cebo found duloxetine efficacious and tolerable for chronic pain
+associated with OA50,51. Pooled analysis found that 16.3% of the
+patients who received duloxetine withdrew due to adverse events
+compared with 5.6% of those receiving placebo50. The most
+commonly reported adverse events included nausea, dry mouth,
+somnolence, fatigue, constipation, decreased appetite, and hyper-
+hidrosis. While duloxetine was considered appropriate for most
+clinical sub-phenotypes, associated adverse events and availability
+of more targeted therapies predicated uncertain appropriateness
+for individuals with knee-only OA and co-morbidities.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Fair.
+Estimated Effect Size for Pain: Not available.
+Glucosamine (for symptom relief)
+Recommendation:
+Uncertain
+Glucosamine (for disease modification)
+Recommendation:
+Not appropriate
+Rationale:
+Two SRs comparing glucosamine with placebo for OA found
+mixed results regarding the efficacy of glucosamine for pain relief
+and physical function45,52. One review found no statistically sig-
+nificant benefit of glucosamine for pain45 and the other found a
+positive effect for pain that did not reach statistical significance
+when confined to studies with adequate allocation concealment52.
+The most recent meta-analysis45 included a large, NIH-funded RCT
+(GAIT study) that had a null result for glucosamine for pain relief53.
+Regarding disease modification, a SR found no statistically signifi-
+cant differences in minimum JSN between glucosamine and pla-
+cebo at 1-year follow-up, though a moderate effect was detected at
+3 years48. A 2011 safety review found that long-term use of
+glucosamine was not associated with cardiovascular (CV) safety
+risks54. Two more meta-analyses found no increase in overall
+adverse events relative to placebo45,52. Small pooled effect sizes
+(especially for the large high-quality studies), inconsistency in re-
+sults between industry-sponsored and independent trials, and
+heterogeneity among studies generated uncertainty as to the
+appropriateness of glucosamine.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+373
+
+Quality of evidence: Good.
+Estimated Effect Size for Pain (SMD): Ranges from 0.17 (0.05,
+0.28)45 to 0.47 (0.23e0.72)52.
+Estimated Effect Size for reduction in rate of decline of
+minimum joint-space width (SMD): 0.08 (0.12e0.27)48.
+Hyaluronic acid (intra-articular injection)
+Recommendation:
+Uncertain: knee-only OA
+Not appropriate: multiple-joint OA
+Rationale:
+A recent SR demonstrated small but significant efficacy of
+intra-articular hyaluronic acid for knee OA pain by week 4 with
+a peak at week 8 (reaching moderate clinical significance) and
+residual benefit until 24 weeks55. Another review found mod-
+erate benefits of IAHA for pain and physical function in knee OA,
+though sensitivity analyses including larger trials or trials with
+adequate blinding found only small effect size for pain56. A third
+review comparing IAHA with intra-articular corticosteroids
+(IACS) found that while IACS provided greater benefit for pain 2
+weeks after injection, IAHA provided greater benefit at 12 and
+26 weeks43. Inconsistent conclusions among the meta-analyses
+and conflicting results regarding IAHA’s safety influenced panel
+votes.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for
+Pain (SMD): Ranges from 0.37 (0.28e0.46)56 to 0.46 (0.28e0.65)55.
+Physical function: 0.33 (0.22e0.43)56 to 0.31 (0.11e0.51)55.
+NSAIDs (oral non-selective NSAIDs)
+Recommendation:
+Appropriate: individuals without co-morbidities
+Uncertain: individuals with moderate co-morbidity risk
+Not appropriate: individuals with high co-morbidity risk
+Gastroprotection:
+We do not recommend proton-pump inhibitor (PPI) co-
+prescription with non-selective oral NSAIDs for those with no
+co-morbidity risk. For those with moderate or high co-morbidity
+risk receiving oral non-selective NSAIDs, we recommend PPI co-
+prescription, though we strongly advise against using oral
+NSAIDs altogether for individuals with high co-morbidity risk.
+Rationale:
+A 2011 comparative effectiveness review indicated that NSAIDs
+are associated with increased risk of serious GI, CV, and renal harms
+compared with placebo42. Nevertheless, the CV safety of naproxen
+appeared moderately superior to that of any COX-2 selective NSAID
+in two SRs of RCTs. Among currently marketed NSAIDs, diclofenac is
+associated with the highest rate of hepatic laboratory abnormal-
+ities. Due to serious safety risks associated with oral NSAID use, we
+recommend conservative dosing and treatment duration consistent
+with approved prescribing limits.
+The 2011 Cochrane review found that co-prescribing of PPIs,
+misoprostol, and H2-antagonists reduced the risk of endoscopically
+detected gastroduodenal ulcers compared with placebo in persons
+prescribed non-selective NSAIDs42.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain (SMD): 0.37 (0.26e0.49)57.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+374
+
+NSAIDs (oral COX-2 inhibitors)
+Appropriate: individuals without co-morbidities
+Appropriate: multiple-joint OA with moderate co-morbidity
+risk
+Uncertain: knee-only OA with moderate co-morbidity risk
+Not appropriate: individuals with high co-morbidity risk
+Gastroprotection:
+We do not recommend PPI co-prescription with COX-2 selective
+oral NSAIDs for those with no co-morbidity risk. For individuals
+with moderate co-morbidity risk, we advocate neither for
+nor against PPI co-prescription. For individuals with high
+co-morbidity risk receiving oral COX-2 selective NSAIDs, we
+recommend PPI co-prescription, though we strongly advise
+against using oral NSAIDs altogether for such individuals.
+Rationale:
+A 2011 comparative effectiveness review found that relative
+to non-COX-2 selective NSAIDs, selective COX-2 inhibitors were
+better or comparably tolerated, though rates of serious adverse
+events were similar42. Celecoxib was associated with a lower
+risk
+of
+ulcer
+complications
+(RR
+0.23,
+95%
+CI:
+0.07e0.76)
+compared with non-selective NSAIDs but a moderately higher
+risk of CV complications. Due to serious safety risks associated
+with oral NSAID use, we recommend conservative dosing and
+treatment duration consistent with US approved prescribing
+limits.
+Quality assessment based on Chou et al.42 and Lee et al.57:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain: 0.44 (0.33e0.55)57.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+375
+
+NSAIDs (topical)
+Recommendation:
+Appropriate: individuals with knee-only OA
+Uncertain: individuals with multiple-joint OA
+Rationale:
+A 2011 Cochrane comparative effectiveness review found com-
+parable efficacy of topical and oral NSAIDs for knee OA42. Topical
+NSAIDs were associated with lower risk of GI adverse events but
+higher risk of dermatological adverse events compared with oral
+NSAIDs. Overall, topical NSAIDs were considered to be safer and
+better tolerated compared with oral NSAIDs.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain: Not available.
+Opioids (transdermal)
+Recommendation:
+Uncertain
+Rationale:
+A 2009 SR and meta-analysis examining the efficacy of opioids
+for knee and hip OA found small effect sizes for pain and physical
+function for transdermal fentanyl58. Patients receiving some form
+of opioid therapy were four times as likely as patients receiving
+placebo to withdraw due to adverse events (RR 4.05, 95% CI: 3.06e
+5.38) and more than three times as likely to experience a serious
+adverse event (RR 3.35, 95% CI: 0.83e13.56). Thus, the study
+concluded that opioids offered limited usefulness in the long term.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain (SMD): Ranges from 0.22 (0.03e
+0.42) to 0.36 (0.26e0.47)58.
+Opioids (oral)
+Recommendation:
+Uncertain
+Rationale:
+Analyses of pain relief from a 2009 SR found a moderate effect
+size for codeine over placebo, a small to moderate benefit for
+oxycodone, and a small benefit for morphine in patients with OA of
+the knee or hip58. A 2006 review also found a small but statistically
+significant benefit for tramadol over placebo59. However, patients
+receiving some form of opioid therapy were four times as likely as
+patients receiving placebo to withdraw due to adverse events (RR
+4.05, 95% CI: 3.06e5.38) and more than three times as likely to
+experience a serious adverse event (RR 3.35, 95% CI: 0.83e13.56)58.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain: Ranges from 0.36 (0.26e0.47) to
+0.51 (0.01e1.01)58.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+376
+
+Risedronate
+Recommendation:
+Not appropriate
+Rationale:
+Risedronate was evaluated primarily on its disease-modifying
+efficacy,
+as
+the
+majority
+of
+available
+evidence
+targets
+this
+outcome. A 2012 SR found that higher doses of risedronate (15 mg/
+d) did not reduce the signs or symptoms of OA, but did reduce the
+marker of cartilage degradation (CTX-II), which may contribute to
+attenuation of radiological progression of OA60. The review
+concluded that further RCTs would be needed to assess the efficacy
+of risedronate for symptoms, function, and progression of knee OA.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Poor.
+Estimated Effect Size for Pain: Not available.
+Rosehip
+Recommendation:
+Uncertain
+Rationale:
+A 2008 SR and meta-analysis of three small trials found a
+positive effect of rosehip powder for pain when compared with
+placebo, but the reviewers concluded that further evaluation in
+larger-scale trials is necessary due to the paucity of available
+data61. Safety results from one included study did not provide
+conclusive results.
+Quality assessment:
+Level of evidence: SR and meta-analysis of RCTs.
+Quality of evidence: Good.
+Estimated Effect Size for Pain: 0.37 (0.13e0.60)61.
+Discussion
+These OARSI 2013 guidelines for the management of knee OA
+represent an update to the previous OARSI publications in 2010 and
+20081,2 and used the original evidence and set of evaluated treat-
+ments as the base for a literature update. Their purpose is to
+disseminate a framework for treatment of knee OA to professionals
+involved in the management of this disorder, as well as patients,
+provider organizations and regulatory bodies. The guidelines were
+also developed for an International context, reflecting the constit-
+uency and perspective of OARSI, the sponsoring organization. These
+guidelines should be used in conjunction with individual patients’
+values and clinical judgment.
+We used the RAND/UCLA approach as a methodology for
+measuring expert opinion and reaching a classification for appro-
+priateness of each treatment modality4. This well-established
+approach leverages expert opinion in relation to their synthesis of
+contemporary evidence. One advantage for the field of OA treatment
+is that it was explicitly developed to measure expert opinion in sit-
+uations where the evidence may be incomplete. The outcome of the
+voting process, according to this methodology, is a designation for
+each putative therapy of “Appropriate,” “Uncertain” or “Inappro-
+priate.” Among these, the implication of the term “Uncertain” was
+viewed as unclear by reviewers. To clarify, the “Uncertain” classifi-
+cation is not intended here to be a negative recommendation or to
+preclude use of that therapy. Rather it requires a role for physiciane
+patient interaction in determining whether this treatment may have
+merit in the context of its risk-benefit profile and the individual
+characteristics, co-morbidities and preferences of the patient.
+Our guidelines diverge from the previous OARSI guidelines in
+2010 and 2008 as well as from recent American College of Rheu-
+matology
+(ACR)
+and
+European
+League
+Against
+Rheumatism
+(EULAR) guidelines by focusing specifically on treatment of OA of
+the knee. The decision was made to examine knee OA separately
+due to disparities in available evidence between hip OA and knee
+OA and differences in best treatment practices between these
+conditions. The current guidelines aim to identify the best-available
+treatment practices for knee OA, irrespective of differing healthcare
+policies and treatment standards internationally. Thus, this update
+of the OARSI guidelines also excluded cost effective analysis, eval-
+uating treatments solely based upon their safety and efficacy
+profiles.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+377
+
+Our guidelines also provide separate recommendations for each
+of four clinical sub-phenotypes. These were assessed separately in
+order to best capture heterogeneous health profiles and OA disease
+types. One limitation of this method is that the research literature
+was not surveyed for OA sites beyond the knee and hip. Thus,
+recommendations for individuals with multiple-joint OA may not
+take into account all evidence regarding other joint sites. Expert
+opinion of the OAGDG panel was used to support recommendations
+in these instances. However, these guidelines’ recommendations
+pertain to treatment of knee OA specifically, even when making
+recommendations for individuals with OA in multiple-joint sites.
+For all considered treatments, best-available evidence of efficacy
+and safety in knee OA was evaluated.
+Our expert panel (OAGDG) represented a range of clinical dis-
+ciplines that included rheumatologists (NA, FB, GH, DH, KK, TM, FR),
+orthopedic surgeons (HK, SL), a primary care physician (MU),
+physical therapists (SBZ, ER), a physiatrist (YH), and a clinical
+epidemiologist (TM) (Appendix 1). The OAGDG also solicited
+ongoing input from a patient advocate (RK), who attended the April
+2013 OAGDG meeting and provided continuing feedback and
+oversight via the development group’s online discussion forum.
+Our team also included an evidence-based methodologist (RB) who
+organized the development of the evidence report used by the
+OAGDG panel. Panel voting was conducted with oversight from
+OARSI’s Ethics Committee. OAGDG members with perceived
+financial conflicts of interest were recused from voting following
+written and oral disclosures, with final decisions made by an Ethics
+Committee representative present at the OAGDG’s April 2013 face-
+to-face meeting. Despite recusals, a majority of practicing clinicians
+were present within the voting at all times. Thus, the results of
+voting are unlikely to have lacked sufficient voter expertise for any
+treatment.
+The
+present
+statement
+also
+incorporated
+treatments
+not
+addressed in the prior OARSI guidelines such as risedronate and
+duloxetine. Treatments such as ASU, rosehip, electrotherapy, and
+ultrasound were not included in the 2008 OARSI recommendations
+but have since been discussed in the 2010 evidence update and
+assessed within our current guidelines. The present guidelines
+focused primarily on the non-surgical management of knee OA,
+though we recommend referral for consideration of orthopedic
+surgical interventions after more conservative treatment options
+have been exhausted. To examine the symptomatic slow-acting
+drug for OA (SYSDOA) effect, glucosamine and chondroitin were
+assessed separately for disease modification and for symptom re-
+lief. Other treatments received one score for overall efficacy, as
+other treatments were judged to lack sufficient evidence to merit
+separate assessment for disease modification effect and symp-
+tomatic effect.
+In comparison to the previous OARSI guidelines published in
+2008, recommendations for some treatments have changed.
+Though the method of assessing treatment appropriateness has
+changed between guidelines versions, complicating straightfor-
+ward comparison, it nevertheless appears that recent evidence has
+increased safety concerns regarding use of treatments such as
+acetaminophen and opioids (both oral and transdermal), while
+evidence for use of treatments such as duloxetine, balneotherapy,
+and land-based exercises such as t’ai chi has strengthened. These
+differences are updates to previous OARSI guidelines following the
+development of new treatment options and greater available evi-
+dence for existing treatments.
+While many of the recommendations in this guidelines state-
+ment agree with those published in other OA guidelines, our rec-
+ommendations differ notably from others in a number of ways.
+Although our recommendations are based on best-available evi-
+dence, the current evidence contains some areas of inconsistency.
+With regard to non-pharmaceutical treatments, our recommenda-
+tions were largely similar to other recent guidelines published by
+the American Academy of Orthopaedic Surgeons (AAOS), ACR, and
+EULAR, consistently recommending exercise programs for in-
+dividuals with knee OA as well as weight loss programs for over-
+weight individuals with knee OA. For this guidelines statement,
+exercise modalities were divided into three groups (land-based,
+water-based, and strength training) to provide greater specificity
+than other OA guidelines in assessing their distinct benefits and
+risks and to evaluate their relative appropriateness for different
+clinical sub-phenotypes. In other areas of non-pharmacological
+treatment, our guidelines differed more substantially from others.
+For electrotherapeutic modalities, AAOS provided an “Inconclusive”
+recommendation, while these guidelines recommend against the
+use of TENS and provide an “Uncertain” recommendation for EMG-
+biofeedback. While ACR conditionally recommends acupuncture for
+knee OA, and AAOS does not recommend acupuncture, our guide-
+lines provide an “Uncertain” recommendation regarding acupunc-
+ture, highlighting the lack of strong available evidence regarding its
+use. Recommendations regarding biomechanical interventions
+were also mixed; AAOS provided an inconclusive recommendation
+regarding force braces, and both AAOS and EULAR recommended
+against the use of wedged insoles, while ACR conditionally recom-
+mended the use of medially wedged insoles. Rather than providing
+recommendations individually for specific biomechanical modal-
+ities, these guidelines recommend the use of biomechanical in-
+terventions as directed by an appropriate specialist.
+With regard to pharmaceutical treatment modalities, our guide-
+lines also differ from others in several areas. AAOS’s 2013 guidelines
+provided “Inconclusive” recommendations for both acetaminophen
+and intra-articular corticosteroids, citing for IACS a “lack of
+compelling evidence that has resulted in an unclear balance between
+benefits and potential harm.” In contrast, our guidelines coincide
+with ACR’s 2012 guidelines in recommending both APAP (for those
+without relevant co-morbidities) and IACS as appropriate, finding
+the potential benefits to outweigh associated risks in certain clinical
+scenarios. Regarding glucosamine and chondroitin, AAOS recom-
+mended against use of both treatments and ACR recommended
+against chondroitin and conditionally against glucosamine. Our
+guidelines provide greater specificity than previous guidelines by
+evaluating these treatments separately for symptomatic relief and
+disease modification. Our group responded more favorably (voting
+“Uncertain”) for the symptomatic efficacy of each of these two
+treatments than for the disease-modifying use of each (voting “Not
+appropriate”). The contrasting assessments of glucosamine and
+chondroitin’s symptomatic versus disease-modifying efficacy may
+indicate the source of some of the inconsistency in the perceived
+value of these treatments among other recent guidelines. Regarding
+hyaluronic acid treatment, AAOS recommended against the use of
+IAHA, citing a lack of efficacy. Our guidelines offer a stance similar to
+that of ACR, providing an “Uncertain” recommendation for IAHA for
+individuals with knee-only OA. Despite safety and efficacy concerns
+of IAHA raised by one meta-analysis, a number of analyses revealed
+positive effect sizes for pain. Oral NSAIDs (both non-selective and
+COX-2 selective) were conditionally recommended by ACR, which
+was also reflected in our guidelines through the use of clinical sub-
+phenotypes. Conversely, AAOS strongly recommended both oral
+and topical NSAIDs. ACR guidelines conditionally recommend
+against topical capsaicin use, while we considered it appropriate in
+patients without relevant co-morbidities. Finally, the ACR provided
+negative or uncertain recommendations for the use of duloxetine,
+while these guidelines considered duloxetine appropriate for those
+without co-morbidities and those with multiple-joint OA and pro-
+vided an “Uncertain” recommendation for duloxetine in individuals
+with knee-only OA and co-morbidities.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+378
+
+Limitations of our guidelines include the scope of treatments
+addressed. These guidelines were developed based on the previ-
+ous guidelines report and expanded where the OAGDG felt suffi-
+cient new evidence was available to merit inclusion (based on
+number and quality of available trials). Our guidelines did not
+consider treatments included in the previous OARSI 2010 guide-
+lines such as vitamin E and calcitonin, as well as interventions
+included in the AAOS guidelines, such as platelet-rich plasma
+therapy and growth factor injections. Treatment duration and
+duration of benefit were not voted on separately for limited versus
+extended course for pharmaceutical treatments due to the lack of
+clarity in available evidence. Other treatments not included in our
+guidelines include lavage and debridement (considered for inclu-
+sion but removed due to consistent evidence of ineffectiveness),
+strontium (recently received a recommendation to restrict use by
+the European Medicines Agency and not approved by US FDA)62,
+and licofelone (not currently approved by the European Medicines
+Agency or US FDA). Manual therapy was not included in these
+guidelines due to insufficient available evidence. Unlike ACR, we
+did not include patellar taping or psychosocial intervention for
+knee OA. However, our guidelines also contain many treatment
+modalities not addressed by other (ACR) guidelines, such as ASU,
+risedronate, diacerein, and rosehip. In addition, these guidelines
+divided various treatments (e.g., NSAIDs, opioids, and exercise)
+into sub-categories to better assess considerations such as delivery
+method, drug mechanism or other factors, aiming to provide
+specific and actionable treatment recommendations. Our guide-
+lines are also unique in that the recommendations considered the
+risk, benefit, and appropriateness of each treatment individually
+for the specific sub-phenotypes described in our methods. One
+limitation of these categories is that not every treatment had
+available research for all clinical sub-phenotypes. In such cases,
+expert consensus was relied upon via the RAND/UCLA voting
+method. The role of expert opinion and voters’ enthusiasm for
+treatment modalities may also explain some instances where the
+panel’s voting diverged from effect sizes presented in the evi-
+dence. The four clinical sub-phenotypes were assessed separately
+for every treatment considered in order to best capture hetero-
+geneous health profiles and OA disease types.
+Conflict of interest
+Full disclosure statements from all members of the OARSI Guide-
+lines Development Group are shown in Appendix 1. These were
+reviewed by the OARSI Ethics Committee. No potential conflicts of
+interest were identified that should preclude any member of the
+committee participating in this critical appraisal. No OAGDG
+members are employees of any pharmaceutical or medical device
+company. OAGDG members were recused from voting on select
+treatments where potential conflicts arose, as described in the
+report Methodology section. Corporate members of OARSI are also
+listed in Appendix 1. The data extraction team included five
+members of the Division of Rheumatology, Tufts Medical Center,
+Boston, MA, USA: Raveendhara Bannuru MD, FAGE, Elizaveta
+Vaysbrot, MD, Matthew Sullivan, BA, Elena Manning, BS, and Bryan
+Bourdeau, BS. Dr Bannuru is supported by a F32 HS021396 grant
+from the Agency for Healthcare Research and Quality. The content
+is solely the responsibility of the authors and does not necessarily
+represent the official views of the Agency for Healthcare Research
+and Quality. Elizaveta Vaysbrot, Matthew Sullivan, Elena Manning,
+and Bryan Bourdeau have no conflicts of interest to disclose.
+Role of the funding source
+These guidelines were commissioned by the OARSI and sponsored
+by a grant from OARSI. This report is endorsed by the Board of
+Directors of OARSI; it was developed independently by the OARSI
+Guidelines Development Group.
+Acknowledgments
+The authors would like to thank Elizaveta Vaysbrot and Elena
+Manning for data collection and Diann Stern for logistics support
+throughout the project. We thank patient representative Robin
+Katzanek for her guidance. Financial support for data collection at
+Tufts Medical Center came from an OARSI grant.
+Appendix 1
+Disclosure of potential conflicts of interest
+Name & specialty
+(in author-list
+order)
+Consulting fees, honoraria,
+research or institutional
+support, educational grants,
+equipment, services or
+expenses
+Research grants/contracts
+Service with organization with
+interests comparable to OARSI
+Recused from voting on the
+following treatment modalities
+T. McAlindon
+Rheumatologist;
+Epidemiologist
+Flexion
+TherapeuticsjConsulting,
+SamumedjConsulting,
+AbbviejConsulting,
+SanofijConsulting,
+MyrtusjLicensing fee
+NIH, Croma
+Co-editor for Arthritis &
+Rheumatism
+Hyaluronic acid
+R. Bannuru
+None
+AHRQjF32 HS021396 grant
+None
+Not a voter
+M. Sullivan
+None
+None
+None
+Not a voter
+N. Arden*
+Rheumatologist
+MerckjConsultancy,
+RochejConsultancy, Smith
+and NephewjConsultancy,
+PfizerjSpeaker Bureau,
+FlexionjConsultancy,
+BioibericajConsultancy,
+Speaker bureau
+NIHRjOutcomes of Arthroplasty
+and Biomedical Research Unit,
+NIHjHip morphology,
+ARUKjVIDEO, project and
+equipment grants
+None
+Chondroitin
+Hyaluronic acid
+All surgery
+F. Berenbaum*
+Rheumatologist
+PfizerjAdvisory board,
+ExpansciencejAdvisory
+board, UCBjAdvisory board,
+ServierjAdvisory board,
+research support,
+Agence Nationale Recherche
+French Society of
+Rheumatology
+NSAIDs
+(continued on next page)
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+379
+
+Appendix 1 (continued )
+Name & specialty
+(in author-list
+order)
+Consulting fees, honoraria,
+research or institutional
+support, educational grants,
+equipment, services or
+expenses
+Research grants/contracts
+Service with organization with
+interests comparable to OARSI
+Recused from voting on the
+following treatment modalities
+symposium, TRB
+Chemedicajresearch
+support, SanofijAdvisory
+board, AbbottjAdvisory
+board
+S. Bierma-
+Zeinstra*
+Physical therapist;
+Epidemiologist
+S. Bierma-Zeinstra
+(disclosure
+cont’d)
+None
+Dutch Arthritis
+Associationjresearch in
+corticosteroids for OA, OA
+vascular pathology, early OA
+diagnosis, brace vs osteotomy
+treatment, & OA stepped care;
+The Netherlands Organization
+for Health Research and
+Developmentjresearch in
+identification, prevention of
+knee OA, OA phenotyping,
+treatment cost-effectiveness
+(ACL rupture,
+viscosupplementation, surgery
+vs conservative treatment in
+lumbar stenosis),
+corticosteroids for trochanteric
+pain syndrome, ankle injury
+complications, exercise after
+injury, & exercise therapy for
+patellofemoral pain syndrome;
+Nuts Ohrajresearch in X-ray OA
+diagnosis, OA pain medication,
+& statines & OA; EU
+FP7jmarkers for early detection
+& progression of OA
+None
+Glucosamine
+G. Hawker*
+Rheumatologist
+Women’s College
+HospitaljPhysician in Chief
+of MedicinejSalary Support
+Award, Women’s College
+Hospital FoundationjFM
+Hill Chair in Academic
+Women’s Medicine.
+Nothing to declare
+Operating grants from the
+Canadian Institutes of Health
+ResearchjCanadian Arthritis
+NetworkjCochrane
+Collaboration/writing paper
+with Adelphi, a marketing
+company who worked for Pfizer
+on a survey of physicians
+regarding factors that influence
+their perceptions of OA severity
+e unpaid
+None
+None
+Y. Henrotin*
+Physical therapy &
+rehabilitation
+Bioiberica; BioXtract;
+Danone; Nestle; Pierre
+Fabre; Grunenthal;
+Expanscience; Artialis;
+Tilman; Merck;
+IbsajHonoraria. Patent
+ownership:
+ArtialisjBiomarkers; Kit
+immunoassaysj
+Development &
+commercialization of
+biomarkers of cartilage
+degradation &
+inflammation
+Walloon Government-
+BelgiumjFirst Post-Doc RW/
+5291 PROMART-Recherche de
+nouveaux biomarqueurs (2007
+e2009).165.765; First Post-Doc
+RW/716609 CARTIMAT:
+Recherche de nouveaux
+biomateriaux; FIRST Entreprise
+- 73.726,4 Euros, European
+commissionjFP7 D-Board, rd;
+Bioiberica &
+Expansciencejunrestricted
+educational grants
+None
+Chondroitin
+D. Hunter*
+Rheumatologist
+DonJoyjRoyalties;
+Merck SeronojConsulting,
+Flexion
+TherapeuticsjConsulting
+Australian Research
+CounciljFuture Fellowship,
+NIHjPOMA, NHMRCjproject
+grants
+Bone and Joint Decade
+International Coordinating
+Council, Advisory editor for
+Arthritis Care and Research,
+Associate Editor for
+International Journal of
+Rheumatic Diseases
+Biomechanical interventions
+H. Kawaguchi*
+Orthopedic surgeon
+Teijin Pharma Co.,
+Ltd.jConsulting fee
+None
+BMC Musculoskeletal
+DisordersjAssociate Editor,
+Japanese Orthopaedic
+AssociationjCommittee
+Member, Japanese Society for
+Bone and Mineral
+MetabolismjCommittee
+Member, Journal of
+Hyaluronic acid
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+380
+
+Appendix 1 (continued )
+Name & specialty
+(in author-list
+order)
+Consulting fees, honoraria,
+research or institutional
+support, educational grants,
+equipment, services or
+expenses
+Research grants/contracts
+Service with organization with
+interests comparable to OARSI
+Recused from voting on the
+following treatment modalities
+Orthopaedic SciencejEditorial
+Board, Journal of Bone &Mineral
+MetabolismjEditorial Board,
+Japanese Society of Cartilage
+MetabolismjComm. Member
+R. Katzanek
+Patient advocate
+Nothing to declare
+None
+None
+N/A
+K. Kwoh
+Rheumatologist
+NovartisjAdvisory Board
+and DSMB, NIHjDSMB,
+Express ScriptsjConsulting,
+PfizerjRA Quality Measures
+Roundtable
+NIHjNIAMS P60AR054731 PITT-
+MCRC for rheumatic and
+musculoskeletal diseases;
+NIAMS N01AR-2-2260 Clinical
+centers for the Osteoarthritis
+Initiative; NHLBI
+HHSN26820100002 Pivotal OAI
+MRI Analyses (POMA); NIAMS
+R01AR056630 Single- vs
+Double-Bundle ACL
+Reconstruction: A Prospective
+Randomized Trial; NINR
+R01NR010904 Promoting
+Physical Activity in Older Adults
+with Co-morbidity;
+CDCjU48DP001918 Health
+Promotion and Disease
+Prevention Research Center
+Arthritis FoundationjPublic
+Health Committee
+Glucosamine
+Risedronate
+S. Lohmander*
+Orthopedic surgeon
+Merck SeronojAdvisory
+board, Informed Medical
+Decision MakingjSpeaker
+honorarium, Össur
+Advisory Board, Abbott
+Consultancy, Flexion
+Therapeutics Advisory
+Board, Allergan
+Consultancy, Medivir
+Consultancy, Merrimack
+Pharmaceuticals
+Consultancy, Servier
+Consultancy
+Swedish Research CounciljLund
+University, Swedish
+Rheumatism AssociationjLund
+University, Medical
+facultyjLund University
+None
+Biomechanical interventions
+F. Rannou*
+Rheumatologist
+SanofiAventis, Pfizer,
+Rottapharm, Pierre Fabre,
+Genzyme, Merck,
+Genévrier, Expanscience,
+Negma, ServierjConsulting/
+Advisory board
+AP-HPjNon-pharmacological
+treatments in rheumatic
+diseases, GSKjHO-1 inducer
+molecules in cartilage,
+Fondation de
+l’AvenirjMolecular mapping of
+IVD in scoliosis
+Member of the Eular Scientific
+Committee
+NSAIDs
+Hyaluronic acid
+ASU
+Diacerein
+E. Roos*
+Physical therapist
+National Welfare Board,
+SwedenjReviewer, National
+board for preventive
+medicine, DenmarkjBoard
+member, ÖssurjLecture
+fees, Finnish Orthopedic
+SocietyjLecture fees,
+StudentlitteraturjRoyalties,
+MunksgaardjRoyalties,
+Osteoarthritis and
+CartilagejAssociate Editor
+Southern Health Care Region,
+DenmarkjRCT on exercise vs
+pharma, Danish Rheumatism
+AssociationjKnee OA
+prevention and treatment
+None
+None
+M. Underwood
+Primary care
+practitioner;
+primary care
+research
+Travel, Accommodation
+and Conference fee waiver
+from OARSI to attend
+OAGDG meetings
+concurrent with annual
+scientific meeting
+NIHR Programme
+grantsjImproving outcomes
+from the treatment of back
+pain; Improving self-
+management of chronic pain,
+NHS HTA
+ProgrammejPrevention of Fall
+Injury Trial (Pre-FIT);
+Adherence to strengthening
+activities in rheumatoid
+arthritis of the hand (SARAH);
+Older People’s Exercise
+intervention in Residential and
+nursing Accommodation
+National Institute for Health
+and Care Excellence (NICE)j
+Chair of Headache Guideline
+Development Group (2010
+e12).
+Chair NICE Accreditation
+Advisory Committee (2013)
+NICE Strategy Board, in
+attendance (2013)
+Acupuncture
+(continued on next page)
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+381
+
+Appendix 1 (continued )
+Name & specialty
+(in author-list
+order)
+Consulting fees, honoraria,
+research or institutional
+support, educational grants,
+equipment, services or
+expenses
+Research grants/contracts
+Service with organization with
+interests comparable to OARSI
+Recused from voting on the
+following treatment modalities
+(OPERA), National Centre for
+Osteopathic
+ResearchjInvestigating
+osteopath’s attitudes to
+managing and assessing risk in
+clinical settings and patient’s
+experiences and responses,
+Research for Patient
+BenefitjImproving Patient
+Choice in Treating Low Back
+Pain (IMPACT - LBP).
+NHS Health Technology
+Assessment Programme. Facet
+joint feasibility study.
+OARSI’s Congress sponsors and corporate members for 2013 include the following: Bioiberica; EMD Serono; Expanscience; Rottapharm/Madaus; Abbvie; Astellas; Bio-
+ventus; Boston Imaging Core Lab (BICL); Chondrometrics; Fidia Pharma USA, Inc.; Flexion; Perceptive Informatics; Merck; Seikagaku; Servier; Zimmer. No direct medical
+industry support was used or requested for guideline development. Guidelines development was a budgeted item in OARSI’s annual budget.
+* Panel member has an editorial position with the Osteoarthritis and Cartilage journal.
+Appendix 3
+Table A
+Appropriateness voting data
+Appropriateness scores
+No co-morbidities
+Co-morbidities
+Median
+Appropriate (Y/N/U)
+Disagreement?
+Median
+Appropriate (Y/N/U)
+Disagreement?
+Non-pharmaceutical treatments
+Acupuncture
+Knee
+5
+Uncertain
+No
+4.5
+Uncertain
+No
+Multi-joint
+4.5
+Uncertain
+No
+4.5
+Uncertain
+No
+Balneotherapy
+Knee
+5
+Uncertain
+No
+6
+Uncertain
+No
+Multi-joint
+6
+Uncertain
+No
+7
+Yes
+No
+Biomechanical interventions
+Knee
+7
+Yes
+No
+7
+Yes
+No
+Multi-joint
+7
+Yes
+No
+7
+Yes
+No
+Cane (walking stick)
+Knee
+7
+Yes
+No
+7
+Yes
+No
+Multi-joint
+6
+Uncertain
+No
+6
+Uncertain
+No
+Crutches
+Knee
+6
+Uncertain
+No
+6
+Uncertain
+No
+Multi-joint
+5
+Uncertain
+No
+5.5
+Uncertain
+No
+Electrotherapy/neuromuscular electrical stimulation
+Knee
+3
+No
+No
+3
+No
+No
+Appendix 2
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+382
+
+Table A (continued )
+Appropriateness scores
+No co-morbidities
+Co-morbidities
+Median
+Appropriate (Y/N/U)
+Disagreement?
+Median
+Appropriate (Y/N/U)
+Disagreement?
+Multi-joint
+3
+No
+No
+3
+No
+No
+Exercise (land-based)
+Knee
+8
+Yes
+No
+8
+Yes
+No
+Multi-joint
+8
+Yes
+No
+8
+Yes
+No
+Exercise (water-based)
+Knee
+7
+Yes
+No
+7
+Yes
+No
+Multi-joint
+8
+Yes
+No
+8
+Yes
+No
+Strength training
+Knee
+8
+Yes
+No
+8
+Yes
+No
+Multi-joint
+8
+Yes
+No
+7
+Yes
+No
+Self-management and education
+Knee
+8
+Yes
+No
+9
+Yes
+No
+Multi-joint
+9
+Yes
+No
+9
+Yes
+No
+TENS
+Knee
+5
+Uncertain
+No
+5
+Uncertain
+No
+Multi-joint
+3
+No
+No
+3
+No
+No
+Weight management
+Knee
+8
+Yes
+No
+8
+Yes
+No
+Multi-joint
+8
+Yes
+No
+9
+Yes
+No
+Ultrasound
+Knee
+4
+Uncertain
+No
+4
+Uncertain
+No
+Multi-joint
+3
+No
+No
+3
+No
+No
+Pharmaceutical treatments
+Acetaminophen (paracetamol)
+Knee
+7
+Yes
+No
+6
+Uncertain
+No
+Multi-joint
+7
+Yes
+No
+6
+Uncertain
+No
+ASU
+Knee
+4
+Uncertain
+No
+4
+Uncertain
+No
+Multi-joint
+5
+Uncertain
+No
+5
+Uncertain
+No
+Capsaicin
+Knee
+7
+Yes
+No
+6
+Uncertain
+No
+Multi-joint
+6
+Uncertain
+No
+6
+Uncertain
+No
+Corticosteriods (intra-articular injection)
+Knee
+7
+Yes
+No
+7
+Yes
+No
+Multi-joint
+7
+Yes
+No
+7
+Yes
+No
+Chondroitin: symptom relief
+Knee
+5
+Uncertain
+No
+5
+Uncertain
+No
+Multi-joint
+5
+Uncertain
+No
+5
+Uncertain
+No
+Chondroitin: disease modification
+Knee
+3
+No
+No
+3
+No
+No
+Multi-joint
+3
+No
+No
+3
+No
+No
+Diacerein
+Knee
+4
+Uncertain
+No
+4
+Uncertain
+No
+Multi-joint
+4
+Uncertain
+No
+4
+Uncertain
+No
+Duloxetine
+Knee
+7
+Yes
+No
+6
+Uncertain
+No
+Multi-joint
+7
+Yes
+No
+7
+Yes
+No
+Glucosamine: symptom relief
+Knee
+5.5
+Uncertain
+No
+5.5
+Uncertain
+No
+Multi-joint
+5.5
+Uncertain
+No
+5.5
+Uncertain
+No
+Glucosamine: disease modification
+Knee
+3
+No
+No
+3
+No
+No
+Multi-joint
+3
+No
+No
+3
+No
+No
+Hyaluronic acid (intra-articular injection)
+Knee
+5
+Uncertain
+No
+4
+Uncertain
+No
+Multi-joint
+3
+No
+No
+3
+No
+No
+NSAIDs (topical)
+Knee
+8
+Yes
+No
+7
+Yes
+No
+Multi-joint
+6
+Uncertain
+No
+6
+Uncertain
+No
+Opioids: transdermal
+Knee
+4
+Uncertain
+No
+4
+Uncertain
+No
+Multi-joint
+5
+Uncertain
+No
+4
+Uncertain
+No
+Opioids: oral
+Knee
+5
+Uncertain
+No
+4
+Uncertain
+No
+Multi-joint
+5
+Uncertain
+No
+6
+Uncertain
+No
+Risedronate
+Knee
+3
+No
+No
+3
+No
+No
+Multi-joint
+3
+No
+No
+3
+No
+No
+Rosehip
+Knee
+5
+Uncertain
+No
+5
+Uncertain
+No
+Multi-joint
+5
+Uncertain
+No
+5
+Uncertain
+No
+For each treatment modality, the OAGDG voted on appropriateness using a nine-point scale (1e9).
+Definitions: No co-morbidities: The individual with OA has no pertinent co-morbid health concerns. Co-morbidities: The individual with OA has any of the following
+pertinent co-morbid health concerns: diabetes; hypertension; CV disease; renal failure; GI bleeding; depression; or physical impairment limiting activity, including obesity.
+Knee: Symptomatic OA in one or both knees only. Multi-joint OA: Symptomatic OA of the knee(s) in addition to other joints (e.g., hip, hand, spine, etc).
+Disagreement: An appropriateness vote was considered to be in ‘disagreement’ if greater than one-third of votes fell in the opposite tertile to the median score [e.g., a vote was
+considered in “Disagreement” if it received an “Appropriate” median vote (7) with five of 13 members voting ”Not appropriate” (3)].
+Table B
+Risk scores, benefit scores, and composite risk and benefit scores
+Risk scores
+Benefit scores
+Benefit and risk scores
+No co-morbidities Co-morbidities No co-morbidities Co-morbidities No co-morbidities Co-morbidities
+Mean (1e10)
+Mean (1e10)
+Mean (1e10)
+Mean (1e10)
+(1e100)
+(1e100)
+Non pharmaceutical treatments
+Acupuncture
+Knee
+1.9
+2.3
+3.1
+3.0
+28.0
+26.3
+Multi-joint 1.9
+2.3
+3.1
+3.0
+28.0
+26.3
+Balneotherapy
+Knee
+1.3
+1.5
+4.2
+4.2
+40.3
+40.0
+Multi-joint 1.3
+1.6
+4.5
+4.5
+43.2
+41.9
+Biomechanical interventions
+Knee
+1.5
+2.0
+5.6
+5.6
+57.0
+50.4
+(continued on next page)
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+383
+
+Table B (continued )
+Risk scores
+Benefit scores
+Benefit and risk scores
+No co-morbidities Co-morbidities No co-morbidities Co-morbidities No co-morbidities Co-morbidities
+Mean (1e10)
+Mean (1e10)
+Mean (1e10)
+Mean (1e10)
+(1e100)
+(1e100)
+Multi-joint 1.6
+2.1
+4.7
+4.7
+37.6
+41.8
+Cane (walking stick)
+Knee
+1.6
+1.6
+5.0
+5.0
+46.9
+46.9
+Multi-joint 1.8
+1.8
+4.2
+4.0
+38.3
+36.9
+Crutches
+Knee
+1.7
+1.7
+4.4
+4.3
+40.8
+40.1
+Multi-joint 1.8
+1.8
+3.7
+3.8
+33.8
+34.5
+Electrotherapy/neuromuscular electrical stimulation Knee
+2.0
+2.1
+2.5
+2.4
+22.2
+21.3
+Multi-joint 2.0
+2.1
+1.9
+1.9
+17.3
+17.2
+Exercise (land-based)
+Knee
+1.2
+1.9
+6.6
+6.8
+64.6
+61.4
+Multi-joint 1.3
+2.1
+6.4
+6.5
+61.9
+58.3
+Exercise (water-based)
+Knee
+1.5
+2.3
+5.9
+6.2
+56.0
+54.2
+Multi-joint 1.5
+2.2
+6.2
+6.5
+59.0
+56.7
+Strength training
+Knee
+1.4
+1.8
+6.9
+6.8
+66.6
+62.0
+Multi-joint 1.6
+2.2
+6.0
+6.0
+56.3
+53.1
+Self management and education
+Knee
+1.2
+1.5
+4.9
+5.1
+48.1
+48.4
+Multi-joint 1.2
+1.5
+5.2
+5.2
+50.3
+49.5
+TENS
+Knee
+1.8
+1.8
+3.2
+3.2
+29.1
+28.9
+Multi-joint 1.8
+1.8
+2.4
+2.4
+22.0
+21.8
+Weight management
+Knee
+1.2
+1.5
+6.1
+6.3
+59.4
+60.2
+Multi-joint 1.2
+1.5
+6.2
+6.4
+60.1
+60.4
+Ultrasound
+Knee
+1.3
+1.5
+2.8
+3.0
+27.6
+28.6
+Multi-joint 1.4
+1.4
+2.4
+2.5
+22.9
+24.4
+Pharmaceutical treatments
+Acetaminophen (paracetamol)
+Knee
+3.4
+4.5
+4.5
+4.4
+34.0
+28.3
+Multi-joint 3.5
+4.7
+4.6
+4.5
+34.8
+28.6
+Avocado soybean unsaponfiables
+Knee
+1.6
+1.8
+3.5
+3.5
+33.2
+32.6
+Multi-joint 1.6
+1.8
+3.6
+3.6
+34.0
+33.4
+Capsaicin
+Knee
+2.6
+2.8
+5.1
+5.1
+42.6
+41.8
+Multi-joint 2.9
+3.1
+4.7
+4.7
+37.9
+37.2
+Corticosteriods (intra-articular injection)
+Knee
+2.8
+3.6
+6.5
+6.4
+53.8
+47.1
+Multi-joint 2.8
+3.6
+5.2
+5.3
+42.7
+39.2
+Chondroitin: symptom relief
+Knee
+1.1
+1.3
+3.8
+3.9
+37.8
+38.0
+Multi-joint 1.1
+1.3
+3.8
+4.0
+37.8
+38.9
+Chondroitin: disease modification
+Knee
+1.1
+1.3
+2.7
+2.7
+27.0
+26.5
+Multi-joint 1.1
+1.4
+2.6
+2.5
+26.1
+23.7
+Diacerein
+Knee
+3.8
+4.0
+3.7
+3.7
+26.6
+25.7
+Multi-joint 3.8
+4.0
+3.8
+3.8
+27.8
+26.3
+Duloxetine
+Knee
+4.0
+4.7
+5.3
+5.4
+37.2
+34.0
+Multi-joint 4.0
+4.7
+5.6
+5.6
+39.3
+35.4
+Glucosamine: symptom relief
+Knee
+1.4
+1.7
+3.9
+3.9
+37.4
+36.3
+Multi-joint 1.5
+1.7
+4.0
+4.0
+38.0
+37.2
+Glucosamine: disease modification
+Knee
+1.4
+1.7
+2.7
+2.7
+26.3
+25.3
+Multi-joint 1.4
+1.7
+2.5
+2.5
+24.5
+23.6
+Hyaluronic acid (intra-articular injection)
+Knee
+3.1
+3.8
+4.1
+4.2
+32.4
+30.5
+Multi-joint 3.3
+3.9
+3.0
+3.1
+23.0
+22.1
+NSAIDs (topical)
+Knee
+2.7
+3.5
+6.0
+5.9
+49.8
+44.7
+Multi-joint 2.9
+3.8
+5.2
+5.2
+42.2
+36.9
+Opioids: transdermal
+Knee
+4.8
+6.1
+5.2
+4.9
+31.7
+24.2
+Multi-joint 4.9
+6.1
+5.3
+5.1
+32.3
+25.0
+Opioids: oral
+Knee
+5.5
+6.5
+5.6
+5.4
+30.7
+24.0
+Multi-joint 5.6
+6.5
+5.7
+5.4
+30.7
+24.0
+Risedronate
+Knee
+3.2
+3.3
+2.7
+2.7
+20.9
+20.4
+Multi-joint 3.2
+3.3
+2.8
+2.7
+21.5
+20.4
+Rosehip
+Knee
+1.8
+1.9
+3.3
+3.4
+30.3
+30.7
+Multi-joint 1.8
+1.9
+3.3
+3.4
+30.3
+30.7
+For each treatment modality, the OAGDG voted on therapeutic benefit on a 10-point scale (1e10) and overall risk on a 10-point scale (1e10). The composite benefit and risk
+score is the product of the benefit score (1e10) and the transposed risk score (where 1 1⁄4 highest and 10 1⁄4 safety) yielding a range of 1 (worst) to 100 (best).
+No co-morbidities: The individual with OA has no pertinent co-morbid health concerns. Co-morbidities: The individual with OA has any of the following pertinent co-morbid
+health concerns: diabetes; hypertension; cardiovascular disease; renal failure; GI bleeding; depression; or physical impairment limiting activity, including obesity. Knee:
+Symptomatic OA in one or both knees only. Multi-joint: Symptomatic OA of the knee(s) in addition to other joints (e.g. hip, hand, spine, etc).
+Table C
+Oral NSAIDs voting data
+Treatment
+OA type
+Appropriateness vote
+Voting disagreement?
+Percent voting in favor of gastroprotection
+Co-morbidity risk
+Co-morbidity risk
+Co-morbidity risk
+No co-morbidities
+Moderate
+risk
+High
+risk
+No co-morbidities
+Moderate
+risk
+High risk
+No co-morbidities
+Moderate risk
+High risk
+Oral NSAIDs
+(non-selective)
+Knee-only OA
+7.0
+5.0
+2.0
+No
+No
+No
+33%
+92%
+100%
+Multi-joint OA
+7.5
+4.0
+2.0
+No
+No
+No
+67%
+92%
+92%
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+384
+
+References
+1. Zhang W, Nuki G, Moskowitz RW, Abramson S, Altman RD,
+Arden NK, et al. OARSI recommendations for the management of
+hip and knee osteoarthritis: part III: changes in evidence
+following systematic cumulative update of research published
+through January 2009. Osteoarthritis and Cartilage/OARS, Oste-
+oarthritis Research Society 2010;18(4):476e99. Epub 2010/02/
+23. http://dx.doi.org/10.1016/j.joca.2010.01.013. PubMed PMID:
+20170770.
+2. Zhang W, Moskowitz RW, Nuki G, Abramson S, Altman RD,
+Arden N, et al. OARSI recommendations for the management of
+hip and knee osteoarthritis, part II: OARSI evidence-based,
+expert consensus guidelines. Osteoarthritis and Cartilage/
+OARS, Osteoarthritis Research Society 2008;16(2):137e62.
+Epub
+2008/02/19.
+http://dx.doi.org/10.1016/j.joca.2007.12.
+013. PubMed PMID: 18279766.
+3. Zhang W, Moskowitz RW, Nuki G, Abramson S, Altman RD,
+Arden N, et al. OARSI recommendations for the management of
+hip and knee osteoarthritis, part I: critical appraisal of existing
+treatment
+guidelines
+and
+systematic
+review
+of
+current
+research evidence. Osteoarthritis and Cartilage/OARS, Osteo-
+arthritis Research Society 2007;15(9):981e1000. Epub 2007/
+08/28. http://dx.doi.org/10.1016/j.joca.2007.06.014. PubMed
+PMID: 17719803.
+4. Fitch K, Bernstein S, Aguilar MD, Burnand B, LaCalle JR,
+Lazaro P, et al. The RAND/UCLA Appropriateness Method User’s
+Manual. Santa Monica: Rand; 2001.
+5. Manheimer E, Cheng K, Linde K, Lao L, Yoo J, Wieland S, et al.
+Acupuncture for peripheral joint osteoarthritis. Cochrane
+Database Syst Rev 2010;(1):CD001977. Epub 2010/01/22.
+http://dx.doi.org/10.1002/14651858.CD001977.pub2. PubMed
+PMID: 20091527; PubMed Central PMCID: PMCPMC3169099.
+6. Falagas ME, Zarkadoulia E, Rafailidis PI. The therapeutic effect
+of balneotherapy: evaluation of the evidence from randomised
+controlled trials. Int J Clin Pract 2009;63(7):1068e84. Epub
+2009/07/03.
+http://dx.doi.org/10.1111/j.1742-1241.2009.
+02062.x. PubMed PMID: 19570124.
+7. Harzy T, Ghani N, Akasbi N, Bono W, Nejjari C. Short- and long-
+term therapeutic effects of thermal mineral waters in knee
+osteoarthritis: a systematic review of randomized controlled
+trials. Clin Rheumatol 2009;28(5):501e7. Epub 2009/02/20.
+http://dx.doi.org/10.1007/s10067-009-1114-2. PubMed PMID:
+19225707.
+8. Sherman G, Zeller L, Avriel A, Friger M, Harari M, Sukenik S.
+Intermittent balneotherapy at the Dead Sea area for patients
+with knee osteoarthritis. Isr Med Assoc J: IMAJ 2009;11(2):88e
+93. Epub 2009/05/13. PubMed PMID: 19432036.
+9. Forestier R, Desfour H, Tessier JM, Francon A, Foote AM,
+Genty C, et al. Spa therapy in the treatment of knee osteoar-
+thritis: a large randomised multicentre trial. Ann Rheum Dis
+2010;69(4):660e5.
+Epub
+2009/09/08.
+http://dx.doi.org/10.
+1136/ard.2009.113209. PubMed PMID: 19734131; PubMed
+Central PMCID: PMCPMC2927613.
+10. Raja K, Dewan N. Efficacy of knee braces and foot orthoses in
+conservative management of knee osteoarthritis: a systematic
+review.
+Am
+J
+Phys
+Med
+Rehabil/Assoc
+Acad
+Physiatr
+2011;90(3):247e62. Epub 2011/01/29. http://dx.doi.org/10.
+1097/PHM.0b013e318206386b. PubMed PMID: 21273902.
+11. Bennell KL, Bowles KA, Payne C, Cicuttini F, Williamson E,
+Forbes A, et al. Lateral wedge insoles for medial knee osteo-
+arthritis: 12 month randomised controlled trial. BMJ (Clinical
+Research Ed) 2011;342:d2912. Epub 2011/05/20. http://dx.doi.
+org/10.1136/bmj.d2912. PubMed PMID: 21593096; PubMed
+Central PMCID: PMCPMC3100910.
+12. van Raaij TM, Reijman M, Brouwer RW, Bierma-Zeinstra SM,
+Verhaar JA. Medial knee osteoarthritis treated by insoles or
+braces: a randomized trial. Clin Orthop Relat Res 2010;468(7):
+1926e32.
+Epub
+2010/02/24.
+http://dx.doi.org/10.1007/
+s11999-010-1274-z. PubMed PMID: 20177839; PubMed Cen-
+tral PMCID: PMCPMC2881986.
+13. Erhart JC, Mundermann A, Elspas B, Giori NJ, Andriacchi TP.
+Changes in knee adduction moment, pain, and functionality
+with a variable-stiffness walking shoe after 6 months. J Orthop
+Res: Off Publ Orthop Res Soc 2010;28(7):873e9. Epub 2010/
+01/09.
+http://dx.doi.org/10.1002/jor.21077.
+PubMed
+PMID:
+20058261.
+14. Jones A, Silva PG, Silva AC, Colucci M, Tuffanin A, Jardim JR,
+et al. Impact of cane use on pain, function, general health and
+energy
+expenditure
+during
+gait
+in
+patients
+with
+knee
+Table C (continued )
+Treatment
+OA type
+Appropriateness vote
+Voting disagreement?
+Percent voting in favor of gastroprotection
+Co-morbidity risk
+Co-morbidity risk
+Co-morbidity risk
+No co-morbidities
+Moderate
+risk
+High
+risk
+No co-morbidities
+Moderate
+risk
+High risk
+No co-morbidities
+Moderate risk
+High risk
+Oral NSAIDs
+(COX-2 inhibitors)
+Knee-only OA
+7.0
+6.0
+3.0
+No
+No
+No
+18%
+50%
+100%
+Multi-joint OA
+7.0
+7.0
+3.0
+No
+No
+No
+36%
+50%
+91%
+Treatment
+OA Type
+Risk scores
+Benefit scores
+Benefit and risk scores
+Co-morbidity risk
+Co-morbidity risk
+Co-morbidity risk
+No co-morbidities
+Moderate
+risk
+High
+risk
+No co-morbidities
+Moderate
+risk
+High risk
+No co-morbidities
+Moderate risk
+High risk
+Oral NSAIDs
+(non-selective)
+Knee-only OA
+4.6
+6.1
+7.8
+5.9
+5.6
+5.2
+40.7
+29.7
+17.3
+Multi-joint OA
+4.6
+6.1
+7.8
+6.2
+5.6
+5.3
+42.8
+30.9
+18.6
+Oral NSAIDs
+(COX-2 inhibitors)
+Knee-only OA
+4.6
+6.1
+6.6
+6.0
+5.7
+5.4
+46.6
+38.3
+24.7
+Multi-joint OA
+3.8
+4.7
+6.6
+6.4
+6.1
+5.8
+46.8
+38.8
+25.4
+For each treatment modality, the OAGDG voted on appropriateness using a nine-point scale (1e9), on therapeutic benefit on a 10-point scale (1e10) and overall risk on a 10-
+point scale (1e10). The composite benefit and risk score is the product of the benefit score (1e10) and the transposed risk score (where 1 1⁄4 highest and 10 1⁄4 safety) yielding a
+range of 1 (worst) to 100 (best).
+Definitions: No co-morbidities: The individual with OA has no pertinent co-morbid health concerns. Co-morbidities: The individual with OA has any of the following
+pertinent co-morbid health concerns: diabetes; hypertension; CV disease; renal failure; GI bleeding; depression; or physical impairment limiting activity, including obesity.
+Knee-only OA: Symptomatic OA in one or both knees only. Multi-joint OA: Symptomatic OA of the knee(s) in addition to other joints (e.g., hip, hand, spine, etc).
+Disagreement: An appropriateness vote was considered to be in ‘disagreement’ if greater than one-third of votes fell in the opposite tertile to the median score [e.g., a vote was
+considered in “Disagreement” if it received an “Appropriate” median vote (7) with five of 13 members voting ”Not appropriate” (3)].
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+385
+
+osteoarthritis: a randomised controlled trial. Ann Rheum Dis
+2012;71(2):172e9.
+Epub
+2011/12/01.
+http://dx.doi.org/10.
+1136/ard.2010.140178. PubMed PMID: 22128081.
+15. Giggins O, Fullen B, Coughlan G. Neuromuscular electrical
+stimulation in the treatment of knee osteoarthritis: a sys-
+tematic review and meta-analysis. Clin Rehabil 2012;26(10):
+867e81.
+Epub
+2012/02/11.
+http://dx.doi.org/10.1177/
+0269215511431902. PubMed PMID: 22324059.
+16. Yilmaz OO, Senocak O, Sahin E, Baydar M, Gulbahar S, Bircan C,
+et al. Efficacy of EMG-biofeedback in knee osteoarthritis.
+Rheumatol Int 2010;30(7):887e92. Epub 2009/08/21. http://
+dx.doi.org/10.1007/s00296-009-1070-9.
+PubMed
+PMID:
+19693508.
+17. Jansen MJ, Viechtbauer W, Lenssen AF, Hendriks EJ, de Bie RA.
+Strength training alone, exercise therapy alone, and exercise
+therapy with passive manual mobilisation each reduce pain
+and disability in people with knee osteoarthritis: a systematic
+review. J Physiother 2011;57(1):11e20. Epub 2011/03/16.
+http://dx.doi.org/10.1016/s1836-9553(11)70002-9.
+PubMed
+PMID: 21402325.
+18. Iversen
+MD.
+Rehabilitation
+interventions
+for
+pain
+and
+disability in osteoarthritis: a review of interventions including
+exercise, manual techniques, and assistive devices. Orthop
+Nurs/Natl Assoc Orthop Nurses 2012;31(2):103e8. Epub 2012/
+03/27.
+http://dx.doi.org/10.1097/NOR.0b013e31824fce07.
+PubMed PMID: 22446803.
+19. Fransen M, McConnell S, Hernandez-Molina G, Reichenbach S.
+Does land-based exercise reduce pain and disability associated
+with
+hip
+osteoarthritis?
+A
+meta-analysis
+of
+randomized
+controlled trials. Osteoarthritis and Cartilage/OARS,. Osteoar-
+thritis Research Society 2010;18(5):613e20. Epub 2010/03/02.
+http://dx.doi.org/10.1016/j.joca.2010.01.003. PubMed PMID:
+20188228.
+20. Fransen M, McConnell S. Exercise for osteoarthritis of the knee.
+Cochrane Database Syst Rev 2008;(4):CD004376. Epub 2008/
+10/10.
+http://dx.doi.org/10.1002/14651858.CD004376.pub2.
+PubMed PMID: 18843657.
+21. Bannuru RR, Abariga S, Wang C. How effective is tai chi mind-
+body therapy for knee osteoarthritis? A systematic review and
+meta-analysis. Osteoarthritis Research Society International
+World Congress; 2012 Apr 26e29; Barcelona, Spain. Osteoar-
+thritis Cartilage 2012;20(Suppl 1):S281e2.
+22. Kang JW, Lee MS, Posadzki P, Ernst E. T’ai chi for the treatment
+of osteoarthritis: a systematic review and meta-analysis. BMJ
+Open 2011;1(1):e000035. Epub 2011/10/25. http://dx.doi.org/
+10.1136/bmjopen-2010-000035. PubMed PMID: 22021734;
+PubMed Central PMCID: PMCPMC3191392.
+23. Bartels EM, Lund H, Hagen KB, Dagfinrud H, Christensen R,
+Danneskiold-Samsoe B. Aquatic exercise for the treatment of
+knee and hip osteoarthritis. Cochrane Database Syst Rev
+2007;(4):CD005523. Epub 2007/10/19. http://dx.doi.org/10.
+1002/14651858.CD005523.pub2. PubMed PMID: 17943863.
+24. Du S, Yuan C, Xiao X, Chu J, Qiu Y, Qian H. Self-management
+programs for chronic musculoskeletal pain conditions: a sys-
+tematic
+review
+and
+meta-analysis.
+Patient
+Educ
+Couns
+2011;85(3):e299e310. Epub 2011/04/05. http://dx.doi.org/10.
+1016/j.pec.2011.02.021. PubMed PMID: 21458196.
+25. Chondosh J, Morton SC, Mojica W, Maglione M, Suttorp MJ,
+Hilton L, et al. Meta-analysis: chronic disease self-management
+programs for older adults. Ann Intern Med 2005;143(6):427e
+38. Epub 2005/09/21. PubMed PMID: 16172441.
+26. Ravaud
+P,
+Flipo
+RM,
+Boutron
+I,
+Roy
+C,
+Mahmoudi
+A,
+Giraudeau B, et al. ARTIST (osteoarthritis intervention stan-
+dardized) study of standardised consultation versus usual care
+for patients with osteoarthritis of the knee in primary care in
+France: pragmatic randomised controlled trial. BMJ (Clinical
+Research Ed) 2009;338:b421. Epub 2009/02/25. http://dx.doi.
+org/10.1136/bmj.b421. PubMed PMID: 19237406; PubMed
+Central PMCID: PMCPMC2651104.
+27. Hurley MV, Walsh NE, Mitchell H, Nicholas J, Patel A. Long-
+term outcomes and costs of an integrated rehabilitation pro-
+gram for chronic knee pain: a pragmatic, cluster randomized,
+controlled trial. Arthritis Care Res 2012;64(2):238e47. Epub
+2011/09/29.
+http://dx.doi.org/10.1002/acr.20642.
+PubMed
+PMID: 21954131.
+28. Hansson
+EE,
+Jonsson-Lundgren
+M,
+Ronnheden
+AM,
+Sorensson E, Bjarnung A, Dahlberg LE. Effect of an education
+programme for patients with osteoarthritis in primary careea
+randomized
+controlled
+trial.
+BMC
+Musculoskelet
+Disord
+2010;11:244.
+Epub
+2010/10/26.
+http://dx.doi.org/10.1186/
+1471-2474-11-244. PubMed PMID: 20969809; PubMed Cen-
+tral PMCID: PMCPMC2987970.
+29. Allen KD, Oddone EZ, Coffman CJ, Datta SK, Juntilla KA,
+Lindquist JH, et al. Telephone-based self-management of
+osteoarthritis:
+a
+randomized
+trial.
+Ann
+Intern
+Med
+2010;153(9):570e9. Epub 2010/11/03. http://dx.doi.org/10.
+7326/0003-4819-153-9-201011020-00006,
+http://dx.doi.org/
+10.1059/0003-4819-153-9-201011020-00006. PubMed PMID:
+21041576.
+30. Ackerman IN, Buchbinder R, Osborne RH. Challenges in eval-
+uating an Arthritis Self-Management Program for people with
+hip and knee osteoarthritis in real-world clinical settings. J
+Rheumatol 2012;39(5):1047e55. Epub 2012/03/03. http://dx.
+doi.org/10.3899/jrheum.111358. PubMed PMID: 22382340.
+31. Rutjes AW, Nuesch E, Sterchi R, Kalichman L, Hendriks E,
+Osiri M, et al. Transcutaneous electrostimulation for osteoar-
+thritis of the knee. Cochrane Database Syst Rev 2009;(4):
+CD002823.
+Epub
+2009/10/13.
+http://dx.doi.org/10.1002/
+14651858.CD002823.pub2. PubMed PMID: 19821296.
+32. Atamaz FC, Durmaz B, Baydar M, Demircioglu OY, Iyiyapici A,
+Kuran B, et al. Comparison of the efficacy of transcutaneous
+electrical
+nerve
+stimulation,
+interferential
+currents,
+and
+shortwave diathermy in knee osteoarthritis: a double-blind,
+randomized, controlled, multicenter study. Arch Phys Med
+Rehabil 2012;93(5):748e56. Epub 2012/03/31. http://dx.doi.
+org/10.1016/j.apmr.2011.11.037. PubMed PMID: 22459699.
+33. Christensen R, Bartels EM, Astrup A, Bliddal H. Effect of weight
+reduction in obese patients diagnosed with knee osteoar-
+thritis: a systematic review and meta-analysis. Ann Rheum Dis
+2007;66(4):433e9.
+Epub
+2007/01/06.
+http://dx.doi.org/10.
+1136/ard.2006.065904. PubMed PMID: 17204567; PubMed
+Central PMCID: PMCPMC1856062.
+34. Rutjes AW, Nuesch E, Sterchi R, Juni P. Therapeutic ultrasound
+for osteoarthritis of the knee or hip. Cochrane Database Syst
+Rev 2010;(1):CD003132. Epub 2010/01/22. http://dx.doi.org/
+10.1002/14651858.CD003132.pub2.
+PubMed
+PMID:
+20091539.
+35. Loyola-Sanchez A, Richardson J, MacIntyre NJ. Efficacy of ul-
+trasound therapy for the management of knee osteoarthritis: a
+systematic review with meta-analysis. Osteoarthritis and
+Cartilage/OARS, Osteoarthritis Research Society 2010;18(9):
+1117e26. Epub 2010/07/20. http://dx.doi.org/10.1016/j.joca.
+2010.06.010. PubMed PMID: 20637297.
+36. Ulus Y, Tander B, Akyol Y, Durmus D, Buyukakincak O, Gul U,
+et al. Therapeutic ultrasound versus sham ultrasound for the
+management of patients with knee osteoarthritis: a ran-
+domized double-blind controlled clinical study. Int J Rheum
+Dis 2012;15(2):197e206. Epub 2012/04/03. http://dx.doi.org/
+10.1111/j.1756-185X.2012.01709.x.
+PubMed
+PMID:
+22462424.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+386
+
+37. Bannuru RRDU, McAlindon TE. Reassessing the role of acet-
+aminophen in osteoarthritis: systematic review and meta-
+analysis. Osteoarthritis Research Society International World
+Congress; 2010 Sep 23e26; Brussels, Belgium. Osteoarthritis
+Cartilage 2010;18(Suppl 2):S250.
+38. Craig DG, Bates CM, Davidson JS, Martin KG, Hayes PC,
+Simpson KJ. Staggered overdose pattern and delay to hospital
+presentation are associated with adverse outcomes following
+paracetamol-induced
+hepatotoxicity.
+Br
+J
+Clin
+Pharmacol
+2012;73(2):285e94.
+39. Christensen R, Bartels EM, Astrup A, Bliddal H. Symptomatic
+efficacy of avocado-soybean unsaponifiables (ASU) in osteo-
+arthritis
+(OA)
+patients:
+a
+meta-analysis
+of
+randomized
+controlled trials. Osteoarthritis and Cartilage/OARS, Osteoar-
+thritis Research Society 2008;16(4):399e408. Epub 2007/11/
+29.
+http://dx.doi.org/10.1016/j.joca.2007.10.003.
+PubMed
+PMID: 18042410.
+40. Mason L, Moore RA, Derry S, Edwards JE, McQuay HJ. Sys-
+tematic review of topical capsaicin for the treatment of chronic
+pain. BMJ (Clinical Research Ed) 2004;328(7446):991. Epub
+2004/03/23.
+http://dx.doi.org/10.1136/bmj.38042.506748.EE.
+PubMed
+PMID:
+15033881;
+PubMed
+Central
+PMCID:
+PMCPMC404499.
+41. Kosuwon
+W,
+Sirichatiwapee
+W,
+Wisanuyotin
+T,
+Jeeravipoolvarn P, Laupattarakasem W. Efficacy of symptom-
+atic control of knee osteoarthritis with 0.0125% of capsaicin
+versus placebo. J Med Assoc Thai 1⁄4 Chotmaihet Thangphaet
+2010;93(10):1188e95.
+Epub
+2010/10/27.
+PubMed
+PMID:
+20973322.
+42. Chou R, McDonagh MS, Nakamoto E, Griffin J. Analgesics for
+Osteoarthritis: An Update of the 2006 Comparative Effective-
+ness Review. Rockville MD 2011 Oct.
+43. Bannuru RR, Natov NS, Obadan IE, Price LL, Schmid CH,
+McAlindon TE. Therapeutic trajectory of hyaluronic acid versus
+corticosteroids in the treatment of knee osteoarthritis: a sys-
+tematic
+review
+and
+meta-analysis.
+Arthritis
+Rheum
+2009;61(12):1704e11. Epub 2009/12/02. http://dx.doi.org/10.
+1002/art.24925. PubMed PMID: 19950318.
+44. Bellamy N, Campbell J, Robinson V, Gee T, Bourne R, Wells G.
+Intraarticular corticosteroid for treatment of osteoarthritis of
+the knee. Cochrane Database Syst Rev 2006;(2):CD005328.
+Epub
+2006/04/21.
+http://dx.doi.org/10.1002/14651858.
+CD005328.pub2. PubMed PMID: 16625636.
+45. Wandel S, Juni P, Tendal B, Nuesch E, Villiger PM, Welton NJ,
+et al. Effects of glucosamine, chondroitin, or placebo in patients
+with osteoarthritis of hip or knee: network meta-analysis. BMJ
+(Clinical Research Ed) 2010;341:c4675. Epub 2010/09/18.
+http://dx.doi.org/10.1136/bmj.c4675.
+PubMed
+PMID:
+20847017; PubMed Central PMCID: PMCPMC2941572.
+46. Reichenbach S, Sterchi R, Scherer M, Trelle S, Burgi E, Burgi U,
+et al. Meta-analysis: chondroitin for osteoarthritis of the knee
+or hip. Ann Intern Med 2007;146(8):580e90. Epub 2007/04/
+18. PubMed PMID: 17438317.
+47. Hochberg MC, Zhan M, Langenberg P. The rate of decline
+of joint space width in patients with osteoarthritis of the
+knee: a systematic review and meta-analysis of randomized
+placebo-controlled trials of chondroitin sulfate. Curr Med Res
+Opin 2008;24(11):3029e35. Epub 2008/10/02. http://dx.doi.
+org/10.1185/03007990802434932.
+PubMed
+PMID:
+18826751.
+48. Lee YH, Woo JH, Choi SJ, Ji JD, Song GG. Effect of glucosamine
+or chondroitin sulfate on the osteoarthritis progression: a
+meta-analysis. Rheumatol Int 2010;30(3):357e63. Epub 2009/
+06/23. http://dx.doi.org/10.1007/s00296-009-0969-5. PubMed
+PMID: 19544061.
+49. Bartels EM, Bliddal H, Schondorff PK, Altman RD, Zhang W,
+Christensen R. Symptomatic efficacy and safety of diacerein in
+the treatment of osteoarthritis: a meta-analysis of randomized
+placebo-controlled trials. Osteoarthritis and Cartilage/OARS.
+Osteoarthritis
+Research
+Society
+2010;18(3):289e96.
+Epub
+2009/10/28.
+http://dx.doi.org/10.1016/j.joca.2009.10.006.
+PubMed PMID: 19857509.
+50. Citrome L, Weiss-Citrome A. A systematic review of duloxetine
+for osteoarthritic pain: what is the number needed to treat,
+number needed to harm, and likelihood to be helped or
+harmed? Postgrad Med 2012;124(1):83e93. Epub 2012/02/09.
+http://dx.doi.org/10.3810/pgm.2012.01.2521. PubMed PMID:
+22314118.
+51. Frakes EP, Risser RC, Ball TD, Hochberg MC, Wohlreich MM.
+Duloxetine added to oral nonsteroidal anti-inflammatory
+drugs for treatment of knee pain due to osteoarthritis: results
+of a randomized, double-blind, placebo-controlled trial. Curr
+Med Res Opin 2011;27(12):2361e72. Epub 2011/10/25. http://
+dx.doi.org/10.1185/03007995.2011.633502.
+PubMed
+PMID:
+22017192.
+52. Towheed TE, Maxwell L, Anastassiades TP, Shea B, Houpt J,
+Robinson V, et al. Glucosamine therapy for treating osteoar-
+thritis. Cochrane Database Syst Rev 2005;(2):CD002946. Epub
+2005/04/23.
+http://dx.doi.org/10.1002/14651858.
+CD002946.pub2. PubMed PMID: 15846645.
+53. Clegg DO, Reda DJ, Harris CL, Klein MA, O’Dell JR, Hooper MM,
+et al. Glucosamine, chondroitin sulfate, and the two in com-
+bination for painful knee osteoarthritis. New Engl J Med
+2006;354(8):795e808. Epub 2006/02/24. http://dx.doi.org/10.
+1056/NEJMoa052771. PubMed PMID: 16495392.
+54. Palma Dos Reis R, Giacovelli G, Girolami F, Andre R, Bonazzi A,
+Rovati LC. Crystalline glucosamine sulfate in the treatment of
+osteoarthritis: evidence of long-term cardiovascular safety
+from clinical trials. Open Rheumatol J 2011;5:69e77. Epub
+2012/01/05.
+http://dx.doi.org/10.2174/
+1874312901105010069. PubMed PMID: 22216067; PubMed
+Central PMCID: PMCPMC3245483.
+55. Bannuru RR, Natov NS, Dasi UR, Schmid CH, McAlindon TE.
+Therapeutic trajectory following intra-articular hyaluronic
+acid injection in knee osteoarthritisemeta-analysis. Osteoar-
+thritis and Cartilage/OARS. Osteoarthritis Research Society
+2011;19(6):611e9.
+Epub
+2011/03/30.
+http://dx.doi.org/10.
+1016/j.joca.2010.09.014. PubMed PMID: 21443958.
+56. Rutjes
+AW,
+Juni
+P,
+da
+Costa
+BR,
+Trelle
+S,
+Nuesch
+E,
+Reichenbach S. Viscosupplementation for osteoarthritis of the
+knee: a systematic review and meta-analysis. Ann Intern Med
+2012;157(3):180e91. Epub 2012/08/08. http://dx.doi.org/10.
+7326/0003-4819-157-3-201208070-00473.
+PubMed
+PMID:
+22868835.
+57. Lee C, Hunsche E, Balshaw R, Kong SX, Schnitzer TJ. Need for
+common internal controls when assessing the relative efficacy
+of pharmacologic agents using a meta-analytic approach: case
+study of cyclooxygenase 2-selective inhibitors for the treat-
+ment of osteoarthritis. Arthritis Rheum 2005;53(4):510e8.
+Epub
+2005/08/06.
+http://dx.doi.org/10.1002/art.21328.
+PubMed PMID: 16082648.
+58. Nuesch E, Rutjes AW, Husni E, Welch V, Juni P. Oral or trans-
+dermal opioids for osteoarthritis of the knee or hip. Cochrane
+Database Syst Rev 2009;(4):CD003115. Epub 2009/10/13.
+http://dx.doi.org/10.1002/14651858.CD003115.pub3. PubMed
+PMID: 19821302.
+59. Cepeda MS, Camargo F, Zea C, Valencia L. Tramadol for oste-
+oarthritis. Cochrane Database Syst Rev 2006;(3):CD005522.
+Epub
+2006/07/21.
+http://dx.doi.org/10.1002/14651858.
+CD005522.pub2. PubMed PMID: 16856101.
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+387
+
+60. Iwamoto J, Takeda T, Sato Y, Matsumoto H. Effects of risedr-
+onate on osteoarthritis of the knee. Yonsei Med J 2010;51(2):
+164e70.
+Epub
+2010/03/02.
+http://dx.doi.org/10.3349/ymj.
+2010.51.2.164. PubMed PMID: 20191005; PubMed Central
+PMCID: PMCPMC2824859.
+61. Christensen R, Bartels EM, Altman RD, Astrup A, Bliddal H.
+Does the hip powder of Rosa canina (rosehip) reduce pain in
+osteoarthritis
+patients?ea
+meta-analysis
+of
+randomized
+controlled trials. Osteoarthritis and Cartilage/OARS, Osteoar-
+thritis Research Society 2008;16(9):965e72. Epub 2008/04/15.
+http://dx.doi.org/10.1016/j.joca.2008.03.001. PubMed PMID:
+18407528.
+62. European Medicines Agency. Recommendation to restrict the
+use of Protelos/Osseor (strontium ranelate) [press release].
+T.E. McAlindon et al. / Osteoarthritis and Cartilage 22 (2014) 363e388
+388
+

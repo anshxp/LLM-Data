@@ -1,0 +1,8 @@
+### Instruction
+Simplify this health information for a general reader.
+
+### Input
+Insomnia is characterized by persistent difficulty initiating or maintaining sleep despite adequate opportunity for sleep.
+
+### Response
+Insomnia means having ongoing trouble falling asleep or staying asleep even when you have enough time and opportunity to sleep.

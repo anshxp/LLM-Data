@@ -1,0 +1,2733 @@
+Liposomal bupivacaine versus interscalene nerve block for pain
+control after total shoulder arthroplasty: A systematic review and
+meta-analysis
+Kun Wang, Hong-xia Zhang*
+Department of Anesthesiology, Jining No.1 People's Hospital, Jining, Shandong, 272011, China
+h i g h l i g h t s
+To compare the efficiency of liposomal bupivacaine infiltration and interscalene nerve block for pain control after TAS.
+Only RCTs were selected.
+Compared with INB, liposomal bupivacaine had comparative effectiveness on reducing both pain scores.
+a r t i c l e i n f o
+Article history:
+Received 18 May 2017
+Received in revised form
+15 July 2017
+Accepted 20 August 2017
+Available online 24 August 2017
+Keywords:
+Liposomal bupivacaine
+Interscalene nerve block
+Pain control
+Total shoulder arthroplasty
+Meta-analysis
+a b s t r a c t
+Objective: To illustrate the efficacy liposomal bupivacaine versus interscalene nerve block for pain
+management after total shoulder arthroplasty.
+Methods: A systematic search was performed in Medline, PubMed, Embase, ScienceDirect and the
+Cochrane Library. Data on patients prepared for total shoulder arthroplasty in studies that compared
+liposomal bupivacaine versus interscalene nerve block were retrieved. The endpoints were the visual
+analogue scale (VAS) and opioid consumption. Fixed/random effect model was used according to the
+heterogeneity tested by I2 statistic. Software of Stata 11.0 was used for pooling the final outcomes.
+Results: Four randomized controlled trials (RCTs) including 510 patients met the inclusion criteria. The
+present meta-analysis indicated that there were no significant differences between groups in terms of
+VAS score at 12 h, 24 h, and 48 h (p > 0.05). No significant differences were found regarding to opioid
+consumption at postoperative 12 h, 24 h and 48 h (p > 0.05).
+Conclusion: Compared with interscalene nerve block, liposomal bupivacaine had comparative effec-
+tiveness on reducing both pain scores and opioid consumption. Higher quality RCTs are required for
+further research.
+© 2017 IJS Publishing Group Ltd. Published by Elsevier Ltd. All rights reserved.
+1. Introduction
+Total shoulder arthroplasty (TSA) has well-documented efficacy
+in alleviating pain and improving function in patients with
+degenerative arthritis in the glenohumeral joint [1]. With the aging
+population, the annual number of TSA is rising. Previous studies
+show that more than fifty-three thousand TSAs operations were
+performed in 2011 in the United States [2]. However, TSA was
+usually associated with moderate to severe postoperative pain.
+Recent articles have indicated that it was critically important for
+adequate pain management, which could contribute to a decreased
+risk of postoperative complications. A multimodal analgesia regime
+including local infiltration analgesia, peripheral nerve block, and
+patient-controlled analgesia has been recommended as an effective
+analgesic technique to manage pain in patients undergoing TSA
+[3e5].
+Peripheral nerve blocks have become an increasingly popular
+method of providing regional anesthesia after TSA. It has shown
+excellent efficacy in reducing pain, opioid requirements and the
+length of hospital stay for patients undergoing TSA [6]. Interscalene
+nerve block was proposed as a gold standard for analgesia and was
+widely applied for pain control in TSA. However, much literature
+has shown that it was associated with potential neurologic com-
+plications and a high failure rate, which reported at 10%e20% [7].
+* Corresponding author.
+E-mail address: 3128532147@qq.com (H.-x. Zhang).
+Contents lists available at ScienceDirect
+International Journal of Surgery
+journal homepage: www.journal-surgery.net
+http://dx.doi.org/10.1016/j.ijsu.2017.08.569
+1743-9191/© 2017 IJS Publishing Group Ltd. Published by Elsevier Ltd. All rights reserved.
+International Journal of Surgery 46 (2017) 61e70
+
+Local infiltration analgesia is also suggested for postoperative
+pain control at the surgical site and to avoid the need for additional
+anesthetic procedures. Although previous articles have reported
+the obvious benefit in TSA, traditional local anesthetics were criti-
+cized for a short half time, which may influence the effect of
+analgesia [8,9]. Liposomal bupivacaine is a long-acting anesthetic
+whose acting process is when bupivacaine is encapsulated into
+multivesicular liposomes, making it a slow and controlled release
+from the liposomes [10]. Several studies have reported that in the
+setting of joint arthroplasty, liposomal bupivacaine has shown
+equal efficacy to adductor canal or femoral nerve blocks [11,12].
+The comparison of liposomal bupivacaine infiltration and
+interscalene nerve block for pain management in TSA was seldom
+reported. And the published studies were criticized for small
+sample sizes and short-term follow-up. Thus, there is a lack of
+reliable scientific evidence. We conducted a meta-analysis from
+randomized controlled trials (RCTs) to illustrate the efficacy of
+liposomal bupivacaine versus interscalene nerve block for pain
+management after TSA.
+2. Methods
+2.1. Search strategy
+We
+searched
+the
+electronic
+databases
+including
+Embase
+(1980e2017.05),
+PubMed
+(1966e2017.05),
+ScienceDirect
+(1985e2017.05), Web of Science (1950e2017.05) and Cochrane Li-
+brary for potential relevant studies. A complete search strategy for
+Embase was provided in Table 1. The references of the included
+Table 1
+EMBASE search strategy.
+#1.
+'pain control*':ti,ab
+#2.
+'pain management'/exp
+#3.
+'pain relief'/exp
+#4.
+'morphine*':ti,ab
+#5.
+'opioid '/exp
+#6.
+#1 and #4
+#7.
+#2 and #4
+#8.
+#3 and #4
+#9.
+#1 and #5
+#10.
+#2 and #5
+#11.
+#3 and #5
+#12.
+'interscalene nerve block*':ti,ab
+#13.
+'indwelling interscalene catheter '/exp
+#14.
+'liposomal bupivacaine*':ti,ab
+#15.
+#12 and #14
+#16.
+#13 and #14
+#17.
+shoulder*:ti,ab
+#18.
+arthroplasty/exp
+#19.
+replacement/exp
+#20.
+#17 or#18 or #19
+Fig. 1. Search results and the selection procedure.
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+62
+
+literature were also checked for potentially relevant studies. We
+placed no restrictions on the publication language. The key words
+used in search methods including: “analgesia” OR “pain manage-
+ment” OR “pain control” OR “liposomal bupivacaine” OR “inter-
+scalene
+nerve
+block”
+AND
+“total
+shoulder
+replacement
+or
+arthroplasty”. A third reviewer acted as a judge if there was any
+disagreement. The retrieval process is presented in Fig. 1.
+2.2. Inclusion and exclusion criteria
+Patients: adult human subjects (age>18 years) prepared for total
+shoulder arthroplasty; Intervention: use liposomal bupivacaine for
+pain management as an intervention group; Comparison: admin-
+istration interscalene nerve block as a comparison group; Out-
+comes: visual analogue scale (VAS) at 12 h, 24 h and 48 h, total
+opioid consumption at 12 h, 24 h and 48 h; Study design: RCTs.
+Studies would be excluded from present meta-analysis for incom-
+plete data, case reports, conference abstract or review articles.
+2.3. Selection criteria
+Two reviewers independently scanned the abstracts of the po-
+tential articles identified by the above searches. Subsequently, the
+full text of the studies that met the inclusion criteria was screened,
+and a final decision was made. A senior author had the final deci-
+sion in any case of disagreement regarding which studies to
+include.
+2.4. Date extraction
+Two authors independently extracted the relevant data using a
+predefined data extraction form created as a Microsoft Excel. We
+also noted the details of trial method, participant characteristics,
+intervention, and outcomes in the characteristics of included
+studies table. We resolved disagreements by consensus or by
+involving a third person. One review author transferred data into
+the Review Manager. Details of incomplete data of included studies
+are obtained by consulting the corresponding author. For included
+studies, we extracted the following data. First author names, pub-
+lished year, sample size, study design, comparable baseline, anal-
+gesic methods, and duration of follow-up. For continuous outcomes
+(e.g. VAS scale and opioid consumption): We extracted the mean
+and standard deviation (SD) of the outcome. For dichotomous
+outcomes (e.g. adverse events): We extracted the number of par-
+ticipants in each treatment arm who experienced the outcome of
+interest and the number of participants assessed at the endpoint in
+order to estimate a risk difference. We did not impute missing
+outcome data and attempted to contact trial authors to obtain
+missing data if necessary.
+2.5. Quality assessment
+According to Cochrane Handbook for Systematic Reviews of
+Interventions 5.0, the risk of bias of the included studies was
+assessed by two authors independently. Disagreements were
+resolved by discussion. A third author was the adjudicator when no
+consensus was achieved. We applied the “assessing the risk of bias”
+Table 2
+Trials characteristics.
+Studies
+Reference
+type
+Location Cases Mean
+age
+Female
+patient
+Drug dose of
+LB
+Technique of LB
+Drug dose of
+INB
+Technique of INB
+Concomitant
+Pain
+Follow
+up
+(LB/
+INB)
+(LB/
+INB)
+(LB/
+INB)
+William
+2016
+RCT
+USA
+58/
+156
+68/66 36/83
+20 mL
+(266 mg) of
+liposomal
+bupivacaine
+0.5-mL aliquots via
+multiple needle
+20 mL 0.5%
+bupivacaine
+with 1:200,000
+epinephrine
+indwelling INB by an 18-gauge
+needle to inject around the brachial
+plexus nerve trunks with the
+guidance of ultrasound
+oral
+morphine
+equivalent
+3
+months
+Namdari
+2017
+RCT
+USA
+78/
+78
+68.4/
+70.9
+38/47
+20 mL
+(266 mg) of
+liposomal
+bupivacaine
+A 22-gauge needle was
+utilized and multiple
+aliquots of 0.5 mL were
+injected
+30 mL of 0.5%
+ropivacaine
+A single injection was performed
+with the guidance of ultrasound
+PCA with
+opioids
+2
+months
+Okoroha
+2017
+RCT
+USA
+26/
+31
+69.4/
+67.1
+14/15
+20 mL
+(266 mg) of
+liposomal
+bupivacaine
+1-inch, 18-gauge
+needle was used to
+administer the
+injection
+40 mL of 0.5%
+ropivacaine
+A single injection into the nerve
+sheath of the brachial plexus with
+the guidance of ultrasound
+PCA with
+opioids
+4
+months
+Abildgaard
+2017
+RCT
+USA
+37/
+46
+67.8/
+70.1
+16/32
+20 mL
+(266 mg) of
+liposomal
+bupivacaine
+syringe
+0.5%
+ropivacaine
+8 mL/h
+An indwelling catheter was placed
+at the time of INB with the guidance
+of ultrasound
+oral
+morphine
+equivalent
+3
+months
+LB: Liposomal Bupivacaine, INB: interscalene nerve block, PCA: patient-control-analgesia.
+Table 3
+Methodological quality of the randomized controlled trials.
+Study
+Random Sequence
+Generation
+Allocation
+Concealment
+Blinding of participates and
+personal
+Blinding of outcome
+assessment
+Incomplete Outcome
+Data
+Selective
+Reporting
+Other
+bias
+Abildgaard,2017 low risk
+low risk
+high risk
+unclear risk
+low risk
+low risk
+unclear
+Namdari,2017
+low risk
+low risk
+high risk
+unclear risk
+low risk
+low risk
+unclear
+Okoroha,2017
+low risk
+low risk
+high risk
+low risk
+low risk
+low risk
+unclear
+William,2016
+low risk
+low risk
+unclear risk
+unclear risk
+low risk
+low risk
+unclear
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+63
+
+Table 4
+Risk of bias.
+Random sequence generation (selection bias)
+Allocation concealment (selection bias)
+Blinding of participants and personnel (performance bias)
+Blinding of outcome assessment (detection bias)
+Incomplete outcome data (attrition bias)
+Selective reporting (reporting bias)
+Other bias
+0%
+25%
+50%
+75%
+100%
+Low risk of bias
+Unclear risk of bias
+High risk of bias
+Fig. 2. Forest plot diagram showing VAS scores following TSA.
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+64
+
+table,
+which
+include
+the
+following
+key
+domains:
+adequate
+sequence generation, allocation of concealment, blinding, incom-
+plete outcome data, free of selective reporting and free of other
+bias. Each item was recorded by “Yes”, “No”, or “Unclear”. Each risk
+of bias item was presented as a percentage across all included
+studies. The percentage indicated the proportion of different levels
+of risk of bias for each item. Power analysis for each outcome was
+also calculated by Power and Precision software.
+The qualities of evidence of main outcomes in present meta-
+analysis were evaluated using the Recommendations Assessment,
+Development and Evaluation (GRADE) system [13] including the
+following items: risk of bias, inconsistency, indirectness, impreci-
+sion and publication bias. Two authors independently score all the
+items of the GRADE systems which may influence quality of evi-
+dence. Items that may raise the quality of evidence was recorded by
+0, þ1 and þ 2. Items that may lower the quality of evidence was
+recorded by 0, -1 and -2. A senior reviewer is consult in case of
+disagreement. Finally, GRADE systems will overall evaluate the
+results. The recommendation level of evidence is classified into the
+following categories: (1) high, which means that further research is
+unlikely to change confidence in the effect estimate; (2) moderate,
+which means that further research is likely to significantly change
+confidence in the effect estimate and may change the estimate; (3)
+low, which means that further research is likely to significantly
+change confidence in the effect estimate and to change the
+estimate; and (4) very low, which means that any effect estimate is
+uncertain.
+2.6. Data analysis and statistical methods
+All calculations were carried out with Stata 11.0 (The Cochrane
+Collaboration, Oxford, United Kingdom). We planned to pool the
+results using the random-effects model, which would better
+incorporate the clinical heterogeneity typical among small studies.
+We hypothesized that the different articles were estimating
+randomly different yet related intervention effects. By choosing the
+more conservative random-effects model, confidence intervals for
+the average intervention effect would be wider. The results of
+dichotomous outcomes (postoperative adverse effects, including
+the risk of nausea and vomiting) were expressed as risk difference
+(RD) with 95% confidence intervals (CIs). For continuous various
+outcomes (VAS scores, opioid consumption, length of stay), mean
+difference (MD) or standard mean difference (SMD) with a 95%
+confidence intervals (CIs) was applied for assessment.
+3. Results
+3.1. Search result
+A total of 347 studies were identified through the initial search.
+Fig. 3. Forest plot diagram showing opioid consumption following TSA.
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+65
+
+By scanning the abstracts, 343 reports that did not meet inclusion
+criteria were excluded from the current meta-analysis. Finally, four
+RCTs [14e17] published between 2016 and 2017 were included in
+the present meta-analysis. Overall, the four studies included 199
+patients in the liposomal bupivacaine groups and 311 patients in
+the interscalene nerve block groups.
+3.2. Study characteristics
+Demographic characteristics of the included studies are sum-
+marized in Table 2. The sample size ranged from 57 to 214. Exper-
+imental groups applied local infiltration of liposomal bupivacaine.
+A 22-gauge needle was utilized and multiple aliquots of 0.5 mL
+Fig. 4. Forest plot diagram showing length of stay following TSA.
+Fig. 5. Forest plot diagram showing incidence of nausea following TSA.
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+66
+
+were injected into the anteriorcapsule, subscapularis, deltoid,
+pectoralis major, and subcutaneous fat layer along the extent of
+both sides of the deltopectoral incision. Control groups received
+interscalene nerve block under ultrasound guidance. Two studies
+[14,17] reported that an indwelling catheter was placed at the time
+of
+the
+interscalene
+block
+and
+left
+in
+place
+postoperatively
+throughout admission. Others applied single injection under ul-
+trasound guidance. The duration of the follow-up ranged from two
+to four months.
+3.3. Risk of bias
+The Cochrane Handbook for Systematic Review of Interventions
+was consulted to assess risk of bias of the RCTs (Table 3). All RCTs
+provide clear inclusion and exclusion criteria and described their
+randomization methodology, and all articles described the use of
+computer-generated randomization. All RCTs reported allocation
+concealment by closed envelope or other techniques. None RCTs
+provided double blinding. Only one [16] of them had attempted to
+blind assessors. All of them suggest the outcomes for at least 95% of
+the patients. Each risk of bias item is presented as the percentage
+across all included studies, which indicates the proportion of
+different levels of risk of bias for each item (Table 4).
+3.4. Outcomes for meta-analysis
+3.4.1. VAS scores
+Four studies [14e17] showed the VAS scores following TSA. A
+random-effects model was used. No significant difference was
+identified regarding the VAS scores at 12 h (SMD 1⁄4 0.273, 95%
+CI: 0.164 to 0.710, P 1⁄4 0.221, power 1⁄4 89.2%), 24 h (SMD 1⁄4 0.061,
+95% CI: 0.346 to 0.225, P 1⁄4 0.678, power 1⁄4 90.9%) or 48 h
+(SMD 1⁄4 0.086, 95% CI: 0.168 to 0.341, P 1⁄4 0.507, power 1⁄4 93.1%;
+Fig. 2) between groups.
+3.4.2. Opioid consumption
+Opioid consumption at 12e24 h after TSA was reported in four
+articles [14e17]. A random-effects model was used. The present
+meta-analysis indicated that there was no significant difference
+between
+groups
+in
+terms
+of
+opioid
+consumption
+at
+12
+h
+(SMD 1⁄4 0.082, 95% CI: 0.348 to 0.184, P 1⁄4 0.545, power 1⁄4 83.7%),
+24 h (SMD 1⁄4 0.046, 95% CI: 0.136 to 0.228, P 1⁄4 0.618,
+power 1⁄4 81.2%) or 48 h (SMD 1⁄4 0.025, 95% CI: 0.207 to 0.157,
+P 1⁄4 0.785, power 1⁄4 85.0%; Fig. 3).
+3.4.3. Length of hospital stay (LOS)
+Four articles [14e17] provided the outcome of LOS. A random-
+effects model was used. There was no significant difference be-
+tween the two groups (SMD 1⁄4 0.437, 95% CI: 0.920 to 0.046,
+P 1⁄4 0.076; Fig. 4).
+3.4.4. Nausea
+Four studies reported the postoperative complications of
+nausea. A random-effects model was used. No significant difference
+in the incidence of nausea was found between the two groups
+(RD 1⁄4 0.033, 95% CI: 0.100 to 0.034, P 1⁄4 0.333; Fig. 5).
+3.4.5. Vomiting
+Four articles reported the postoperative complications of vom-
+iting following TSA. A random-effects model was used. There was
+no significant difference in terms of the incidence of vomiting be-
+tween the groups (RD 1⁄4 0.007, 95% CI: 0.062 to 0.048, P 1⁄4 0.807;
+Fig. 6).
+3.4.6. Evidence level and publication bias
+The overall evidence quality for each outcome was moderate to
+low (Table 5) which means that further research is likely to
+significantly change confidence in the effect estimate and to change
+the estimate. As only four RCTs were included, publication bias was
+assessed by the most important outcome for VAS scores at 12 h.
+Fig. 6. Forest plot diagram showing incidence of vomiting following TSA.
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+67
+
+Presented in Fig. 7, funnel plots were symmetrical and low risk of
+publication bias was found, however, publication bias could not be
+excluded as the reliability of this kind of assessment was weak
+especially when a low number of studies were included.
+4. Discussion
+As far as we know, this is the first meta-analysis to compare local
+infiltration of liposomal bupivacaine and interscalene nerve block
+for pain control after TSA. The present meta-analysis indicated that
+local
+liposomal
+bupivacaine
+infiltration
+showed
+comparative
+effectiveness compared to an interscalene nerve block in reducing
+pain scores and opioid consumption. In addition, no increased risk
+of the incidence of postoperative complications was identified.
+The annual number of TSA is rising with the growing elderly
+population. TSA is an effective surgical procedure that improves
+function and relieves pain. However, postoperative pain associated
+with TAS was an important issue that should be addressed.
+Adequate pain control contributes to early functional recovery and
+minimizes postoperative complications and medical costs.
+Regional anesthesia in the form of interscalene nerve block has
+been recognized to be an effective mode for pain management after
+TAS. Local infiltration anesthesia is commonly used and has
+demonstrated satisfactory and favorable results in joint surgery.
+However, the use of older local anesthetics showed a limited
+duration of analgesia. Liposomal bupivacaine acts as a long-acting,
+local anesthetic [18]. The U.S. Food and Drug Administration have
+approved it for administration into the surgical site, with proven
+safety in both animal and human studies. This suspension is created
+using a lipid-based delivery system that encapsulates the drug in
+multivesicular liposomal particles that then release the drug over a
+72 h time period. Theoretically, liposomal bupivacaine is superior
+compared with traditional local anesthetics in pain control [19,20].
+In addition, local infiltration of anesthetics is a simple technique
+that can be done without an anesthetist. Ma et al. [21] showed that
+compared with the traditional bupivacaine, liposomal bupivacaine
+shows better pain control and reduces the length of hospital stay
+after total hip arthroplasty. Ma et al. [22] found that liposomal
+bupivacaine provides similar pain relief to femoral nerve block
+following total knee arthroplasty. In addition, liposomal bupiva-
+caine could significantly reduce the consumption of morphine
+equivalents compared without an increased risk of adverse events.
+A commonly used perioperative pain control modality during
+TSA is an interscalene nerve block. It is associated with less post-
+operative pain, less narcotic use, shorter length of hospital stay as
+well as an increase in early joint range of motion. The interscalene
+brachia plexus nerve block is considered the “gold standard” for
+shoulder analgesia. Various articles have demonstrated that inter-
+scalene nerve block was effective in reducing pain and opioid
+consumption for patients undergoing TSA [23]. Angerame et al. [24]
+reported that an interscalene nerve block was effective in con-
+trolling pain and limiting opioid consumption while avoiding the
+risk of potentially severe complications and high cost. Abdallah
+et al. [3] showed that an interscalene nerve block is associated with
+increased patient satisfaction and shoulder range of motion, most
+likely resulting from the potent analgesia these nerve blocks
+provide.
+Although effective at decreasing opioid requirements, periph-
+eral nerve blocks expose the patient to an additional procedure
+with associated complications. Neurologic complications, including
+persistent neurologic pain, dysesthesia down the arm, post-
+operative paralysis, perineural entrapment of the catheter, vocal
+cord paralysis, and hemidiaphragmatic paralysis from phrenic
+nerve palsy, have also been described [25,26]. Therefore, the
+optimal analgesia regime remains controversial. The present meta-
+Table 5
+The GRADE evidence quality for main outcome.
+Quality assessment
+No of patients
+Effect
+Quality
+Importance
+No of
+studies
+Design
+Limitations
+Inconsistency
+Indirectness
+Imprecision
+Other
+considerations
+Liposomal
+bupivacaine groups
+Interscalene nerve
+block groups
+Relative
+(95% CI)
+Absolute
+VAS scores at 12 h (follow-up 2 to 4 months; Better indicated by lower values)
+4
+randomised
+trials
+no serious
+limitations
+serious
+no serious
+indirectness
+no serious
+imprecision
+none
+199
+311
+e
+SMD 1⁄4 0.273, 95%
+CI: 0.164 to 0.710
+444O
+MODERATE
+CRITICAL
+VAS scores at 24 h (follow-up 2 to 4 months; Better indicated by lower values)
+4
+randomised
+trials
+no serious
+limitations
+serious
+no serious
+indirectness
+no serious
+imprecision
+none
+199
+311
+e
+SMD 1⁄4 0.061, 95%
+CI: 0.346 to 0.225
+444O
+MODERATE
+CRITICAL
+VAS scores at 48 h (follow-up 2 to 4 months; Better indicated by lower values)
+4
+randomised
+trials
+no serious
+limitations
+serious
+no serious
+indirectness
+no serious
+imprecision
+none
+199
+311
+e
+SMD 1⁄4 0.086, 95%
+CI: 0.168 to 0.341
+444O
+MODERATE
+CRITICAL
+Opioid consumption at 12 h (follow-up 2 to 4 months; Better indicated by lower values)
+4
+randomised
+trials
+no serious
+limitations
+no serious
+inconsistency
+no serious
+indirectness
+no serious
+imprecision
+none
+199
+311
+e
+SMD 1⁄4 0.082, 95%
+CI: 0.348 to 0.184
+4444
+HIGH
+CRITICAL
+Opioid consumption at 24 h (follow-up 2 to 4 months; Better indicated by lower values)
+4
+randomised
+trials
+no serious
+limitations
+no serious
+inconsistency
+no serious
+indirectness
+no serious
+imprecision
+none
+199
+311
+e
+SMD 1⁄4 0.046, 95%
+CI: 0.136 to 0.228
+4444
+HIGH
+CRITICAL
+Opioid consumption at 48 h (follow-up 2 to 4 months; Better indicated by lower values)
+4
+randomised
+trials
+no serious
+limitations
+no serious
+inconsistency
+no serious
+indirectness
+no serious
+imprecision
+none
+199
+311
+e
+SMD 1⁄4 0.025, 95%
+CI: 0.207 to 0.157
+4444
+HIGH
+CRITICAL
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+68
+
+analysis demonstrated that there was no significant difference
+regarding VAS scores between groups. However, the statistical
+power may be lower because of the small sample size.
+Additional opioids were used as an adjunct to concomitant pain
+control. Patients preferred the personal control aspect of patient-
+control-analgesia (PCA) and the rapid onset. In our study, opioid
+consumption was considered an objective means to measure pain.
+Opioid-related adverse effects including nausea, vomiting, respi-
+ratory depression, and pruritus were well known and drew our
+attention [27,28]. Besides the side effects, drug dependence is also
+an important issue related to opioid administration that should be
+considered. It was crucial to minimize the opioid consumption for
+patients and improve their recovery and satisfaction. The present
+meta-analysis indicated that there was no significant difference
+between liposomal bupivacaine infiltration groups and inter-
+scalene nerve block groups regarding the opioid consumption.
+Analgesia efficacy is not the only concern when evaluating the
+analgesic effect. Nausea and vomiting are well-known side effects
+that are related to systemic use of morphine. Adequate analgesia
+protocol could decrease opioid consumption and subsequently
+decrease the risk of postoperative complications. The present meta-
+analysis showed that there was no significant difference between
+groups for the incidence of nausea and vomiting. Other complica-
+tions such as thrombotic events, pneumonia, and cardiac events
+were reported in the individual article. No significant difference
+was found. Considering that only four RCTs were included in our
+study, large sample sizes from high quality RCTs are, therefore,
+needed.
+Some limitations in the present meta-analysis exist that should
+be noted. (1) Only four RCTs were included in the present meta-
+analysis, and the sample size was relatively small, so the outcome
+should be treated cautiously; (2) Functional outcome is an impor-
+tant parameter, due to the insufficiency of relevant data, we cannot
+perform a meta-analysis; (3) Due to the limited number of included
+studies, subgroup analyses were not performed for VAS scores;
+therefore, we could not determine the sources of heterogeneity; (4)
+Type and dose of analgesic drug which has been used for intercostal
+nerve block were various, which may generate heterogeneity; (5)
+Short-term
+follow-up
+may
+lead
+to
+the
+underestimation
+of
+complications; (6) Publication bias is an inherent weakness that
+exists in all meta-analyses.
+Despite the limitations above, this study is the first meta-
+analysis from RCTs to illustrate the efficacy of liposomal bupiva-
+caine versus interscalene nerve block for pain management after
+total shoulder arthroplasty. High-quality RCTs with a large sample
+size are required to investigate the adequate analgesia protocol and
+potential adverse effects in future studies.
+5. Conclusion
+Compared with interscalene nerve block, liposomal bupivacaine
+had comparative effectiveness on reducing both pain scores and
+opioid consumption. Higher quality RCTs are required for further
+research.
+Ethical approval
+All analyses were based on previous published studies, thus no
+ethical approval and patient consent are required.
+Funding
+None.
+Author contribution
+Kun Wang: data collections, revised the manuscript and writing.
+Hong-xia Zhang: study design.
+Conflict of interest
+The authors declare that they have no competing interests.
+Research registration unique identifying number (UIN)
+reviewregistry212.
+Fig. 7. Funnel plot of VAS scores at 12 h following TSA.
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+69
+
+Trial registry number e ISRCTN
+None.
+Guarantor
+Hong-xia Zhang.
+Acknowledgments
+None.
+References
+[1] M.P. van den Bekerom, P.C. Geervliet, M.P. Somford, M.P. van den Borne,
+R. Boer, Total shoulder arthroplasty versus hemiarthroplasty for glenohumeral
+arthritis: a systematic review of the literature at long-term follow-up, Int. J.
+shoulder Surg. 7 (3) (2013) 110e115.
+[2] N.B. Jain, K. Yamaguchi, The contribution of reverse shoulder arthroplasty to
+utilization of primary shoulder arthroplasty, J. shoulder Elb. Surg./Am.
+Shoulder Elb. Surg. [et al] 23 (12) (2014) 1905e1912.
+[3] B.M. Ilfeld, T.W. Wright, F.K. Enneking, T.E. Morey, Joint range of motion after
+total shoulder arthroplasty with and without a continuous interscalene nerve
+block: a retrospective, case-control study, Reg. Anesth. Pain Med. 30 (5)
+(2005) 429e433.
+[4] M.A. Ramirez, J.M. Ramirez, A.M. Murthi, Multimodal local infiltration anal-
+gesia in total shoulder replacement, Pain Manag. 3 (4) (2013) 253e255.
+[5] O. Stundner, R. Rasul, Y.L. Chiu, X. Sun, M. Mazumdar, C.M. Brummett,
+R. Ortmaier, S.G. Memtsoudis, Peripheral nerve blocks in shoulder arthro-
+plasty: how do they influence complications and length of stay? Clin. Orthop.
+Relat. Res. 472 (5) (2014) 1482e1488.
+[6] R.A. Gabriel, A. Nagrebetsky, A.D. Kaye, R.P. Dutton, R.D. Urman, The patterns
+of utilization of interscalene nerve blocks for total shoulder arthroplasty,
+Anesthesia and analgesia 123 (3) (2016) 758e761.
+[7] N.M. Lynch, R.H. Cofield, P.L. Silbert, R.C. Hermann, Neurologic complications
+after total shoulder arthroplasty, J. Shoulder Elbow Surg./American Shoulder
+and Elbow Surgeons [et al] 5 (1) (1996) 53e61.
+[8] C.V. Asche, J. Ren, M. Kim, K. Gordon, M. McWhirter, C.S. Kirkness, B.T. Maurer,
+Local infiltration for postsurgical analgesia following total hip arthroplasty: a
+comparison of liposomal bupivacaine to traditional bupivacaine, Curr. Med.
+Res. Opin. 33 (7) (2017) 1283e1290.
+[9] D.T. Bagsby, P.H. Ireland, R.M. Meneghini, Liposomal bupivacaine versus
+traditional periarticular injection for pain control after total knee arthroplasty,
+J. Arthroplasty 29 (8) (2014) 1687e1690.
+[10] B.H. Cotta, C. Welliver, A. Brahmamdam, C.L. Bednarchik, D. Dynda, T.S. Kohler,
+Long-acting liposomal bupivacaine decreases inpatient narcotic requirements
+in men undergoing penile prosthesis implantation, Turk. J. Urol. 42 (4) (2016)
+230e234.
+[11] K.R. Okoroha, R.A. Keller, N.E. Marshall, E.K. Jung, N. Mehran, E. Owashi,
+V. Moutzouros, Liposomal bupivacaine versus femoral nerve block for pain
+control after anterior cruciate ligament reconstruction: a prospective ran-
+domized trial, Official Publication of the Arthroscopy Association of North
+America and the International Arthroscopy Association, Arthrosc. J. Arthrosc.
+Relat. Surg. 32 (9) (2016) 1838e1845.
+[12] A.W. Amundson, R.L. Johnson, M.P. Abdel, C.B. Mantilla, J.K. Panchamia,
+M.J. Taunton, M.E. Kralovec, J.R. Hebl, D.R. Schroeder, M.W. Pagnano, et al.,
+A three-arm randomized clinical trial comparing continuous femoral plus
+single-injection sciatic peripheral nerve blocks versus periarticular injection
+with ropivacaine or liposomal bupivacaine for patients undergoing total knee
+arthroplasty, Anesthesiology 126 (6) (2017) 1139e1150.
+[13] F. Braido, I. Baiardini, E. Compalati, A. Bordo, G.W. Canonica, Towards the
+Grade of Recommendations, Assessment, Development and Evaluation sys-
+tem: methods and results of budesonide/formoterol maintenance and reliever
+therapy research, Curr. Opin. Allergy Clin. Immunol. 11 (4) (2011) 361e374.
+[14] J.T. Abildgaard, K.T. Lonergan, S.J. Tolan, M.J. Kissenberth, R.J. Hawkins,
+R. Washburn 3rd, K.J. Adams, C.D. Long, E.C. Shealy, J.R. Motley, et al., Lipo-
+somal bupivacaine versus indwelling interscalene nerve block for post-
+operative pain control in shoulder arthroplasty: a prospective randomized
+controlled trial, J. Shoulder Elbow Surg./American Shoulder and Elbow Sur-
+geons [et al] 26 (7) (2017 Jul) 1175e1181.
+[15] S. Namdari, T. Nicholson, J. Abboud, M. Lazarus, D. Steinberg, G. Williams,
+Randomized controlled trial of interscalene block compared with injectable
+liposomal bupivacaine in shoulder arthroplasty, J. Bone Joint Surg. American
+volume 99 (7) (2017) 550e556.
+[16] K.R. Okoroha, J.R. Lynch, R.A. Keller, J. Korona, C. Amato, B. Rill, P.A. Kolowich,
+S.J. Muh, Liposomal bupivacaine versus interscalene nerve block for pain
+control
+after
+shoulder
+arthroplasty:
+a
+prospective
+randomized
+trial,
+J. Shoulder Elbow Surg./American Shoulder and Elbow Surgeons [et al] 25 (11)
+(2016) 1742e1748.
+[17] W.J. Weller, M.G. Azzam, R.A. Smith, F.M. Azar, T.W. Throckmorton, Liposomal
+bupivacaine mixture has similar pain relief and significantly fewer compli-
+cations at less cost compared to indwelling interscalene catheter in total
+shoulder arthroplasty, J. Arthroplasty (2017 Mar 16), http://dx.doi.org/
+10.1016/j.arth.2017.03.017 pii: S0883-5403(17)30219-X.
+[18] T.W. Hamilton, V. Athanassoglou, M. Trivella, L.H. Strickland, S. Mellon,
+D. Murray, H.G. Pandit, Liposomal bupivacaine peripheral nerve block for the
+management of postoperative pain, Cochrane Database Syst. Rev. 8 (2016)
+CD011476.
+[19] C.V. Asche, J. Ren, M. Kim, K. Gordon, M. McWhirter, C.S. Kirkness, B.T. Maurer,
+Local infiltration for postsurgical analgesia following total hip arthroplasty: a
+comparison of liposomal bupivacaine to traditional bupivacaine, Curr. Med.
+Res. Opin. (2017) 1e8.
+[20] R.M. Meneghini, D. Bagsby, P.H. Ireland, M. Ziemba-Davis, L.R. Lovro, Lipo-
+somal bupivacaine injection technique in total knee arthroplasty, J. Knee Surg.
+30 (1) (2017) 88e96.
+[21] T.T. Ma, Y.H. Wang, Y.F. Jiang, C.B. Peng, C. Yan, Z.G. Liu, W.X. Xu, Liposomal
+bupivacaine versus traditional bupivacaine for pain control after total hip
+arthroplasty: a meta-analysis, Medicine 96 (25) (2017) e7190.
+[22] J. Ma, W. Zhang, S. Yao, Liposomal bupivacaine infiltration versus femoral
+nerve block for pain control in total knee arthroplasty: a systematic review
+and meta-analysis, Int. J. Surg. 36 (Pt A) (2016) 44e55.
+[23] C.V. Hannan, M.J. Albrecht, S.A. Petersen, U. Srikumaran, Liposomal bupiva-
+caine vs interscalene nerve block for pain control after shoulder arthroplasty:
+a retrospective cohort analysis, Am. J. Orthoped. 45 (7) (2016) 424e430.
+[24] M.R. Angerame, J.A. Ruder, S.M. Odum, N. Hamid, Pain and opioid use after
+total shoulder arthroplasty with injectable liposomal bupivacaine versus
+interscalene block, Orthopedics (2017) 1e6.
+[25] K.R. Ediale, C.R. Myung, G.G. Neuman, Prolonged hemidiaphragmatic paralysis
+following interscalene brachial plexus block, J. Clin. Anesth. 16 (8) (2004)
+573e575.
+[26] M.L. Plit, P.N. Chhajed, P. Macdonald, I.E. Cole, G.A. Harrison, Bilateral vocal
+cord palsy following interscalene brachial plexus nerve block, Anaesth.
+Intensive Care Med. 30 (4) (2002) 499e501.
+[27] M.P. Bonnet, A. Mignon, J.X. Mazoit, Y. Ozier, E. Marret, Analgesic efficacy and
+adverse effects of epidural morphine compared to parenteral opioids after
+elective caesarean section: a systematic review, Eur. J. Pain 14(9) (894) (2010)
+e891e899.
+[28] D. Tassinari, S. Sartori, E. Tamburini, E. Scarpi, W. Raffaeli, P. Tombesi,
+M. Maltoni, Adverse effects of transdermal opiates treating moderate-severe
+cancer pain in comparison to long-acting morphine: a meta-analysis and
+systematic review of the literature, J. Palliat. Med. 11 (3) (2008) 492e501.
+K. Wang, H.-x. Zhang / International Journal of Surgery 46 (2017) 61e70
+70
+
+15. Willingham MD, Avidan MS. Triple low,
+double low: it’s time to deal Achilles
+heel a single deadly blow. British Jour-
+nal of Anaesthesia 2017; 119: 1–4.
+16. Sperna Weiland NH, Brevoord D, J€obsis
+DA, et al. Cerebral oxygenation during
+changes in vascular resistance and flow
+in patients on cardiopulmonary bypass
+–
+a
+physiological
+proof
+of
+concept
+study. Anaesthesia 2017; 72: 49–56.
+17. Ghosh A, Elwell C, Smith M. Review
+article:
+cerebral
+near-infrared
+spec-
+troscopy in adults: a work in progress.
+Anesthesia and Analgesia 2012; 115:
+1373–83.
+18. Highton
+D,
+Ghosh
+A,
+Tachtsidis
+I,
+Panovska-Griffiths J, Elwell CE, Smith
+M. Monitoring cerebral autoregulation
+after brain injury: multimodal assess-
+ment of cerebral slow-wave oscilla-
+tions using near-infrared spectroscopy.
+Anesthesia and Analgesia 2015; 121:
+198–205.
+19. Joshi B, Ono M, Brown C, et al. Predict-
+ing the limits of cerebral autoregula-
+tion during cardiopulmonary bypass.
+Anesthesia and Analgesia 2012; 114:
+503–10.
+20. Pedersen T, Nicholson A, Hovhannisyan
+K, Moller AM, Smith AF, Lewis SR.
+Pulse oximetry for perioperative moni-
+toring. Cochrane Database Systematic
+Review 2014; 3: CD002013.
+21. Moerman
+A,
+De
+Hert
+S.
+Cerebral
+oximetry: the standard monitor of the
+future? Current Opinions in Anaesthesi-
+ology 2015; 28: 703–9.
+doi:10.1111/anae.14064
+Editorial
+Whose fault are wrong predictions: the clinician, the patient or
+the pigeon?
+Nate Silver has written an excellent
+book entitled ‘The Signal and the
+Noise’ [1]. He discusses the art and
+science of prediction, illustrated by
+economic
+crashes,
+gambling,
+the
+weather and earthquakes. His book is
+threaded with a warning: in the age
+of Big Data there are hundreds, thou-
+sands or millions of non-causative
+associations for each single causative
+association. Imagine one real hospi-
+tal
+fire
+in
+a
+century
+of
+hourly
+alarms. Imagine 876,000 p < 0.05,
+only one due to cause and effect.
+Nate Silver warns that Big Data
+might yoke us to the production of
+meaningless data that will generate
+less knowledge, less understanding
+and less wisdom. Nate uses the
+‘crash’ of 2008–2009 to illustrate
+how economists confidently misin-
+terpreted their models because they
+believed
+that
+their
+complexities
+ensured
+validity.
+Nate
+concludes
+that we – the researcher, the clini-
+cian, the scientist – are the grist that
+can turn the Big Data millstone into
+a mill: choose carefully the associa-
+tions
+you
+analyse
+and
+interpret
+them in context. The p value is no
+measure of sense.
+Tim Coulson et al. report the
+association of a variable with mor-
+tality within 1 year of cardiac sur-
+gery for 22,570 patients [2]. The
+variable Coulson et al. studied was
+one estimate of survival (the AusS-
+core, which is like the EuroScore)
+subtracted from another estimate of
+survival (APACHE 3) [3, 4]. I will
+explain the italics later. The AusS-
+core and APACHE 3 were devel-
+oped in different populations using
+the same outcome, mortality, the
+former at 30 postoperative days and
+the
+latter
+in-hospital,
+with
+both
+incorporating risks associated with
+operations.
+The
+AusScore
+was
+developed with variables available
+before
+cardiac
+surgery
+and
+APACHE 3 was developed with
+variables available after admission
+to intensive care. Coulson et al. rea-
+soned that the difference in scores,
+the ‘acute risk change (ARC)’, is the
+consequence of a patient’s probabil-
+ity
+of
+dying
+being
+increased
+or
+decreased
+by
+whatever
+happens
+between the two calculations i.e.
+immediate
+peri-operative
+events.
+They found that the value of ARC
+was on average more positive in
+patients who died within one post-
+operative year i.e. the postoperative
+APACHE 3 estimate was relatively
+more for patients who died than
+who survived, or alternatively the
+AusScore was relatively less. They
+conclude ‘Acute risk change may
+represent
+peri-operative
+clinical
+events in combination with unmea-
+sured patient risk and noise’. This
+This editorial accompanies an article by
+Coulsonet al.,Anaesthesia2017;72:1467–75.
+Anaesthesia 2017, 72, 1435–1455
+Editorial
+1438
+© 2017 The Association of Anaesthetists of Great Britain and Ireland
+
+conclusion seems sensible. Should
+we be content that the edge of
+Occam’s razor, wielded by Coulson
+et al., is sufficiently subtle to sever
+Silver’s thread? How much of ARC
+is signal and how much is noise?
+And
+what
+might
+ARC’s
+signal
+mean?
+The ARC signal is quiet and
+the noise is loud, with differences
+between fitted APACHE and AusS-
+core mortalities of 0.03%, 0.04%,
+0.3%, 0.5%, 0.7% and 1.5% for the
+six
+subgroups
+presented
+in
+the
+authors’ Table 1 [2]. The quietness
+of the signal would be more appar-
+ent if the results were tabulated for
+patients with APACHE values more
+than AusScore values (ARC > 0%)
+and
+APACHE
+values
+less
+than
+AusScore values (ARC < 0%), rather
+than columns for those alive or
+dead at one postoperative year. A
+threshold
+ARC
+of
+zero
+was
+exceeded by 358 patients per 1000,
+of whom 338 survived to 1 year
+and 20 (5.6%) died; conversely, of
+the
+642
+patients
+per
+1000
+with
+ARC < 0%, 620 survived to 1 year
+and 22 (3.5%) died. We could use a
+threshold value for AusScore of 2%
+for the same purpose: 323 patients
+per 1000 had an AusScore > 2%, of
+whom 295 survived to 1 year and
+28 (8.6%) died; conversely, of the
+677 patients per 1000 with an AusS-
+core < 2%, 663 survived to 1 year
+and 14 (2.2%) died.
+The connection with
+pigeons
+In 1964, Arno Penzias and Robert
+Wilson were worried that pigeons,
+roosting in Bell Labs’ horn antenna,
+were
+responsible
+for
+an
+omni-
+present
+7.35 cm
+wavelength
+electromagnetic signal. What turned
+out to be the cosmic microwave
+background radiation persisted after
+the scientists removed the pigeons
+(and their droppings). What ‘pi-
+geons’
+might
+be
+carried
+by
+the
+ARC?
+Any
+candidate
+bird
+must
+mediate ARC’s characteristics: nega-
+tive values with increasing mortality
+risk (at least to the mean value of
+4.7% in the ‘high’ risk group); yet,
+relatively positive values for patients
+who died. The first bird roosted
+because
+Coulson
+et al.
+compared
+two different scores instead of a
+single score calculated both before
+and
+after
+surgery.
+The
+scores
+reported
+as
+‘AusScore’
+and
+‘APACHE 3’ were forced to (al-
+most) agree by calibrating the origi-
+nal scores to the mortality observed
+by Coulson et al. in the first post-
+operative month, 451/22,570. These
+(italicised) scores were therefore dif-
+ferent to the originals and they
+therefore weren’t predictions. The
+cohort mortality estimates for the
+fitted ‘AusScore’ and ‘APACHE 3’
+were 465 (2.06%) and 454 (2.01%),
+respectively, p = 0.74. The ARC for
+these mean values is 0.05%. Three
+of the six subgroup ARC values
+reported by Coulson et al. are more
+negative than this mean value and
+three are more positive. The shapes
+of the lines that describe how esti-
+mated
+mortality
+increases
+with
+increasing scores are different for
+different scores [5, 6]. Recalibration,
+which
+‘shifts,
+squashes
+and
+stretches’ lines, cannot match the
+shape
+of
+one
+score
+to
+another
+unless the individual components of
+each score is calibrated against the
+same outcome. The individual com-
+ponents weren’t recalibrated, so the
+scores don’t match, and if they did,
+the ARC would be zero and I
+wouldn’t be writing this editorial.
+Acute
+risk
+change
+values
+that
+become more negative as estimated
+mortality increases might be a con-
+sequence of comparing two scores
+that
+have
+different
+shapes.
+This
+does not explain why patients who
+died within one postoperative year
+had relatively more positive values
+(you might expect them to have
+more negative values).
+The second bird to pull out of
+the antenna is that one can calcu-
+late estimated mortality in two ways
+with AusScore (and AusScore). The
+referenced
+AusScore
+gives
+three
+‘case studies’, illustrating how to
+calculate mortality estimates with
+AusScore’s 12 beta coefficients [3].
+The alternative, used by Coulson
+et al., is to use the integer score
+(range 3 to 39). The integer score
+has 43 unique values, whereas the
+beta
+coefficients
+generate
+21,265
+unique values. Every patient with
+an integer AusScore of 5 (the med-
+ian value in survivors) is assigned a
+mortality estimate of 1.22%, but the
+beta coefficients attributed integers
+of 5 generate mortality estimates of
+1.09% to 1.68%. Similarly, every
+patient with an integer score of 10
+(the median value in patients who
+died), who is assigned a 3.11% risk,
+may have ‘real’ pre-operative risks
+anywhere
+from 2.51%
+to 4.36%.
+Patients
+assigned
+the
+same
+pre-
+operative risk, based on an integer
+score, would usually have different
+pre-operative risks based upon beta
+coefficients. Now, here comes the
+rub. Patients with higher AusScore
+estimated mortalities will generally
+have higher APACHE 3 estimated
+Editorial
+Anaesthesia 2017, 72, 1435–1455
+© 2017 The Association of Anaesthetists of Great Britain and Ireland
+1439
+
+mortalities: patients who die will
+have higher APACHE 3. Because
+ARC is calculated by subtracting
+the (pre-operative) integer AusScore
+from the (postoperative) APACHE,
+ARC values will be more positive
+for patients who died than patients
+with the same integer AusScore who
+survived, who would have lower
+APACHE. The problem of different
+AusScores being treated as the same
+could be confounded by combining
+AusScore (integer) risks into risk
+categories. For instance, four AusS-
+core integers (4–7) constitute the
+‘moderate’
+risk
+category,
+1–2%,
+equivalent to AusScore (beta coeffi-
+cient) risks 0.9–2.4%. The 174/4666
+deaths in this risk category at one
+postoperative year would be associ-
+ated with the more positive ARC
+values at each integer score, which
+I’ve estimated at 0.11, 0.02, 0.02
+and 0.15, while the 4492 survivors
+would be associated with the more
+negative ARC values at these scores
+(0.53, 0.62, 0.72 and 0.79).
+Figure 1 illustrates these concepts.
+The only factors common to
+AusScore and APACHE 3 are age
+and type of cardiac surgery, each of
+which is treated differently by the
+two scores. Time changes the rela-
+tionship between risk factors and
+mortality, for shared factors and for
+the majority that are not shared.
+Recalibration
+cannot
+extinguish
+these differences. Up to this point I
+have treated estimated risks as if
+they were exact. The risks estimated
+by original and calibrated scores are
+all
+accompanied
+by
+uncertainty;
+95% confidence intervals that are
+substantial on occasion for individ-
+ual
+components
+and
+that,
+even
+when small, accumulate substantial
+uncertainties when combined into
+estimated mortalities. There appear
+to be a flock of reasons that would
+justify a default interpretation of
+ARC as a measure of how the
+AusScore was systematically under-
+estimated in patients with higher
+risk, relative to APACHE 3. It is
+also possible that patients at lower
+mortality risk had AusScore system-
+atically
+overestimated
+relative
+to
+APACHE 3.
+Interpretation
+Given an apparently homogeneous
+cohort, for instance patients with
+the same pre-operative coefficient
+AusScore risk, how should we inter-
+pret
+some
+dying
+sooner
+than
+others? Were the patients the same?
+Are
+the
+dead
+just
+unlucky?
+Or
+might the dead have been different
+to the living? Might higher postop-
+erative
+APACHE
+3
+scores
+in
+patients who died result from sur-
+gery exposing their relative fragility,
+which
+the
+pre-operative
+measure
+failed to detect? Or were they killed
+by
+worse
+care?
+Coulson
+et al.’s
+study has made me think that it is
+difficult to disentangle how much
+variations in care, luck and unde-
+tected risk contribute to the varia-
+tion in postoperative mortality. One
+might assume that ‘the patient is to
+blame’ for 96% of the variation in
+mortality [7].
+The surgical exposure of hidden
+heterogeneity through survival selec-
+tion leaves traces in postoperative
+survival curves. I used Australian
+actuarial general population data to
+estimate a pre-operative monthly
+mortality rate of 41/22,570 (0.184%)
+had the cohort been acutely well (pa-
+tient characteristics in the paper’s
+table 1) [2, 8]. The 11-fold mortality
+increase in the first postoperative
+month, to 451/22,570, is a conse-
+quence of acute pre-operative medi-
+cal
+illness
+and
+‘postoperative
+disease’. I used the survival calcula-
+tor I’m familiar with (but using Aus-
+tralian rather than UK population
+data) to generate survival curves [9].
+The survival curve generated for a
+population with a 0.184% monthly
+mortality fits the observed survival
+for 14,486 patients with ARC < 0 if
+mortality in the first postoperative
+month increases to 1% i.e. a tempo-
+rary postoperative 5.4-fold increase
+in mortality. The postoperative sur-
+vival trajectory for 8084 patients
+with ARC > 0 was consistent with a
+peri-operative
+20-fold
+mortality
+increase (to 3.7%). The two sub-
+groups either side of ARC = 0 had,
+on average, identical pre-operative
+mortalities of 0.184%, when well. I
+state this because the shape of sur-
+vival curves is very sensitive to start-
+ing conditions: if you know the
+initial mortality rate you can accu-
+rately predict the observed survival
+(with a few exceptions); and con-
+versely the observed survival is con-
+sistent with a very narrow range of
+starting mortalities i.e. find the mod-
+elled curve that fits the observed sur-
+vival
+and
+you
+can
+discover
+the
+starting mortality rate. The sum of
+145 deaths (14,486 9 1%) and 299
+deaths (8084 9 3.7%), 444/22,570, is
+insignificantly
+different
+to
+the
+observed 451 deaths, p = 0.84.
+The leverage provided by the
+long arms of survival curves allows
+one to disentangle background mor-
+talities from acute changes much
+more precisely than the short stub
+of
+one
+postoperative
+month.
+Anaesthesia 2017, 72, 1435–1455
+Editorial
+1440
+© 2017 The Association of Anaesthetists of Great Britain and Ireland
+
+Figure 1 A plot of predicted mortality at 30 days after cardiac surgery between 3 and 21 AusScore points [3],
+using: Coulson et al.’s integer AusScore ( ) [2]; and AusScore’s beta coefficients (smaller
+, above and below
+) [3]. I
+have also attempted to map APACHE 3 estimated mortalities by matching the APACHE values to corresponding
+AusScore values given by Coulson et al. in their table 1 [2], after CABG (
+), valve (
+) and combined (
+) proce-
+dures. The difference, ARC ( ) results from the subtraction of the mixed proportion of CABG, valve and combined
+procedures (line not shown) from the integer AusScore. The range either side of acute risk change (ARC) results
+from the subtraction of possible mortalities predicted by AusScore’s beta coefficients from the range of APACHE
+scores. These ranges are not confidence intervals: AusScores, AusScores and APACHE scores are assumed exact. The
+diamonds are median ARC values and AusScores for patients who at one postoperative years were alive ( ) or dead
+( ).
+Table 1 Monthly mortality rates and temporary increases in mortality in the first month after cardiac surgery,
+derived by fitting an appropriate Australian population survival curve to those observed by Coulson et al. [2].
+AusScore; %
+ARC
+Pre-operative mortality; %
+Ratio
+Postoperative mortality; %
+Ratio
+Peri-operative risk
+Ratio
+< 1
+< 0
+0.08
+1.3
+0.43
+3.4
+59
+2.7
+> 0
+0.10
+1.50
+159
+1–2
+< 0
+0.14
+1.9
+1.40
+2.5
+109
+1.3
+> 0
+0.27
+3.51
+139
+> 2
+< 0
+0.29
+1.3
+4.35
+3.4
+159
+2.7
+> 0
+0.37
+14.80
+409
+All
+< 0
+0.184
+1.0
+1.00
+3.7
+59
+3.7
+> 0
+0.184
+3.70
+209
+The pre-operative monthly mortality rates apply to a population that is without acute disease, therefore the peri-operative risk is a
+composite of acute pre-operative medical illness and postoperative ‘surgical disease’. ARC, acure risk change.
+Editorial
+Anaesthesia 2017, 72, 1435–1455
+© 2017 The Association of Anaesthetists of Great Britain and Ireland
+1441
+
+Coulson
+et al.
+further
+unravel
+cohort heterogeneity with survival
+curves
+for
+the
+ARC
+subgroups
+within AusScore categories < 1%, 1–
+2% and > 2% (the authors’ Fig. 2a–
+c) [2]. The curves were consistent
+with the pre-operative and postop-
+erative monthly mortality rates and
+temporary peri-operative risks listed
+in Table 1. There is a pattern to
+these values that I don’t understand.
+The ARC categories (< 0 and > 0)
+in the lowest and highest AusScore
+categories, < 1% and > 2%, have
+similar ratios of monthly mortalities
+and temporary peri-operative risks,
+derived from their survival curves.
+In contrast, for the middle AusScore
+category (1–2%) pre-operative mor-
+talities derived from survival curves
+for
+ARC < 0
+and
+> 0
+are
+less
+similar
+than
+for
+the
+other
+two
+AusScore
+categories,
+while
+acute
+peri-operative risks are more similar
+(Table 1 and Fig. 2).
+The solution?
+I
+think
+that
+one
+should
+not
+exclude worse care as a cause of
+greater mortality when postopera-
+tive mortality estimates exceed pre-
+operative
+mortality
+estimates:
+at
+least one can try and do some-
+thing about it. However, I think
+that the observed survival curves
+signal that acute and chronic pre-
+operative
+differences
+in
+patients,
+undetected
+by
+AusScore,
+account
+for
+much
+of
+the
+association
+of
+ARC with death, combined with
+differences in patients that AusS-
+core could detect but that were
+lost when they were pooled by the
+integer model. I think that our
+understanding
+of
+peri-operative
+mortality would be improved by
+developing a single model that can
+accommodate
+additional
+informa-
+tion
+as
+the
+patient
+progresses
+through their peri-operative care; a
+universal
+model
+common
+to
+all
+patients having any operation. The
+initial calculation would generate a
+personalised
+background
+survival
+curve, as if the patient had stable
+health or stable ill-health, but not
+acute disease. This curve would be
+specific to several variables includ-
+ing the year of surgery, thereby
+accounting for changes in popula-
+tion survival. The first pre-opera-
+tive modification would adjust the
+survival
+curve
+by
+incorporating
+increased risk from acute physio-
+logical
+disease.
+The
+second
+pre-
+operative
+modification
+would
+incorporate the average risk associ-
+ated with the intended operation.
+Intra-operative modifications would
+incorporate specific deviations from
+the average value of factors inde-
+pendently associated with survival,
+for instance excessive blood loss.
+Subsequent sequential postoperative
+modifications
+would
+incorporate
+deviations
+from
+the
+expected
+recovery trajectory. I hope that my
+idea reminds you of various exist-
+ing
+scores,
+including
+AusScore,
+APACHE and POSSUM. The only
+difference is that a single score is
+used that provides long-term sur-
+vival curves, sequentially modifying
+the
+initial
+fit
+to
+an
+appropriate
+background population. I anticipate
+that in this context we will judge
+whether care has been good or
+bad by what we do to patients,
+rather
+than
+what
+happens
+to
+patients.
+My interpretation of their work
+differs from Coulson et al.’s: nei-
+ther of us knows which – if either
+– is correct. The scientific method
+would be for each of us to make
+one
+or
+more
+mutually-exclusive
+predictions (in the true sense of
+Figure 2 Observed mortality after cardiac surgery in 4666 patients cate-
+gorised with AusScores 1–2% (Fig. 2b [2]), compared with fitted survival
+curves derived from Australian population survival: for patients with
+ARC < 0 (
+and
+); and ARC > 0 (
+and
+). The point of interest is
+that observed survival after cardiac surgeries can be matched by population
+survival curves and in so doing one can identify starting mortality rates and
+mortality caused by surgery (and associated peri-operative disease). The
+dashed grey lines (
+) are survival curves for equivalent populations without
+acute illness, whether medical or surgical.
+Anaesthesia 2017, 72, 1435–1455
+Editorial
+1442
+© 2017 The Association of Anaesthetists of Great Britain and Ireland
+
+the word) and test their truth, or
+rather the falsehood of the null
+hypothesis. If you can think of
+such a testable hypothesis, let me
+know.
+Experimentation
+distils
+knowledge from information, the
+signal from the noise.
+Acknowledgements
+JC is an editor for Anaesthesia. No
+external
+funding
+or
+competing
+interests declared.
+J. B. Carlisle
+Consultant
+Department of Anaesthesia,
+Torbay Hospital,
+Torquay, UK
+Email: john.carlisle@nhs.net
+Keywords: big data; noise; prediction;
+signal
+References
+1. Sliver N. The signal and the noise, 1st
+edn. Random House, UK: Penguin, 2013.
+2. Coulson TG, Bailey M, Reid CM, et al.
+The association between peri-operative
+acute risk change (ARC) and long-term
+survival after cardiac surgery. Anaesthe-
+sia 2017; 1467–75.
+3. Billah B, Reid CM, Shardey GC, Smith JA.
+A preoperative risk prediction model for
+30-day mortality following cardiac sur-
+gery in an Australian cohort. European
+Journal of Cardiothoracic Surgery 2010;
+37: 1086–92.
+4. Knaus WA, Wagner DP, Draper EA, et al.
+The APACHE III prognostic system: risk
+prediction of hospital mortality for criti-
+cally ill hospitalized adults. Chest 1991;
+100: 1619–36.
+5. Carlisle J. Commentary: life is a line, not a
+dot. Colorectal Disease 2017; 19: 64–6.
+6. Pandit JJ. Dispassionate indicator or evil
+curse: are some scoring systems for pre-
+dicting postoperative mortality lethal?
+Anaesthesia 2017; 72: 905–8.
+7. PapachristofiO, Sharples LD, Mackay JH,
+Nashef SAM, Fletcher SN, Klein AA. The
+contribution of the anaesthetist to risk-
+adjusted mortality after cardiac surgery.
+Anaesthesia 2016; 71: 138–46.
+8. Australian
+Life
+Tables
+2010-2012.
+http://www.aga.gov.au/publications/
+#life_tables (accessed 15/08/2017).
+9. Carlisle JB, Danjoux G, Kerr K, Snowden C,
+Swart M. Validation of long-term survival
+prediction for scheduled abdominal aor-
+tic aneurysm repair with an independent
+calculator using only pre-operative vari-
+ables. Anaesthesia 2015; 70: 654–65.
+doi:10.1111/anae.14087
+Editorial
+Permissive hypotension for active haemorrhage in trauma
+Uncontrolled bleeding is the leading
+cause of the vast majority of poten-
+tially preventable deaths after major
+trauma
+[1–3]. A recent national
+study showed that the mortality in
+trauma patients requiring massive
+transfusion
+approaches
+50%
+[4].
+Half of these deaths occur within
+the first 24 h, and half of those are
+exsanguinating
+deaths
+within
+the
+first 3 h of arrival [1, 5–7]. The
+foundation of resuscitation of the
+shocked patient has always focused
+on restoring perfusion and eliminat-
+ing oxygen debt. However, in recent
+years it has become apparent that
+actively bleeding patients cannot be
+‘resuscitated’, cannot have perfusion
+restored and cannot clear their oxy-
+gen debt [8]. Attempts to volume
+resuscitate these patients not only
+fail to achieve these targets, but in
+doing
+so lead
+to haemodilution,
+coagulopathy, tissue oedema, organ
+dysfunction and death. Contempo-
+rary management of these patients
+has switched goals from restoring
+perfusion to maintaining haemo-
+static
+competence.
+This
+‘damage
+control resuscitation’ paradigm tar-
+gets early haemorrhage control and
+preservation of coagulation [8–11].
+Permissive hypotension is a central
+part of this approach to the man-
+agement of haemorrhage [12, 13].
+Permissive hypotension implies
+accepting an adequate, not normal,
+blood pressure. It is employed in
+the actively bleeding patient until
+haemostasis is obtained, after which
+point definitive resuscitation begins.
+This approach in no way violates the
+underlying principle that restoration
+of systemic blood flow and adequate
+tissue
+perfusion
+in
+critically
+ill
+patients
+should
+be
+achieved
+as
+quickly as possible. However, vol-
+ume infusion in the face of contin-
+ued blood loss results in dilutional
+coagulopathy
+and
+hypothermia,
+while the transient elevation in blood
+This editorial accompanies an editorial by
+Wiles, Anaesthesia 2017; 72: 1448–55.
+Editorial
+Anaesthesia 2017, 72, 1435–1455
+© 2017 The Association of Anaesthetists of Great Britain and Ireland
+1443
+
+VOLUME 67 | NUMBER 3 | MAY/JUNE 2017
+EDITORIAL BOARD AND STAFF
+EDITOR-IN-CHIEF
+Otis Webb Brawley, MD
+American Cancer Society
+EDITOR
+Ted Gansler, MD, MBA, MPH
+American Cancer Society
+ASSOCIATE EDITORS
+Durado Brooks, MD, MPH
+American Cancer Society
+Keith A. Delman, MD, FACS
+Winship Cancer Institute of Emory University
+Senior Director, Journals and Books Publishing
+Esmeralda Gala ́n Buchanan
+American Cancer Society
+Managing Editor
+Jin Hee Kim
+American Cancer Society
+Assistant Managing Editor
+Lindsey Mitchell
+American Cancer Society
+Publisher
+Vickie Thaw
+Wiley
+Senior Production Editor
+Rich Nagurka
+Wiley
+EDITORIAL ADVISORY BOARD
+William Chambers, PhD
+American Cancer Society
+Walter J. Curran, Jr., MD
+Winship Cancer Institute of Emory University
+Patricia A. Ganz, MD
+Jonsson Comprehensive Cancer Center
+Frederick L. Greene, MD
+Levine Cancer Institute
+Martin Mahoney, MD, PhD
+Roswell Park Cancer Insititute
+Cathy Meade, PhD, RN, FAAN
+Moffitt Cancer Center
+William K. Oh, MD
+Mount Sinai School of Medicine
+Charles R. Thomas, Jr., MD
+Oregon Health and Science University
+Andrew J. Vickers, PhD
+Memorial Sloan-Kettering Cancer Center
+Richard C. Wender, MD
+American Cancer Society
+V
+C2017 American Cancer Society, Inc. All rights reserved. No part of this publication may be reproduced in any
+form or by any means, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act,
+without either prior permission of the publisher, or authorization through the Copyright Clearance Center, 222
+Rosewood Drive, Danvers, MA 01923, (508) 750-8400, fax: (508) 750-4470. Requests to the publisher for
+permission should be addressed to the Permissions Department, c/o John Wiley & Sons, Inc., 111 River Street,
+Hoboken, NJ 07030, (201) 748-6011, fax: (201) 748-6008; http://www.wiley.com/go/permissions.
+CA: A Cancer Journal for Clinicians (ISSN 0007-9235) is published bi-monthly, one volume per year, on
+behalf of the American Cancer Society by Wiley Subscription Services, Inc., a Wiley Company, 111 River St.,
+Hoboken, NJ 07030. Articles in CA are peer reviewed and indexed in Biological Sciences (ProQuest), CINAHL:
+Cumulative Index to Nursing & Allied Health Literature (EBSCO), Current Contents: Clinical Medicine (Thomson
+ISI), EBSCO MasterFILE Elite (EBSCO), EBSCO MasterFILE Premier (EBSCO), EBSCO MasterFILE Complete
+(EBSCO), EMBASE (Elsevier), Health Source Nursing/Academic (EBSCO), MEDLINE (NLM), ProQuest 5000
+(ProQuest), ProQuest Central (ProQuest), ProQuest Health & Medical Complete (ProQuest), Proquest Research
+Library (ProQuest), Science Citation Index (Thomson ISI), Science Citation Index ExpandedTM (Thomson ISI),
+SCOPUS (Elsevier), TOC Premier (EBSCO), Web of Science (Thomson ISI), HEED: Health Economic Evaluations
+Database (Wiley-Blackwell), VINITI (All-Russian Institute of Science & Technological Information).
+Institutional subscriptions: CA is a free access journal and all content is freely available online at
+cacancerjournal.com. Print subscriptions to CA are $82. For complete details please contact your
+local subscription agent, or Journal Customer Services. In Canada, please add 7% GST. For all
+other individuals worldwide, print subscriptions to CA are $82. Contact Journal Customer Services.
+Editorial Office. CA: A Cancer Journal for Clinicians, American Cancer Society, 250 Williams Street NW,
+Atlanta, GA 30303-1002, E-mail: ca.edoff@cancer.org
+Advertising. Bridget J. Seay, Associate Director of Ad Sales - Americas, 350 Main St., Malden, MA 02148,
+bseay@wiley.com
+Journal Customer Services: Phone: 1-800-835-6770 (US only toll free) or 1-781-388-8598 (outside US),
+Email: customerservice@d3data.net; Online: CA: A Cancer Journal for Clinicians is available online globally
+with free access (no subscription, registration, or author fees charged or required) at cacancerjournal.com.
+Printed in the USA.
+171
+
+CONTENTS
+VOLUME 67 | NUMBER 3 | MAY/JUNE 2017
+Perspectives: Research in Context
+173
+Colorectal Cancer Statistics, 2017
+177
+Rebecca L. Siegel, MPH, Kimberly D. Miller, MPH, Stacey A. Fedewa, PhD,
+Dennis J. Ahnen, MD, Reinier G. S. Meester, PhD, Afsaneh Barzi, MD, PhD,
+and Ahmedin Jemal, DVM, PhD
+Clinical Practice Guidelines on the Evidence-Based Use
+of Integrative Therapies During and After Breast
+Cancer Treatment
+194
+Heather Greenlee, ND, PhD, MPH,
+Melissa J. DuPont-Reyes, MPH, MPhil,
+Lynda G. Balneaves, RN, PhD, Linda E. Carlson, PhD,
+Misha R. Cohen, OMD, LAc, Gary Deng, MD, PhD, Jillian A. Johnson, PhD,
+Matthew Mumber, MD, Dugald Seely, ND, MSc, Suzanna M. Zick, ND, MPH,
+Lindsay M. Boyce, MLIS, and Debu Tripathy, MD
+Physical Activity Counseling in Primary Care: Insights
+From Public Health and Behavioral Economics
+233
+Kerem Shuval, PhD, Tammy Leonard, PhD, Jeffrey Drope, PhD,
+David L. Katz, MD, MPH, Alpa V. Patel, PhD, Melissa Maitin-Shepard, MPP,
+On Amir, PhD, and Amir Grinstein, PhD
+Prostate Cancer – Major Changes in the American Joint
+Committee on Cancer Eighth Edition Cancer Staging
+Manual
+245
+Mark K. Buyyounouski, MD, MS,
+Peter L. Choyke, MD, FACR, Jesse K. McKenney, MD,
+Oliver Sartor, MD, Howard M. Sandler, MD, MS, FASTRO,
+Mahul B. Amin, MD, Michael W. Kattan, MBA, PhD, and Daniel W. Lin, MD
+ABOUT THE COVER: Cover image adapted from Colorectal
+Cancer Statistics, 2017, Figure 6. Trend in Colorectal
+Cancer Mortality: Age-Standardized Rate Versus Number of
+Deaths, United States, 1975-2014.
+CME AND CNE
+QUIZ INFORMATION
+To earn CME credit or nursing
+contact hours for successfully
+completing online quizzes, go to
+acsjournals.com/ce. All CME
+activities and nursing contact hours
+based on these articles are offered
+FREE OF CHARGE.
+Visit CA online for free access to all content at: cacancerjournal.com
+172
+V
+C 2017 American Cancer Society, Inc.
+
+RESEARCH ARTICLE
+Open Access
+Intrathecal morphine versus femoral nerve
+block for pain control after total knee
+arthroplasty: a meta-analysis
+Yi Tang, Xu Tang, Qinghua Wei and Hui Zhang*
+Abstract
+Background: This meta-analysis aims to illustrate the efficacy and safety of intrathecal morphine (ITM) versus
+femoral nerve block (FNB) for pain control after total knee arthroplasty (TKA).
+Methods: In April 2017, a systematic computer-based search was conducted in PubMed, EMBASE, Web of Science,
+Cochrane Database of Systematic Reviews, Cami Info. Inc., Casalini databases, EBSCO databases, Verlag database and
+Google database. Data on patients prepared for TKA surgery in studies that compared ITM versus FNB for pain control
+after TKA were collected. The main outcomes were the visual analogue scale (VAS) at 6, 12, 24, 48 and 72 and total
+morphine consumption at 12, 24 and 48 h. The secondary outcomes were complications that included postoperative
+nausea and vomiting (PONV) and itching. Stata 12.0 was used for pooling the data.
+Results: Five clinical studies with a total of 225 patients (ITM group = 114, FNB group = 111) were ultimately included in
+the meta-analysis. The results revealed that the ITM group was associated with a reduction of VAS at 6, 12, 24, 48 and
+72 h and total morphine consumption at 12, 24 and 48 h. There was no significant difference between the occurrences
+of PONV. However, the ITM group was associated with an increased occurrence of itching after TKA.
+Conclusions: Some immediate analgesic efficacy and opioid-sparing effects were obtained with the administration of
+ITM when compared with FNB. The complications of itching in the ITM group were greater than in the FNB group. The
+sample size and the quality of the included studies were limited. A multi-centre RCT is needed to identify the optimal
+method for reaching maximum pain control after TKA.
+Keywords: Intrathecal morphine, Total knee arthroplasty, Femoral nerve block, Meta-analysis
+Background
+Total knee arthroplasty (TKA) leads to considerable post-
+operative pain [1, 2]. Ineffective pain control after TKA
+can cause many side effects [3]. Optimal pain control can
+not only decrease complications but also facilitate fast re-
+covery during the immediate postoperative period [4].
+Currently, a multimodal technique, a new concept, is
+accepted by most surgeons. Multimodal analgesia includes
+regional techniques, systemic opioids and preoperative ad-
+ministration gabapentin. Thus, femoral nerve block (FNB)
+and intrathecal morphine (ITM) are seldom used alone
+for the management of postoperative pain, though they
+are known to provide excellent analgesia [5]. Since the
+recommendation by the PROSPECT working group [6],
+FNB and ITM have become two common methods for
+postoperative analgesia management following TKA.
+Regarding the efficacy and safety of ITM and FNB for
+pain control after TKA, there has yet to be a consensus.
+Recently, Li et al. [7] conducted a meta-analysis for this
+topic. However, several disadvantages existed in that
+meta-analysis. First it ignored important randomized
+controlled trials (RCTs), which may have had an import-
+ant influence on the final results [8]. Furthermore,
+continuous FNB and single-shot FNB were not com-
+pared in a subgroup analysis. Thus, the purpose of this
+meta-analysis is to compare the efficacy and safety of
+ITM and FNB for pain control after TKA (Table 1).
+* Correspondence: zhanghui201707@qq.com
+Department of Orthopedics, People’s Hospital of JianYang, No. 180, Yiyuan
+Road, Jiancheng zhen, Jianyang, Sichuan Province, China
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+DOI 10.1186/s13018-017-0621-0
+
+Methods
+This systematic review was reported according to the
+preferred reporting items for systematic reviews and
+meta-analyses (PRISMA) guidelines [9].
+Search strategies
+The following databases were searched in September
+2016 without restrictions on location or publication
+types: PubMed (1950–April 2017), EMBASE (1974–
+April 2017), the Cochrane Library (April 2017, Issue 4),
+Cami info. Lnc (1950–April 2017), Casalini databases
+(1950–April 2017), EBSCO databases (1950–April 2017),
+Verlag database (1950–April 2017) and Google database
+(1950–April 2017). The Mesh terms and their combina-
+tions used in the search were as follows: “analgesia” OR
+“pain management” OR “anaesthetic agents” OR “total
+knee arthroplasty” OR “total knee replacement” OR
+“TKA” OR “TKR” OR ““Arthroplasty, Replacement,
+Knee”[Mesh]” AND “intrathecal morphine” OR “femoral
+nerve block”. The reference lists of related reviews and
+original articles were searched for any relevant studies,
+including RCTs involving adult humans. There was no
+language restriction for this meta-analysis. When mul-
+tiple reports describing the same sample were published,
+the most recent or complete report was used. This
+meta-analysis gathered data from published articles, and
+thus, no ethics approval was necessary for this article.
+Inclusion criteria and study selection
+Patients: patients prepared for primary unilateral TKA;
+Intervention: use ITM as an intervention group; Com-
+parison: use FNB as a comparison group; Outcomes:
+VAS at 6, 12, 24, 48 and 72 h, total morphine consump-
+tion at 12, 24 and 48, and related complications (postop-
+erative nausea and vomiting (PONV) and itching); Study
+design: RCTs (Fig. 1).
+Two independent reviewers screened the title and
+abstracts of the identified studies after removing the du-
+plicates from the search results. Any disagreements
+about the inclusion or exclusion of a study were solved
+through discussion or consultation
+with
+an expert
+(skilled in pain control and TKA). The reliability of the
+study selection was determined by Cohen’s kappa test,
+and the acceptable threshold value was set at 0.61 [6, 7].
+Data abstraction and quality assessment
+A specific extraction was conducted to collect data in a
+pre-generated standard Microsoft® Excel (Microsoft Cor-
+poration, Redmond, Washington, USA) file. The items ex-
+tracted from relevant studies were as follows: first author
+and publication year, country, sample size of the interven-
+tion and control groups, preoperative and postoperative
+doses, timing and frequency and the total dose of gaba-
+pentin per number of days and follow-ups. Abstracted and
+recorded in the spreadsheet were outcomes such as the
+Table 1 The general characteristic of the included studies.
+Study
+Country
+FNB Group
+Surgery
+ITM Group
+Outcomes
+Follow-
+up
+No. of
+patients
+Method
+Drug
+No. of
+patients
+Dose
+Concomitant pain
+management
+Frassanito
+2010
+Italy
+26
+SFNB
+Ropivacaine
+0.75% 25 ml
+TKA
+26
+Hyperbaric
+bupivacaine
+15 mg plus
+0.1 mg of
+morphine
+sulphate
+Paracetamol 1 g i.v.
+four times daily and
+intravenous. Ketorolac
+30 mg 2 times every
+24 h
+1, 2, 3, 4
+48 h
+Mohamed
+2016
+Egypt
+20
+SFNB
+Hyperbaric bupivacaine
+15 mg
+TKA
+20
+0.2 mg
+morphine
+PCA with morphine
+1, 2, 3, 4
+3 month
+Olive
+2015
+Australia
+27
+CFNB
+20 ml bottle of
+0.5% bupivacaine
+TKA
+28
+0.5%
+bupivacaine
+3.5 ml plus
+0.175 mg
+morphine
+0.5% bupivacaine
+3.5 mL
+1, 2, 3, 4
+1 year
+Sites 2004
+USA
+20
+SFNB
+40 mL of 0.5%
+ropivacaine with 75 mg
+of clonidine and 5 mg/mL
+of epinephrine
+TKA
+20
+0.25 mg
+morphine
+and 15 mg
+hyperbaric
+bupivacaine
+30 mg ketorolac IV
+every 6 h
+1, 2, 3, 4
+48 h
+Tarkkila
+1998
+India
+18
+CFNB
+0.25% bupivacaine at a
+rate of 0.1 mL kg 1 h 1
+TKA
+20
+0.3 mg
+morphine
+mixed with
+bupivacaine
+Oxycodone 0.1–
+0.14 mg/kg
+1, 2, 3, 4
+48 h
+FNB femoral nerve block, ITM intrathecal morphine, TKA total knee arthroplasty
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+Page 2 of 8
+
+VAS at 6, 12, 24, 48 and 72 h; total morphine consump-
+tion at 12, 24 and 48 h; and related complications (PONV
+and itching). Postoperative pain intensity was measured
+using a 110-point VAS (0 = no pain and 100 = extreme
+pain). When the numerical rating scale (NRS) was
+reported, it was converted to a VAS. Additionally, a 10-
+point VAS was converted to a 100-point VAS [10]. Data in
+other forms (i.e. median, interquartile range, and mean ± 95%
+confidence interval (CI)) were converted to the mean ± stand-
+ard deviation (SD) according to the Cochrane Handbook
+[11]. If the data were not reported numerically, we extracted
+these data using the “GetData Graph Digitizer” software
+from the published figures. All the data were extracted by
+two independent reviewers, and disagreements were re-
+solved through discussion.
+The quality of all included trials was independently
+assessed by two reviewers on the basis of the Cochrane
+Handbook for Systematic Reviews of Interventions,
+version
+5.1.0
+(http://training.cochrane.org/handbook/)
+[11]. A total of seven domains were used to assess the
+overall quality: random sequence generation, allocation
+concealment, blinding of participant and personnel,
+blinding of outcome assessment, incomplete outcome
+data, selective reporting and other bias. Each domain
+was measured as low bias, unclear bias or high bias.
+Outcome measures and statistical analysis
+Continuous outcomes (VAS at 6, 12, 24, 48 and 72 h and
+total morphine consumption at 12, 24 and 48 h) were
+expressed as weighted mean differences (WMD) with 95%
+CI. Dichotomous outcomes (the occurrence of PONV and
+itching) were expressed as a risk ratio (RR) with 95% CI.
+Statistical significance was set at P < 0.05 to summarize
+the findings across the trials. Variables in the meta-
+analysis were calculated using Stata software, version 12.0
+(Stata Corp., College Station, TX). Statistical heterogeneity
+was evaluated using the chi-square test and the I2 statistic.
+When there was no statistical evidence of heterogeneity
+(I2 < 50%, P > 0.1), a fixed-effects model was adopted;
+otherwise, a random-effects model was chosen. Publica-
+tion bias was tested using funnel plots. Publication bias
+was visually assessed using funnel plots and was quantita-
+tively assessed using Begg’s test. Subgroup analysis was
+conducted according to the type of continuous FNB
+(CFNB) or single shot FNB (SFNB). We did not perform
+the publication bias since the numbers were less than ten.
+Results
+Search results and quality assessment
+In the initial search, a total of 386 studies were identified
+from the electronic databases (PubMed = 165, EMBASE = 74,
+Fig. 1 Flowchart of study search and inclusion criteria
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+Page 3 of 8
+
+Web of Science = 32, Cochrane Database of Systematic
+Reviews = 30, Google database = 14). Then, all papers were
+input into Endnote X7 (Thomson Reuters Corp., USA) soft-
+ware for the removal of duplicate papers. A total of 308
+papers were reviewed, and 209 papers were removed
+according to the inclusion criteria at abstract and title levels.
+Ultimately, five clinical studies with 225 patients (ITM
+group = 114, FNB group = 111) were included in this meta-
+analysis [8, 12–15].
+The quality assessment of the included studies is
+summarized in Figs. 2 and 3. All studies describe the
+random sequence generation procedure. Two studies did
+not describe allocation concealment and the blinding of
+participants and personnel and thus had an unclear risk
+of bias. The rest of the items all had a low risk of bias.
+The overall kappa value for the evaluation of the risk of
+bias of included RCTs was 0.763, indicating that the
+agreement between the two reviewers was acceptable.
+VAS at 6, 12, 24, 48 and 72 h
+Postoperative VAS scores at 6 h were reported in three
+studies, and the pooled results indicated that ITM can de-
+crease VAS scores at 6 h (WMD = −3.04, 95% CI −5.19,
+−0.89, P = 0.006, Fig. 4) when compared with the FNB
+group. Postoperative VAS scores at 6 h in the included
+studies had a large heterogeneity (I2 = 88.8%, P = 0.000),
+which required a random-effects model that was per-
+formed to analyse the data.
+The meta-analysis results indicated that ITM can
+decrease VAS scores at 12 h (WMD = −9.90, 95% CI
+−15.05, −4.74, P = 0.000, Fig. 4) when compared with
+the FNB group. Postoperative VAS scores at 12 h in the
+included studies had a large heterogeneity (I2 = 74.9%,
+P = 0.003), which required a random-effects model that
+was performed to analyse the relevant data.
+The results of the meta-analysis indicated that ITM
+can decrease VAS scores at 24 h (WMD = −10.27, 95%
+CI −12.16, −8.39, P = 0.001, Fig. 4) when compared with
+the FNB group. Postoperative VAS scores at 24 h in the
+included studies had a large heterogeneity (I2 = 84.7%,
+P = 0.000), which required a random-effects model that
+was performed to analyse the relevant data.
+The results of the meta-analysis indicated that ITM
+can decrease VAS scores at 48 h (WMD = −10.27, 95%
+CI −12.16, −8.39, P = 0.000, Fig. 4) compared with the
+FNB group. Postoperative VAS scores at 48 h in the
+included studies had little heterogeneity (I2 = 24.7%,
+P = 0.249).
+The results of the meta-analysis indicated that ITM
+can decrease VAS scores at 72 h (WMD = −9.00, 95% CI
+−10.39, −7.61, P = 0.000, Fig. 4) when compared with
+the FNB group.
+Total morphine consumption at 12, 24 and 48 h
+Total morphine consumption was presented in six
+studies. The pooled results indicated that ITM can re-
+duce total morphine consumption at 12 h (WMD = −1.17,
+95%
+CI
+−1.61,
+−0.73,
+P
+=
+0.000,
+Fig.
+5),
+24
+h
+(WMD = −3.96, 95% CI −4.43, −3.48, P = 0.000, Fig. 5)
+and 48 h (WMD = −2.76, 95% CI −3.72, −1.80,
+P = 0.000, Fig. 5).
+The occurrence of PONV
+There were no significant differences between the groups
+in the occurrence of PONV (RR = 1.10, 95% CI 0.57, 2.12,
+P = 0.769, Fig. 6). There was high heterogeneity between
+the included studies (I2 = 76.5%, P = 0.005), and thus, a
+random-effect model was performed.
+The occurrence of itching
+The occurrence of itching was presented in three stud-
+ies. Compared with the FNB group, ITM was associated
+with an increase of the occurrence of itching (RR = 2.50,
+95% CI 1.05, 5.93, P = 0.038, Fig. 7). There was a high
+heterogeneity (I2 = 61.8%, P = 0.073) among the
+included studies, and thus, a random-effects model was
+performed.
+Fig. 2 The risk of bias graph
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+Page 4 of 8
+
+Subgroup analysis and dose-response relationship
+Subgroup analysis was conducted according to the type
+of FNB (CFNB or SFNB). The results are shown in
+Additional file 1 and indicate that there was no signifi-
+cant difference between the CFNB and SFNB in terms of
+VAS at 6, 12 and 24 h.
+Discussion
+This
+meta-analysis
+aimed
+to
+illustrate
+the
+optimal
+method of pain control in TKA patients using ITM and
+FNB. Pooled results indicated that the ITM group had
+lower pain scores at 6, 12, 24, 48 and 72 h after TKA.
+Furthermore, ITM was associated with less total mor-
+phine consumption at 12, 24 and 48 h after TKA.
+However, ITM was associated with an increase of the
+occurrence of itching. There was no significant differ-
+ence in the occurrence of PONV after TKA. A major
+strength of this meta-analysis was that we comprehen-
+sively searched the electronic databases and used a rigor-
+ous statistical calculation. A total of five relevant studies
+were included, and the risk of bias was relatively high.
+TKA is characterized by severe postoperative pain and
+morphine-related complications. A meta-analysis has
+identified that the administration of FNB was associated
+Fig. 3 Risk of bias summary of included randomized controlled trials. +, no bias; −, bias;?, bias unknown
+Fig. 4 Forest plots of the included studies comparing the VAS at 6, 12, 24, 48 and 72 h
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+Page 5 of 8
+
+with a reduction in pain intensity after TKA [5]. FNB
+has been identified as an effective method for decreasing
+postoperative pain and morphine consumption after
+TKA. Alternatively, there is solid evidence supporting
+the use of ITM [16, 17]. Currently, there is no consensus
+regarding which methods are more effective after TKA
+surgery. Thus, we performed this meta-analysis to pro-
+vide summary evidence for surgeons for a better choice
+of pain control following TKA. The current meta-analysis
+indicated that ITM was more effective than FNB at 6, 12,
+24, 48 and 72 h after TKA. The doses of ITM ranged from
+0.1 to 0.5 mg [18]. A meta-analysis showed that the rate of
+episodes of respiratory depression (doses <0.3 mg) was
+equal to that of the systemic opioids group [19]. The dose
+of morphine in the ITM group in the meta-analysis ranged
+from 0.1 to 0.3 mg, and this may be due to heterogeneity
+Fig. 5 Forest plots of the included studies comparing the total morphine consumption at 12, 24 and 48h
+Fig. 6 Forest plots of the included studies comparing the occurrence of PONV
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+Page 6 of 8
+
+in the sources of different studies. Meanwhile, two studies
+performed the CFNB, and the remaining three studies
+performed the SFNB.
+Since pain intensity was decreased in the ITM group,
+morphine consumption as a supplement for pain control
+was decreased correspondingly. Pooled results indicated
+that the ITM group was associated with a reduction of
+total morphine consumption at 12 h by 1.17 mg
+(WMD = −1.17, 95% CI −1.61, −0.73, P = 0.000) and
+3.96 mg at 24 h (WMD = −3.96, 95% CI −4.43, −3.48,
+P = 0.000) and 48 h (WMD = −2.76, 95% CI −3.72,
+−1.80, P = 0.000). Li et al. [7] found that total morphine
+consumption in the ITM group was less than in the
+FNB group, at appropriately 0.84 mg. Chang et al. [20]
+reported that the addition of IT morphine 0.1 mg to
+continuous femoral 3-in-1 nerve block improves postop-
+erative analgesia and morphine consumption after TKA.
+Another issue that must be addressed is that FNB
+requires the use of an ultrasound machine and a special
+needle, which add to the cost. Additionally, another
+anaesthetist is needed to perform FNB, and thus, it may
+add to the total operation time. In this regard, ITM is
+very cost effective, time-saving and a relatively simple
+technique.
+There were a total of six limitations in this meta-
+analysis: (1) only five RCTs were included, which may
+have affected the precision of the effect size estimations;
+(2) follow-up in the included studies ranged from 24 h to
+6 months, and the relatively short-term follow-up may
+underestimate the complication rate; (3) the dosage of
+ITM differed between the studies, and although a sub-
+group analysis was conducted to decrease heterogeneity,
+that could affect the precision of the results; (4) the
+dosage, drugs and type of FNB differed between the stud-
+ies, which could affect the precision of the results; (5)
+multiple analgesic approaches differed from one another,
+and consistent multiple analgesic approaches are needed
+to identify the most effective pain control method; and (6)
+publication bias was not performed due to the limited
+number of included studies, and there was potential publi-
+cation bias.
+Conclusion
+In conclusion, some immediate analgesic efficacy and
+opioid-sparing effects were obtained with the adminis-
+tration of ITM when compared with FNB. Complica-
+tions of itching in the ITM group were greater than in
+the FNB group. Because the sample size and the number
+of included studies were limited, a multi-centre RCT is
+needed to identify the effects of ITM in reducing acute
+pain following TKA surgery.
+Additional file
+Additional file 1: Subgroup analysis results of VAS score. (DOCX 6040 kb)
+Abbreviations
+CFNB: Continuous femoral nerve block; CI: Confidence interval; DVT: Deep
+venous thrombosis; FNB: Femoral nerve block; ITM: Intrathecal morphine;
+NRS: Numerical rating scale; PONV: Postoperative nausea and vomiting;
+PRISMA: Preferred Reporting Items for Systematic Reviews and Meta-analyses;
+RCTs: Randomized controlled trials; RR: Relative risk; SD: Standard deviation;
+SFNB: Single shot femoral nerve block; TKA: Total knee arthroplasty; VAS: Visual
+analogue scale; WMD: Weight mean difference
+Acknowledgements
+We thank Aaberish, Dong Lin and Yong-long Liu for searching the French,
+German, Spanish and Italian literatures.
+Fig. 7 Forest plots of the included studies comparing the occurrence of itching
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+Page 7 of 8
+
+Funding
+There is no funding for this article.
+Availability of data and materials
+We state that the data will not be shared since all the raw data are present
+in the figures included in the article.
+Authors’ contributions
+TY and XT conceived the study design. QHW and HZ performed the study,
+collected the data and contributed to the study design. TY and QHW prepared
+the manuscript. HZ and TY edited the manuscript. All authors read and approved
+the final manuscript.
+Ethics approval and consent to participate
+None
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Received: 5 April 2017 Accepted: 18 July 2017
+References
+1.
+Keijsers R, van den Bekerom M, van Delft R, van Lotten M, Rademakers M,
+Nolte PA. Continuous local infiltration analgesia after TKA: a meta-analysis. J
+Knee Surg. 2016;29(4):310–21.
+2.
+Sun XL, Zhao ZH, Ma JX, et al. Continuous local infiltration analgesia for
+pain control after total knee arthroplasty: a meta-analysis of randomized
+controlled trials. Medicine (Baltimore). 2015;94(45):e2005.
+3.
+Dong J, Li W, Wang Y. The effect of pregabalin on acute postoperative pain
+in patients undergoing total knee arthroplasty: a meta-analysis. Int J Surg.
+2016;34:148–60.
+4.
+Kehlet H, Holte K. Effect of postoperative analgesia on surgical outcome. Br
+J Anaesth. 2001;87(1):62–72.
+5.
+Chan EY, Fransen M, Parker DA, Assam PN, Chua N. Femoral nerve blocks
+for acute postoperative pain after knee replacement surgery. Cochrane
+Database Syst Rev. 2014;13(5):Cd009941.
+6.
+Fischer HB, Simanski CJ, Sharp C, et al. A procedure-specific systematic
+review and consensus recommendations for postoperative analgesia
+following total knee arthroplasty. Anaesthesia. 2008;63(10):1105–23.
+7.
+Li XM, Huang CM, Zhong CF. Intrathecal morphine verse femoral nerve
+block for pain control in total knee arthroplasty: a meta-analysis from
+randomized control trials. Int J Surg. 2016;32:89–98.
+8.
+Mohamed, A. A., Maghraby, H. H., Abdelghaffar, H. S. Comparison of
+combined intrathecal morphine and sonar-guided single shot femoral
+nerve block vs. either technique alone for postoperative analgesia in
+patients undergoing total knee replacement surgery. (2016).
+9.
+Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for reporting
+systematic reviews and meta-analyses of studies that evaluate healthcare
+interventions: explanation and elaboration. BMJ. 2009;339:b2700.
+10.
+Wang C, Cai X-Z, Yan S-G. Comparison of periarticular multimodal drug
+injection and femoral nerve block for postoperative pain management in
+total knee arthroplasty: a systematic review and meta-analysis. The Journal
+of arthroplasty. 2015;30(7):1281–6.
+11.
+GS, H. J. Cochrane handbook for systematic reviews of interventions version
+5.1.0. [http://handbook.cochrane.org/]. Accessed 2011.
+12.
+Frassanito L, Vergari A, Zanghi F, Messina A, Bitondo M, Antonelli M. Post-operative
+analgesia following total knee arthroplasty: comparison of low-dose intrathecal
+morphine and single-shot ultrasound-guided femoral nerve block: a randomized,
+single blinded, controlled study. Eur Rev Med Pharmacol Sci. 2010;14(7):589–96.
+13.
+Olive DJ, Barrington MJ, Simone SA, Kluger R. A randomised controlled trial
+comparing three analgesia regimens following total knee joint replacement:
+continuous femoral nerve block, intrathecal morphine or both. Anaesth
+Intensive Care. 2015;43(4):454–60.
+14.
+Sites BD, Beach M, Gallagher JD, Jarrett RA, Sparks MB, Lundberg CJ. A single
+injection ultrasound-assisted femoral nerve block provides side effect-sparing
+analgesia when compared with intrathecal morphine in patients undergoing
+total knee arthroplasty. Anesth Analg. 2004;99(5):1539–43. table of contents
+15.
+Tarkkila P, Tuominen M, Huhtala J, Lindgren L. Comparison of intrathecal
+morphine and continuous femoral 3-in-1 block for pain after major knee
+surgery under spinal anaesthesia. Eur J Anaesthesiol. 1998;15(1):6–9.
+16.
+Karlsen AP, Wetterslev M, Hansen SE, Hansen MS, Mathiesen O, Dahl JB.
+Postoperative pain treatment after total knee arthroplasty: a systematic
+review. PLoS One. 2017;12(3):e0173107.
+17.
+Kilickaya R, Orak Y, Balci MA, Balci F, Unal I. Comparison of the effects of
+intrathecal fentanyl and intrathecal morphine on pain in elective total knee
+replacement surgery. Pain Res Manag. 2016;2016:3256583.
+18.
+Mugabure Bujedo B. A clinical approach to neuraxial morphine for the
+treatment of postoperative pain. Pain Res Treat. 2012;2012:612145.
+19.
+Gehling M, Tryba M. Risks and side-effects of intrathecal morphine combined
+with spinal anaesthesia: a meta-analysis. Anaesthesia. 2009;64(6):643–51.
+20.
+Chang KP, Cho CK, Shin HH, Cho JH. The effect of intrathecal morphine
+added to continuous femoral 3-in-1 nerve block for analgesia after total
+knee replacement. Korean Journal of Anesthesiology. 2008;54(5):544–51.
+• We accept pre-submission inquiries
+• Our selector tool helps you to find the most relevant journal
+• We provide round the clock customer support
+• Convenient online submission
+• Thorough peer review
+• Inclusion in PubMed and all major indexing services
+• Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submit
+Submit your next manuscript to BioMed Central
+and we will help you at every step:
+Tang et al. Journal of Orthopaedic Surgery and Research (2017) 12:125
+Page 8 of 8
+

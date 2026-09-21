@@ -1,0 +1,8 @@
+### Instruction
+Answer this general health-information question clearly.
+
+### Input
+What is a vaccine?
+
+### Response
+A vaccine trains the immune system to recognize a specific infection and respond to it. Vaccines can reduce the risk of illness and complications from certain infections.
